@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.0.113
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1717507383281
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1717611468867
+  login: 1717611329967
+money: '0'
+last-account-name: mirco54654
+lastlocation:
+  world: 2e27cace-9704-4eb3-ae17-857aa463d1e0
+  world-name: spawn
+  x: 2.0823617574045716
+  y: 130.0625
+  z: 5.5462405368659295
+  yaw: 89.84994506835938
+  pitch: -2.4671459197998047
+logoutlocation:
+  world: ae60d231-f793-4257-b0fc-331750f5e8ce
+  world-name: world
+  x: 482.3284596440387
+  y: -15.0
+  z: -826.5627727669585
+  yaw: -40.77244186401367
+  pitch: 33.25812911987305

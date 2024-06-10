@@ -1,0 +1,7 @@
+material: BLAZE_ROD
+name: "&6Wand of Wonders"
+lore:
+  - "&7A mystical wand with the power to command the elements."
+enchants:
+  - PROTECTION_ENVIRONMENTAL:4
+hide-enchants: true

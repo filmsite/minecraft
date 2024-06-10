@@ -1,0 +1,583 @@
+16:30:34 [INFO] Using standard Java JCE cipher.
+16:30:34 [INFO] Using standard Java compressor.
+16:30:34 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.3-SNAPSHOT:18eae8a:1842
+16:30:34 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+
+16:30:34 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+
+16:30:34 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+
+16:30:34 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+
+16:30:34 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+
+16:30:34 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+16:30:34 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+16:30:34 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+16:30:34 [INFO] Loaded plugin AdvancedBan version 2.3.0 by Leoko
+16:30:35 [INFO] Loaded plugin VulcanBungee version 1.0.6 by frep
+16:30:35 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+16:30:35 [INFO] [BungeePerms] loading permissions ...
+16:30:35 [INFO] [BungeePerms] permissions loaded
+16:30:35 [INFO] Loaded plugin BungeePerms version 4.0 dev #143 by wea_ondara
+16:30:35 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+16:30:35 [INFO] Loaded plugin EnderSS version 1.1.2 by Endxxr
+16:30:35 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+16:30:35 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+16:30:35 [INFO] Loaded plugin BanManager version 7.9.0 by confuser
+16:30:35 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+16:30:35 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+16:30:35 [INFO] §f[AdvancedBan] No offline permission support through LuckPerms
+16:30:35 [SEVERE] Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary.
+
+16:30:35 [INFO] HikariPool-1 - Starting...
+16:30:36 [SEVERE] HikariPool-1 - Exception during pool initialization.
+com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:815)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:438)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:189)
+	at me.leoko.advancedban.shaded.com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at me.leoko.advancedban.shaded.com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at me.leoko.advancedban.shaded.com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at me.leoko.advancedban.shaded.com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at me.leoko.advancedban.shaded.com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	at me.leoko.advancedban.shaded.com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81)
+	at me.leoko.advancedban.utils.DynamicDataSource.generateDataSource(DynamicDataSource.java:37)
+	at me.leoko.advancedban.manager.DatabaseManager.setup(DatabaseManager.java:51)
+	at me.leoko.advancedban.Universal.setup(Universal.java:72)
+	at me.leoko.advancedban.bungee.BungeeMain.onEnable(BungeeMain.java:32)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugins(PluginManager.java:266)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:298)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:104)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:149)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:165)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:88)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:120)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:935)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:805)
+	... 18 more
+Caused by: java.net.ConnectException: Connection refused: getsockopt
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:682)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:542)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:592)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:752)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:153)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:62)
+	... 21 more
+16:30:36 [INFO] §8[§cAdvancedBan§8] §7Failed enabling database-manager...
+16:30:36 [INFO] §8[§cAdvancedBan§8] §7An unexpected error has occurred connecting to the database
+Check if your MySQL data is correct and if your MySQL-Server is online
+Please check the plugins/AdvancedBan/logs/§7latest.log§7 file and report this error in: §7https://github.com/DevLeoko/AdvancedBan/issues§7
+16:30:37 [INFO] §f
+ 
+§8[]=====[§7Enabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7MySQL (external)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8| §cUpdate:
+§8|   §7You have the newest version
+§8[]================================[]§f
+ 
+16:30:37 [INFO] Enabled plugin AdvancedBan version 2.3.0 by Leoko
+16:30:37 [INFO] Enabled plugin VulcanBungee version 1.0.6 by frep
+16:30:37 [INFO] [BungeePerms] Activating BungeePerms ...
+16:30:37 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+16:30:37 [INFO] Enabled plugin BungeePerms version 4.0 dev #143 by wea_ondara
+16:30:37 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+16:30:37 [INFO] [EnderSS] §8§l§m------------------
+16:30:37 [INFO] [EnderSS] 
+16:30:37 [INFO] [EnderSS] §5§lEnderSS §8§l» §d§l1.1.1 §5by Endxxr
+16:30:37 [INFO] [EnderSS] §8Running on BUNGEECORD
+16:30:37 [INFO] [EnderSS] Enabling...
+16:30:37 [INFO] [EnderSS] 
+16:30:37 [INFO] [EnderSS] Checking for updates...
+16:30:37 [INFO] [EnderSS] Checking for config updates...
+16:30:37 [INFO] [EnderSS] Enabled.
+16:30:37 [INFO] [EnderSS] §8§l§m------------------
+16:30:37 [INFO] Enabled plugin EnderSS version 1.1.2 by Endxxr
+16:30:37 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+16:30:37 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+16:30:37 [WARNING] [EnderSS] There is a new version available: 1.1.2
+16:30:38 [INFO] bm-local - Starting...
+16:30:39 [SEVERE] bm-local - Exception during pool initialization.
+me.confuser.banmanager.common.h2.jdbc.JdbcSQLNonTransientConnectionException: (Message 90020 not found) [90020-200]
+	at me.confuser.banmanager.common.h2.message.DbException.getJdbcSQLException(DbException.java:622)
+	at me.confuser.banmanager.common.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	at me.confuser.banmanager.common.h2.message.DbException.get(DbException.java:194)
+	at me.confuser.banmanager.common.h2.mvstore.db.MVTableEngine$Store.convertIllegalStateException(MVTableEngine.java:206)
+	at me.confuser.banmanager.common.h2.mvstore.db.MVTableEngine$Store.open(MVTableEngine.java:182)
+	at me.confuser.banmanager.common.h2.mvstore.db.MVTableEngine.init(MVTableEngine.java:103)
+	at me.confuser.banmanager.common.h2.engine.Database.getPageStore(Database.java:2659)
+	at me.confuser.banmanager.common.h2.engine.Database.open(Database.java:675)
+	at me.confuser.banmanager.common.h2.engine.Database.openDatabase(Database.java:307)
+	at me.confuser.banmanager.common.h2.engine.Database.<init>(Database.java:301)
+	at me.confuser.banmanager.common.h2.engine.Engine.openSession(Engine.java:74)
+	at me.confuser.banmanager.common.h2.engine.Engine.openSession(Engine.java:192)
+	at me.confuser.banmanager.common.h2.engine.Engine.createSessionAndValidate(Engine.java:171)
+	at me.confuser.banmanager.common.h2.engine.Engine.createSession(Engine.java:166)
+	at me.confuser.banmanager.common.h2.engine.Engine.createSession(Engine.java:29)
+	at me.confuser.banmanager.common.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:340)
+	at me.confuser.banmanager.common.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:173)
+	at me.confuser.banmanager.common.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:152)
+	at me.confuser.banmanager.common.h2.Driver.connect(Driver.java:69)
+	at me.confuser.banmanager.common.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:121)
+	at me.confuser.banmanager.common.hikari.pool.PoolBase.newConnection(PoolBase.java:364)
+	at me.confuser.banmanager.common.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at me.confuser.banmanager.common.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476)
+	at me.confuser.banmanager.common.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561)
+	at me.confuser.banmanager.common.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at me.confuser.banmanager.common.hikari.HikariDataSource.getConnection(HikariDataSource.java:112)
+	at me.confuser.banmanager.common.ormlite.jdbc.DataSourceConnectionSource.initialize(DataSourceConnectionSource.java:104)
+	at me.confuser.banmanager.common.ormlite.jdbc.DataSourceConnectionSource.<init>(DataSourceConnectionSource.java:71)
+	at me.confuser.banmanager.common.BanManagerPlugin.createConnection(BanManagerPlugin.java:340)
+	at me.confuser.banmanager.common.BanManagerPlugin.setupConnections(BanManagerPlugin.java:277)
+	at me.confuser.banmanager.common.BanManagerPlugin.enable(BanManagerPlugin.java:168)
+	at me.confuser.banmanager.bungee.BMBungeePlugin.onEnable(BMBungeePlugin.java:57)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugins(PluginManager.java:266)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:298)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+Caused by: java.lang.IllegalStateException: The file is locked: nio:C:/Users/mirco/Desktop/server3/bungee/plugins/BanManager/local_bans.mv.db [1.4.200/7]
+	at me.confuser.banmanager.common.h2.mvstore.DataUtils.newIllegalStateException(DataUtils.java:950)
+	at me.confuser.banmanager.common.h2.mvstore.FileStore.open(FileStore.java:172)
+	at me.confuser.banmanager.common.h2.mvstore.MVStore.<init>(MVStore.java:381)
+	at me.confuser.banmanager.common.h2.mvstore.MVStore$Builder.open(MVStore.java:3579)
+	at me.confuser.banmanager.common.h2.mvstore.db.MVTableEngine$Store.open(MVTableEngine.java:170)
+	... 31 more
+16:30:39 [SEVERE] me.confuser.banmanager.common.h2.jdbc.JdbcSQLNonTransientConnectionException: (Message 90020 not found) [90020-200]
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.h2.message.DbException.getJdbcSQLException(DbException.java:622)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.h2.message.DbException.get(DbException.java:194)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.h2.mvstore.db.MVTableEngine$Store.convertIllegalStateException(MVTableEngine.java:206)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.h2.mvstore.db.MVTableEngine$Store.open(MVTableEngine.java:182)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.h2.mvstore.db.MVTableEngine.init(MVTableEngine.java:103)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.h2.engine.Database.getPageStore(Database.java:2659)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.h2.engine.Database.open(Database.java:675)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.h2.engine.Database.openDatabase(Database.java:307)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.h2.engine.Database.<init>(Database.java:301)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.h2.engine.Engine.openSession(Engine.java:74)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.h2.engine.Engine.openSession(Engine.java:192)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.h2.engine.Engine.createSessionAndValidate(Engine.java:171)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.h2.engine.Engine.createSession(Engine.java:166)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.h2.engine.Engine.createSession(Engine.java:29)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:340)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:173)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:152)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.h2.Driver.connect(Driver.java:69)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:121)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.hikari.pool.PoolBase.newConnection(PoolBase.java:364)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.hikari.HikariDataSource.getConnection(HikariDataSource.java:112)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.ormlite.jdbc.DataSourceConnectionSource.initialize(DataSourceConnectionSource.java:104)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.ormlite.jdbc.DataSourceConnectionSource.<init>(DataSourceConnectionSource.java:71)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.BanManagerPlugin.createConnection(BanManagerPlugin.java:340)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.BanManagerPlugin.setupConnections(BanManagerPlugin.java:277)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.BanManagerPlugin.enable(BanManagerPlugin.java:168)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.bungee.BMBungeePlugin.onEnable(BMBungeePlugin.java:57)
+
+16:30:39 [SEVERE] 	at net.md_5.bungee.api.plugin.PluginManager.enablePlugins(PluginManager.java:266)
+
+16:30:39 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:298)
+
+16:30:39 [SEVERE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+
+16:30:39 [SEVERE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+
+16:30:39 [SEVERE] Caused by: java.lang.IllegalStateException: The file is locked: nio:C:/Users/mirco/Desktop/server3/bungee/plugins/BanManager/local_bans.mv.db [1.4.200/7]
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.h2.mvstore.DataUtils.newIllegalStateException(DataUtils.java:950)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.h2.mvstore.FileStore.open(FileStore.java:172)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.h2.mvstore.MVStore.<init>(MVStore.java:381)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.h2.mvstore.MVStore$Builder.open(MVStore.java:3579)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.h2.mvstore.db.MVTableEngine$Store.open(MVTableEngine.java:170)
+
+16:30:39 [SEVERE] 	... 31 more
+
+16:30:39 [SEVERE] java.lang.Exception: An error occurred attempting to make a database connection, please see stack trace below
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.common.BanManagerPlugin.enable(BanManagerPlugin.java:175)
+
+16:30:39 [SEVERE] 	at me.confuser.banmanager.bungee.BMBungeePlugin.onEnable(BMBungeePlugin.java:57)
+
+16:30:39 [SEVERE] 	at net.md_5.bungee.api.plugin.PluginManager.enablePlugins(PluginManager.java:266)
+
+16:30:39 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:298)
+
+16:30:39 [SEVERE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+
+16:30:39 [SEVERE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+
+16:30:39 [INFO] Enabled plugin BanManager version 7.9.0 by confuser
+16:30:39 [WARNING] Could not bind to host /192.168.0.113:25565
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:565)
+	at java.base/sun.nio.ch.ServerSocketChannelImpl.netBind(ServerSocketChannelImpl.java:344)
+	at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:301)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:141)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:562)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:600)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:579)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:973)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:260)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:380)
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:173)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:166)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:569)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+10:23:02 [INFO] Using standard Java JCE cipher.
+10:23:02 [INFO] Using standard Java compressor.
+10:23:02 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.3-SNAPSHOT:18eae8a:1842
+10:23:03 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+
+10:23:03 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+
+10:23:03 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+
+10:23:03 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+
+10:23:03 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+
+10:23:03 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+10:23:04 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+10:23:06 [INFO] Loaded plugin LuckPerms version 5.4.130 by Luck
+10:23:06 [INFO] Loaded plugin VulcanBungee version 1.0.6 by frep
+10:23:06 [WARNING] Yamler (required by BungeeAdminTools) is unavailable
+10:23:06 [WARNING] Failed to enable BungeeAdminTools
+10:23:06 [INFO] Loaded plugin FairPlayMinecraft version 5.9.2 by Lubenica98
+10:23:06 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+10:23:06 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+10:23:06 [INFO] Loaded plugin AdvancedBan version 2.3.0 by Leoko
+10:23:06 [INFO] Loaded plugin TAB version 4.1.5 by NEZNAMY
+10:23:06 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+10:23:07 [INFO] [BungeePerms] loading permissions ...
+10:23:07 [INFO] [BungeePerms] permissions loaded
+10:23:07 [INFO] Loaded plugin BungeePerms version 4.0 dev #143 by wea_ondara
+10:23:07 [WARNING] Error loading plugin LightAntiCheat
+java.lang.NoClassDefFoundError: org/bukkit/plugin/java/JavaPlugin
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1023)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at net.md_5.bungee.api.plugin.PluginClassloader.findClass(PluginClassloader.java:152)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:592)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:66)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:59)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugin(PluginManager.java:341)
+	at net.md_5.bungee.api.plugin.PluginManager.loadPlugins(PluginManager.java:251)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:284)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+Caused by: java.lang.ClassNotFoundException: org.bukkit.plugin.java.JavaPlugin
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:103)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:59)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	... 13 more
+10:23:07 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+10:23:07 [INFO] Loaded plugin EnderSS version 1.1.2 by Endxxr
+10:23:07 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+10:23:07 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+10:23:10 [INFO] §b       §3 __    
+10:23:10 [INFO] §b  |    §3|__)   §2LuckPerms§r §bv5.4.130
+10:23:10 [INFO] §b  |___ §3|      §8Running on BungeeCord - BungeeCord
+10:23:10 [INFO] [LuckPerms] Loading configuration...
+10:23:10 [INFO] 
+10:23:12 [INFO] [LuckPerms] Loading storage provider... [H2]
+10:23:13 [SEVERE] [LuckPerms] Failed to init storage implementation
+org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database may be already in use: "C:/Users/mirco/Desktop/server3/bungee/plugins/LuckPerms/luckperms-h2-v2.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:678)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.get(DbException.java:212)
+	at org.h2.mvstore.db.Store.convertMVStoreException(Store.java:168)
+	at org.h2.mvstore.db.Store.<init>(Store.java:145)
+	at org.h2.engine.Database.<init>(Database.java:324)
+	at org.h2.engine.Engine.openSession(Engine.java:92)
+	at org.h2.engine.Engine.openSession(Engine.java:222)
+	at org.h2.engine.Engine.createSession(Engine.java:201)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:338)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:122)
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at me.lucko.luckperms.common.storage.implementation.sql.connection.file.H2ConnectionFactory.createConnection(H2ConnectionFactory.java:77)
+	at me.lucko.luckperms.common.storage.implementation.sql.connection.file.FlatfileConnectionFactory.getConnection(FlatfileConnectionFactory.java:64)
+	at me.lucko.luckperms.common.storage.implementation.sql.connection.file.H2ConnectionFactory.getConnection(H2ConnectionFactory.java:43)
+	at me.lucko.luckperms.common.storage.implementation.sql.SqlStorage.init(SqlStorage.java:165)
+	at me.lucko.luckperms.common.storage.Storage.init(Storage.java:114)
+	at me.lucko.luckperms.common.storage.StorageFactory.getInstance(StorageFactory.java:87)
+	at me.lucko.luckperms.common.plugin.AbstractLuckPermsPlugin.enable(AbstractLuckPermsPlugin.java:201)
+	at me.lucko.luckperms.bungee.LPBungeeBootstrap.onEnable(LPBungeeBootstrap.java:168)
+	at me.lucko.luckperms.bungee.loader.BungeeLoaderPlugin.onEnable(BungeeLoaderPlugin.java:50)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugins(PluginManager.java:266)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:298)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+Caused by: org.h2.mvstore.MVStoreException: The file is locked: C:/Users/mirco/Desktop/server3/bungee/plugins/LuckPerms/luckperms-h2-v2.mv.db [2.1.214/7]
+	at org.h2.mvstore.DataUtils.newMVStoreException(DataUtils.java:1004)
+	at org.h2.mvstore.FileStore.open(FileStore.java:178)
+	at org.h2.mvstore.FileStore.open(FileStore.java:128)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:452)
+	at org.h2.mvstore.MVStore$Builder.open(MVStore.java:4082)
+	at org.h2.mvstore.db.Store.<init>(Store.java:136)
+	... 22 more
+10:23:14 [INFO] [LuckPerms] Loading internal permission managers...
+10:23:14 [INFO] [LuckPerms] Performing initial data load...
+10:23:15 [SEVERE] java.util.concurrent.CompletionException: org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database may be already in use: "C:/Users/mirco/Desktop/server3/bungee/plugins/LuckPerms/luckperms-h2-v2.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+
+10:23:15 [SEVERE] 	at me.lucko.luckperms.common.storage.Storage.lambda$future$1(Storage.java:103)
+
+10:23:15 [SEVERE] 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+
+10:23:15 [INFO] [LuckPerms] Successfully enabled. (took 7424ms)
+10:23:15 [SEVERE] 	at net.md_5.bungee.scheduler.BungeeTask.run(BungeeTask.java:63)
+
+10:23:15 [SEVERE] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+
+10:23:15 [SEVERE] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+
+10:23:15 [SEVERE] 	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+10:23:15 [SEVERE] Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database may be already in use: "C:/Users/mirco/Desktop/server3/bungee/plugins/LuckPerms/luckperms-h2-v2.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+
+10:23:15 [SEVERE] 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:678)
+
+10:23:15 [SEVERE] 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+
+10:23:15 [SEVERE] 	at org.h2.message.DbException.get(DbException.java:212)
+
+10:23:15 [SEVERE] 	at org.h2.mvstore.db.Store.convertMVStoreException(Store.java:168)
+
+10:23:15 [SEVERE] 	at org.h2.mvstore.db.Store.<init>(Store.java:145)
+
+10:23:15 [SEVERE] 	at org.h2.engine.Database.<init>(Database.java:324)
+
+10:23:15 [INFO] [FairPlayMinecraft] FairPlayMinecraft loaded!
+10:23:15 [SEVERE] 	at org.h2.engine.Engine.openSession(Engine.java:92)
+
+10:23:15 [SEVERE] 	at org.h2.engine.Engine.openSession(Engine.java:222)
+
+10:23:15 [SEVERE] 	at org.h2.engine.Engine.createSession(Engine.java:201)
+
+10:23:15 [SEVERE] 	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:338)
+
+10:23:15 [SEVERE] 	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:122)
+
+10:23:15 [SEVERE] 	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+
+10:23:15 [SEVERE] 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+
+10:23:15 [SEVERE] 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+
+10:23:15 [SEVERE] 	at me.lucko.luckperms.common.storage.implementation.sql.connection.file.H2ConnectionFactory.createConnection(H2ConnectionFactory.java:77)
+
+10:23:15 [SEVERE] 	at me.lucko.luckperms.common.storage.implementation.sql.connection.file.FlatfileConnectionFactory.getConnection(FlatfileConnectionFactory.java:64)
+
+10:23:15 [SEVERE] 	at me.lucko.luckperms.common.storage.implementation.sql.connection.file.H2ConnectionFactory.getConnection(H2ConnectionFactory.java:43)
+
+10:23:15 [SEVERE] 	at me.lucko.luckperms.common.storage.implementation.sql.SqlStorage.loadAllGroups(SqlStorage.java:496)
+
+10:23:15 [SEVERE] 	at me.lucko.luckperms.common.storage.Storage.lambda$loadAllGroups$11(Storage.java:202)
+
+10:23:15 [SEVERE] 	at me.lucko.luckperms.common.storage.Storage.lambda$future$1(Storage.java:98)
+
+10:23:15 [SEVERE] 	... 5 more
+
+10:23:15 [SEVERE] Caused by: org.h2.mvstore.MVStoreException: The file is locked: C:/Users/mirco/Desktop/server3/bungee/plugins/LuckPerms/luckperms-h2-v2.mv.db [2.1.214/7]
+
+10:23:15 [SEVERE] 	at org.h2.mvstore.DataUtils.newMVStoreException(DataUtils.java:1004)
+
+10:23:15 [SEVERE] 	at org.h2.mvstore.FileStore.open(FileStore.java:178)
+
+10:23:15 [SEVERE] 	at org.h2.mvstore.FileStore.open(FileStore.java:128)
+
+10:23:15 [SEVERE] 	at org.h2.mvstore.MVStore.<init>(MVStore.java:452)
+
+10:23:15 [SEVERE] 	at org.h2.mvstore.MVStore$Builder.open(MVStore.java:4082)
+
+10:23:15 [SEVERE] 	at org.h2.mvstore.db.Store.<init>(Store.java:136)
+
+10:23:15 [SEVERE] 	... 20 more
+
+10:23:15 [INFO] Enabled plugin LuckPerms version 5.4.130 by Luck
+10:23:15 [INFO] Enabled plugin VulcanBungee version 1.0.6 by frep
+10:23:15 [SEVERE] java.net.BindException: Address already in use: bind
+
+10:23:15 [SEVERE] 	at java.base/sun.nio.ch.Net.bind0(Native Method)
+
+10:23:15 [SEVERE] 	at java.base/sun.nio.ch.Net.bind(Net.java:565)
+
+10:23:15 [SEVERE] 	at java.base/sun.nio.ch.Net.bind(Net.java:554)
+
+10:23:15 [SEVERE] 	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+
+10:23:15 [SEVERE] 	at java.base/java.net.ServerSocket.bind(ServerSocket.java:390)
+
+10:23:15 [SEVERE] 	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:277)
+
+10:23:15 [SEVERE] 	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:170)
+
+10:23:15 [SEVERE] 	at ovh.minex.hooks.Bungee.onEnable(Bungee.java:48)
+
+10:23:15 [SEVERE] 	at net.md_5.bungee.api.plugin.PluginManager.enablePlugins(PluginManager.java:266)
+
+10:23:15 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:298)
+
+10:23:15 [SEVERE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+
+10:23:15 [SEVERE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+
+10:23:15 [SEVERE] Task BungeeTask(sched=net.md_5.bungee.scheduler.BungeeScheduler@5c87bfe2, id=20, owner=ovh.minex.hooks.Bungee@267cde2e, task=ovh.minex.hooks.Bungee$1@609e57da, delay=0, period=0, running=true) encountered an exception
+java.lang.NullPointerException: Cannot invoke "java.net.ServerSocket.accept()" because "ovh.minex.hooks.Bungee.servSocket" is null
+	at ovh.minex.hooks.Bungee$1.run(Bungee.java:57)
+	at net.md_5.bungee.scheduler.BungeeTask.run(BungeeTask.java:63)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+10:23:15 [INFO] Enabled plugin FairPlayMinecraft version 5.9.2 by Lubenica98
+10:23:15 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+10:23:15 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+10:23:15 [INFO] §f[AdvancedBan] Offline permission support through LuckPerms active
+10:23:16 [INFO] HikariPool-1 - Starting...
+10:23:19 [SEVERE] giu 02, 2024 10:23:19 AM me.leoko.advancedban.shaded.org.hsqldb.persist.Logger logInfoEvent
+INFO: checkpointClose start
+
+10:23:19 [SEVERE] giu 02, 2024 10:23:19 AM me.leoko.advancedban.shaded.org.hsqldb.persist.Logger logInfoEvent
+INFO: checkpointClose synched
+
+10:23:19 [SEVERE] giu 02, 2024 10:23:19 AM me.leoko.advancedban.shaded.org.hsqldb.persist.Logger logInfoEvent
+INFO: checkpointClose script done
+
+10:23:19 [SEVERE] giu 02, 2024 10:23:19 AM me.leoko.advancedban.shaded.org.hsqldb.persist.Logger logInfoEvent
+INFO: checkpointClose end
+
+10:23:19 [SEVERE] giu 02, 2024 10:23:19 AM me.leoko.advancedban.shaded.com.zaxxer.hikari.pool.PoolBase getAndSetNetworkTimeout
+INFO: HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+
+10:23:19 [SEVERE] giu 02, 2024 10:23:19 AM me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource <init>
+INFO: HikariPool-1 - Start completed.
+
+10:23:22 [INFO] §f
+ 
+§8[]=====[§7Enabling AdvancedBan§8]=====[]
+§8| §cInformation:
+§8|   §cName: §7AdvancedBan
+§8|   §cDeveloper: §7Leoko
+§8|   §cVersion: §72.3.0
+§8|   §cStorage: §7HSQLDB (local)
+§8| §cSupport:
+§8|   §cGithub: §7https://github.com/DevLeoko/AdvancedBan/issues
+§8|   §cDiscord: §7https://discord.gg/ycDG6rS
+§8| §cTwitter: §7@LeokoGar
+§8| §cUpdate:
+§8|   §7You have the newest version
+§8[]================================[]§f
+ 
+10:23:22 [INFO] Enabled plugin AdvancedBan version 2.3.0 by Leoko
+10:23:24 [INFO] [TAB] §aEnabled in 1209ms
+10:23:24 [INFO] Enabled plugin TAB version 4.1.5 by NEZNAMY
+10:23:24 [INFO] [BungeePerms] Activating BungeePerms ...
+10:23:24 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+10:23:24 [INFO] Enabled plugin BungeePerms version 4.0 dev #143 by wea_ondara
+10:23:24 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+10:23:24 [INFO] [EnderSS] §8§l§m------------------
+10:23:24 [INFO] [EnderSS] 
+10:23:24 [INFO] [EnderSS] §5§lEnderSS §8§l» §d§l1.1.1 §5by Endxxr
+10:23:24 [INFO] [EnderSS] §8Running on BUNGEECORD
+10:23:24 [INFO] [EnderSS] Enabling...
+10:23:24 [INFO] [EnderSS] 
+10:23:24 [INFO] [EnderSS] Checking for updates...
+10:23:24 [INFO] [EnderSS] Checking for config updates...
+10:23:24 [INFO] [EnderSS] Enabled.
+10:23:24 [WARNING] [EnderSS] There is a new version available: 1.1.2
+10:23:24 [INFO] [EnderSS] §8§l§m------------------
+10:23:24 [INFO] Enabled plugin EnderSS version 1.1.2 by Endxxr
+10:23:24 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+10:23:25 [WARNING] Could not bind to host /192.168.0.113:25565
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:565)
+	at java.base/sun.nio.ch.ServerSocketChannelImpl.netBind(ServerSocketChannelImpl.java:344)
+	at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:301)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:141)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:562)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:600)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:579)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:973)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:260)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:380)
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:173)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:166)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:569)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1570)

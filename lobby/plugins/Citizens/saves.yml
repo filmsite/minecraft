@@ -1,0 +1,178 @@
+# Citizens NPC Storage
+
+
+
+
+
+
+last-created-npc-id: 3
+npc:
+  '1':
+    metadata:
+      cached-skin-uuid: 8f3334cb-9a12-4646-a0b6-64278fe389da
+      cached-skin-uuid-name: kitpvp
+    name: KitPVP
+    uuid: 8146512b-3fa1-498b-a22a-919f81bf4300
+    traits:
+      spawned: true
+      scoreboardtrait: {}
+      type: PLAYER
+      location:
+        bodyYaw: -274.27124
+        world: world
+        x: '4.5986'
+        y: '137.0'
+        z: '20.594'
+        yaw: '-274.2712'
+        pitch: '-2.0759'
+      skintrait:
+        fetchDefaultSkin: true
+        signature: uOG1hRDWas+PlwcAKXgrFnZ8D+WFWZL6/U+EAAsvvRysHLnUb6pC+7aS3z5rY+RjxBmYRLnhwOY3wziYuqrp59s6FYURqZB+iKUxjsz8LxoQCoAgTdHkXtEJ3CJZg5BIk6ByL3Yqa9xmQXPUoucAEB/rI75XGJvjf8zp/VX5UYvX8oUVJ7ZB794lE1vxUPH2zHDZwVdcBRP2j/bDtrLPf/6BC4pAqgA8dOqWoXmW2KIPYUSTAuukUDtCjQWpExKk9ikwQ56E8lXHLg94zqdM4bDtmBYH4+d9vNWB6Zid1rLaEXZ6WRngk7ZB0OXjtR57oQbivgz4JUKzt4JqMhL6wy3NgpAXFw0jluo8sv6SktVbtXqo/BZ7q9AZlEVoBrZ4c8tdYnTjimyFG4jtgy018+c/g8sCYGt+zRo8t449lXxlDRuLXAOXN9CI3r0WvbAoLoKJ5PPnb6V2uSSwnPL1qz0gt56J+rhz0VFq3OHDTfrdZqzsl9HEyQaKMaf4B9aY7/FsOfyilbUJiOVs+dx0h1EnuZOUTneDQX8HsgUli9AnBOB6ec+o3UR9Y0lN8MWZetc78TuwE221K9LUhmCqLdPESe9Hc2rnI6tQrG7FRKmcuuULL2GjOpKBGL/sZudINxMutd5xcr15I+LYiGVZwK8iRKdn8/IiGPiItWTgp74=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTcxNzE2MjgyNzEwNSwKICAicHJvZmlsZUlkIiA6ICI4ZjMzMzRjYjlhMTI0NjQ2YTBiNjY0Mjc4ZmUzODlkYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJLaXRQdlAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTczMjM0YmY4NGEyZjA1Yzg5MjdlNmUxYTRjYzBiZTZmNzQwMjUyZWEyMDg5MDQ4ODM2NWE3NWM2NmE0NDVkNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U3ZGZlYTE2ZGM4M2M5N2RmMDFhMTJmYWJiZDEyMTYzNTljMGNkMGVhNDJmOTk5OWI2ZTk3YzU4NDk2M2U5ODAiCiAgICB9CiAgfQp9
+        updateSkins: false
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1
+        hideErrorMessages: false
+        persistSequence: false
+        commands:
+          '0':
+            command: server pvp
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+      owner:
+        uuid: e302a0af-f995-32f0-88e6-c000cb8ca430
+      inventory: {}
+    traitnames: skintrait,type,inventory,commandtrait,mounttrait,spawned,scoreboardtrait,location,owner
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: false
+  '0':
+    metadata:
+      cached-skin-uuid: 9b0d4248-b96d-4a84-9feb-847087d16b1b
+      cached-skin-uuid-name: bedwars
+    name: BedWars
+    uuid: 01b08f76-cac6-4952-8fdb-4338519f2b16
+    traits:
+      spawned: true
+      scoreboardtrait: {}
+      type: PLAYER
+      location:
+        bodyYaw: 98.006714
+        world: world
+        x: '4.3592'
+        y: '137.0'
+        z: '23.5105'
+        yaw: '98.0067'
+        pitch: '5.0997'
+      skintrait:
+        fetchDefaultSkin: true
+        signature: uogkX8yFXqF8lyBaqvx6rX6BgvcqqUE79LNRZzlYFvbSRxfN75G5w+ej9u67TPL/KP7/36sxXZ6JEJs3UpCMgjKTN1YgtiaGQQfqfHJlfcWYErl4d2T2J2QYQWpx7bfZ59DXze3aOrGoY4znRbI2ukeB89o+kxQwEdBv5A1N5OykhAc+wqND9EmD+Qyy5J6506PJzg3o8uvOMlCnhLxwcBoSgQsZfE1UtK+qN0fiGlJI4Wy3jg+lbs708OO1ko/svZrenpN7izh1C6tpkPe+h8sE5ohg462h9ZdqenFi+H6wfSqZTfjAtkYKhSzn8cirGVOsjFiAUB4M11C9PH+nPXpsvVdkXky+gdnIat0e19MDVEAJChg8sH4Vn9Og4PWbBLb3HJW7ud76tuzyTyPpJVu6nCvddt8VX01i616waIJjJ8PU16ffHgu89ErvnHMeTeO9rHfXvXCmUiWTpb02/YSQcwPP7ckM7TxTaI5/qnSV8aixbW+K+s06woCq9tOaqDDUIjZHRJ5BXYlmqx1lx0ydlpO8gtT6mW52Mu18pspPurf81WhIU+ZjJbq7PrTZXpkWCu5AsUSo19rDmhJZ6hUmnZuvYWN2U/TegcCpzgrct4pC7WfHWFfaiDQaoZj93ECW3LwkZUbXCaQw7pzWh57kLlIFQCJEk4K4IH6wOcI=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTcxNzE2MTA2NDg2OCwKICAicHJvZmlsZUlkIiA6ICI5YjBkNDI0OGI5NmQ0YTg0OWZlYjg0NzA4N2QxNmIxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZWRXYXJzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE4MDYzYTFhNDk3MGMxYjI2N2RlN2QxYTZlNmRkMGY5NjVkNWEyZjRlMGIxMTQxNjhlZGI4ZThlMjg4N2MxMmEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMzQwYzBlMDNkZDI0YTExYjE1YThiMzNjMmE3ZTllMzJhYmIyMDUxYjI0ODFkMGJhN2RlZmQ2MzVjYTdhOTMzIgogICAgfQogIH0KfQ==
+        updateSkins: false
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1
+        hideErrorMessages: false
+        persistSequence: false
+        commands:
+          '0':
+            command: server MyServerName
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+          '1':
+            command: server bedwars
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+          '2':
+            command: server pvp
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+      owner:
+        uuid: e302a0af-f995-32f0-88e6-c000cb8ca430
+      inventory: {}
+    traitnames: skintrait,type,inventory,commandtrait,mounttrait,scoreboardtrait,spawned,location,owner
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: false
+  '3':
+    metadata:
+      cached-skin-uuid: 400169d7-3d53-4b5c-a121-cfbc23c7a56c
+      cached-skin-uuid-name: lifestealsmp
+    name: LifestealSMP
+    uuid: 8a418ee2-fea5-40f6-940f-f51845bc910d
+    traits:
+      owner:
+        uuid: e302a0af-f995-32f0-88e6-c000cb8ca430
+      spawned: true
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1
+        hideErrorMessages: false
+        persistSequence: false
+        commands:
+          '0':
+            command: server lifesteal
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+      type: PLAYER
+      inventory: {}
+      location:
+        bodyYaw: 91.34978
+        world: world
+        x: '4.5763'
+        y: '137.0'
+        z: '17.4901'
+        yaw: '91.3498'
+        pitch: '-2.9965'
+      scoreboardtrait: {}
+      skintrait:
+        fetchDefaultSkin: true
+        signature: H38/3vjmty2xQwXDLuMzs9RdQbpQKwY7Roqz5W0NqeWuxemI2GTxpSg+FUp4/OVZGu23L3+iXpx0+lNTFXDi2n890W2yBQbqpX3uKJ0fkSgUfgJRAy2NFLel6iccZTfKxrrUSJzxKQwsV+N3bOQFnxojix01YC6Ja6WUTpuzXgBYlivvcHYj0UQANy80Ll13t8nrw09EKDCaozF/AL0oNyrZJA530VMVsxCtBk+krmZMKu6URzinLrtkO4Jx0xoXyOdNzcgH9xYkBu6/st1u8+/mmeWAPcGDnYfPyRwJUhB3QzV2OmXtk0Tkxcw2GRVK0FoagMqt+G12CXbmDaribg4WA6kDl+XJ41HP9gTBteKrWGOFhMbmtqRaugzxtkhSCwKZr//KvbygCej1JAexaOLgx3Ul99gdRptqrTuYuWYnmuh0wX0r5g9acgngfDznXEd5+cfwr9YQQTUEQ7zk7rG+9w0EEWRs7cmxYustPczGipsCZQlI81PwyFpw4LiF16i++dtLpIHHdDfNLBQFPhepRiNH7pWScXK1/AI9eWh/kR94d8ws+rLuqI+OBPq1yM8063NHQLBeqljGJxUIvLVxezC24CRM8tUO2SMi/SO+qykAE8+3ormTpGKbIxpSPpDDL7+vOSTf+9ijB3yTQsYdI+S1RrM38iTbX2joePM=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTcxNzUwNTU1NjM5MCwKICAicHJvZmlsZUlkIiA6ICI0MDAxNjlkNzNkNTM0YjVjYTEyMWNmYmMyM2M3YTU2YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMaWZlc3RlYWxTTVAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDQ0YjEyMmVhMTUyMDZjODRkYjEyY2RlMWNkZDJkMjU3MDQ5MmM3ZDYyYWU0NDc2YmMxMzBkYjkyNjY5YjYzNyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9
+        updateSkins: false
+    traitnames: skintrait,type,inventory,commandtrait,mounttrait,spawned,scoreboardtrait,location,owner
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: false

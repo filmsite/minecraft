@@ -1,0 +1,239 @@
+[09:21:56] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[09:21:56] [Server thread/INFO]: Loading properties
+[09:21:56] [Server thread/INFO]: Default game type: SURVIVAL
+[09:21:57] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-21fe707-741a1bd (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[09:21:57] [Server thread/INFO]: Debug logging is disabled
+[09:21:57] [Server thread/INFO]: Using 4 threads for Netty based IO
+[09:21:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
+
+[09:21:57] [Server thread/INFO]: Generating keypair
+[09:21:57] [Server thread/INFO]: Starting Minecraft server on 192.168.0.113:25567
+[09:21:57] [Server thread/INFO]: Using default channel type
+[09:21:57] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[09:21:57] [Server thread/ERROR]: Could not load 'plugins\adventure-platform-viaversion-4.3.1-relocated.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:154) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:133) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugins(CraftServer.java:292) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:198) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Thread.java:1570) [?:?]
+Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
+	... 6 more
+[09:21:57] [Server thread/ERROR]: Could not load 'plugins\adventure-platform-viaversion-4.3.1.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:154) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:133) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugins(CraftServer.java:292) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:198) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Thread.java:1570) [?:?]
+Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
+	... 6 more
+[09:21:57] [Server thread/ERROR]: Could not load 'plugins\BungeeTabListPlus_SpongeBridge-3.6.4.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:154) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:133) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugins(CraftServer.java:292) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:198) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Thread.java:1570) [?:?]
+Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
+	... 6 more
+[09:21:57] [Server thread/ERROR]: Ambiguous plugin name `ViaVersion' for files `plugins\ViaVersion-4.10.1.jar' and `plugins\ViaVersion-2.2.3.jar' in `plugins'
+[09:21:57] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[09:21:57] [Server thread/ERROR]: Could not load 'plugins\EssentialsXChat-2.18.0.0.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Essentials
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:219) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugins(CraftServer.java:292) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:198) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Thread.java:1570) [?:?]
+[09:21:58] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.9;caf0ad9
+[09:21:58] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.10.1
+[09:21:58] [Server thread/INFO]: [ViaVersion] ViaVersion 4.10.1 is now loaded. Registering protocol transformers and injecting...
+[09:21:58] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[09:21:59] [Server thread/INFO]: [Vulcan] Loading Vulcan v2.8.3
+[09:22:00] [Server thread/INFO]: [DeluxeHub] Loading DeluxeHub v3.5.5
+[09:22:00] [Server thread/INFO]: [MaxBans] Loading MaxBans v2.7
+[09:22:00] [Server thread/INFO]: [KitPvP] Loading KitPvP v2.2.1
+[09:22:00] [Server thread/INFO]: [Freeze] Loading Freeze v1.0
+[09:22:00] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.131
+[09:22:01] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[09:22:02] [Server thread/INFO]:         __    
+
+[09:22:02] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+
+[09:22:02] [Server thread/INFO]:   |___ |      Running on Bukkit - CraftBukkit
+
+[09:22:02] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[09:22:03] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[09:22:04] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[09:22:05] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[09:22:06] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 4987ms)
+[09:22:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09:22:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[09:22:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09:22:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[09:22:06] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[09:22:06] [Server thread/INFO]: Preparing level "world"
+[09:22:06] [Server thread/INFO]: -------- World Settings For [world] --------
+[09:22:06] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:22:06] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[09:22:06] [Server thread/INFO]: Clear tick list: false
+[09:22:06] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:22:06] [Server thread/INFO]: View Distance: 10
+[09:22:06] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:22:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:22:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:22:06] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:22:06] [Server thread/INFO]: Anti X-Ray: true
+[09:22:06] [Server thread/INFO]: 	Engine Mode: 1
+[09:22:06] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[09:22:06] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[09:22:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[09:22:06] [Server thread/INFO]: Sending up to 10 chunks per packet
+[09:22:06] [Server thread/INFO]: Structure Info Saving: true
+[09:22:06] [Server thread/INFO]: Random Lighting Updates: false
+[09:22:06] [Server thread/INFO]: Max Entity Collisions: 8
+[09:22:06] [Server thread/INFO]: Max TNT Explosions: 100
+[09:22:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:22:06] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:22:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[09:22:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:22:06] [Server thread/INFO]: Mob Spawn Range: 4
+[09:22:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:22:06] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:22:06] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:22:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:22:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:22:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:22:06] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:22:06] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[09:22:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:22:06] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[09:22:06] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:22:06] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[09:22:06] [Server thread/INFO]: Clear tick list: false
+[09:22:06] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:22:06] [Server thread/INFO]: View Distance: 10
+[09:22:06] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:22:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:22:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:22:06] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:22:06] [Server thread/INFO]: Anti X-Ray: true
+[09:22:06] [Server thread/INFO]: 	Engine Mode: 1
+[09:22:06] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[09:22:06] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[09:22:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[09:22:06] [Server thread/INFO]: Sending up to 10 chunks per packet
+[09:22:06] [Server thread/INFO]: Structure Info Saving: true
+[09:22:06] [Server thread/INFO]: Random Lighting Updates: false
+[09:22:06] [Server thread/INFO]: Max Entity Collisions: 8
+[09:22:06] [Server thread/INFO]: Max TNT Explosions: 100
+[09:22:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:22:06] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:22:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[09:22:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:22:06] [Server thread/INFO]: Mob Spawn Range: 4
+[09:22:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:22:06] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:22:06] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:22:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:22:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:22:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:22:06] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:22:06] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[09:22:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:22:06] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[09:22:06] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:22:06] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[09:22:06] [Server thread/INFO]: Clear tick list: false
+[09:22:06] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:22:06] [Server thread/INFO]: View Distance: 10
+[09:22:06] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:22:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:22:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:22:06] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:22:06] [Server thread/INFO]: Anti X-Ray: true
+[09:22:06] [Server thread/INFO]: 	Engine Mode: 1
+[09:22:06] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[09:22:06] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[09:22:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[09:22:06] [Server thread/INFO]: Sending up to 10 chunks per packet
+[09:22:06] [Server thread/INFO]: Structure Info Saving: true
+[09:22:06] [Server thread/INFO]: Random Lighting Updates: false
+[09:22:06] [Server thread/INFO]: Max Entity Collisions: 8
+[09:22:06] [Server thread/INFO]: Max TNT Explosions: 100
+[09:22:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:22:06] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:22:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[09:22:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:22:06] [Server thread/INFO]: Mob Spawn Range: 4
+[09:22:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:22:06] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:22:06] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:22:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:22:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:22:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:22:06] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:22:06] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[09:22:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:22:06] [Server thread/INFO]: Preparing start region for level 0 (Seed: 0)
+[09:22:07] [Server thread/INFO]: Preparing spawn area: 41%
+[09:22:08] [Server thread/INFO]: Preparing spawn area: 69%
+[09:22:09] [Server thread/INFO]: Preparing start region for level 1 (Seed: 0)
+[09:22:10] [Server thread/INFO]: Preparing spawn area: 42%
+[09:22:11] [Server thread/INFO]: Preparing start region for level 2 (Seed: 0)
+[09:22:11] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.9;caf0ad9
+[09:22:12] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[09:22:12] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[09:22:12] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.10.1
+[09:22:12] [Server thread/INFO]: [Vulcan] Enabling Vulcan v2.8.3
+[09:22:15] [Server thread/INFO]: [Vulcan] Server Version: 1.8.8 detected!
+[09:22:15] [Server thread/INFO]: [Vulcan] BStats enabled!
+[09:22:15] [Server thread/INFO]: [DeluxeHub] Enabling DeluxeHub v3.5.5
+[09:22:15] [Server thread/INFO]: [DeluxeHub]  _   _            _          _    _ 
+[09:22:15] [Server thread/INFO]: [DeluxeHub] | \ |_ |  | | \/ |_ |_| | | |_)   _)
+[09:22:15] [Server thread/INFO]: [DeluxeHub] |_/ |_ |_ |_| /\ |_ | | |_| |_)   _)
+[09:22:15] [Server thread/INFO]: [DeluxeHub] 
+[09:22:15] [Server thread/INFO]: [DeluxeHub] Version: 3.5.5
+[09:22:15] [Server thread/INFO]: [DeluxeHub] Author: ItsLewizzz
+[09:22:15] [Server thread/INFO]: [DeluxeHub] 
+[09:22:15] [Server thread/INFO]: [DeluxeHub] Loaded custom menu 'serverselector'.
+[09:22:16] [Server thread/INFO]: [DeluxeHub] Loaded 13 plugin modules.
+[09:22:16] [Server thread/INFO]: [DeluxeHub] 
+[09:22:16] [Server thread/INFO]: [DeluxeHub] Successfully loaded in 898ms
+[09:22:16] [Server thread/INFO]: [MaxBans] Enabling MaxBans v2.7
+[09:22:16] [Server thread/INFO]: [MaxBans] Using SQLite
+[09:22:16] [Server thread/INFO]: [MaxBans] Loading from DB...
+[09:22:16] [Server thread/INFO]: [MaxBans] Loading bans
+[09:22:16] [Server thread/INFO]: [MaxBans] Loading ipbans
+[09:22:16] [Server thread/INFO]: [MaxBans] Loading mutes
+[09:22:16] [Server thread/INFO]: [MaxBans] Loading player names...
+[09:22:16] [Server thread/INFO]: [MaxBans] Loading IP History
+[09:22:16] [Server thread/INFO]: [MaxBans] Loading warn history...
+[09:22:16] [Server thread/INFO]: [MaxBans] Loading chat commands...
+[09:22:16] [Server thread/INFO]: [MaxBans] Loading history...
+[09:22:16] [Server thread/INFO]: [MaxBans] Starting DNS blacklist
+[09:22:16] [Server thread/INFO]: [MaxBans] Loading proxys...
+[09:22:16] [Server thread/INFO]: [KitPvP] Enabling KitPvP v2.2.1
+[09:22:16] [Server thread/INFO]: [KIT-PVP] Enabling KitPvP version 2.2.1...
+
+[09:22:16] [Server thread/INFO]: [KIT-PVP] Loading configuration files...
+
+[09:22:16] [Server thread/INFO]: [KIT-PVP] Loading kit files...
+
+[09:22:17] [Server thread/INFO]: [KIT-PVP] Establishing database connection...
+
+[09:22:18] [Server thread/INFO]: [KIT-PVP] Done!
+
+[09:22:18] [Server thread/INFO]: [Freeze] Enabling Freeze v1.0
+[09:22:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[09:22:19] [Server thread/INFO]: Done (12,627s)! For help, type "help" or "?"
+[09:22:19] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.8.x (47)
+[09:22:19] [Server thread/WARN]: [ViaVersion] This version of Minecraft is extremely outdated and support for it has reached its end of life. You will still be able to run Via on this Minecraft version, but we are unlikely to provide any further fixes or help with problems specific to legacy Minecraft versions. Please consider updating to give your players a better experience and to avoid issues that have long been fixed.
+[09:22:19] [Craft Scheduler Thread - 8/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[09:22:19] [Server thread/INFO]: [KIT-PVP] New version found! Please update to v2.2.3 on the Spigot page.
+
+[09:22:19] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 4.10.2, you're on: 4.10.1

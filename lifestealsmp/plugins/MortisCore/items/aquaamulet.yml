@@ -1,0 +1,5 @@
+material: TURTLE_HELMET
+name: "&bAqua Amulet"
+lore:
+  - "&7Wearing this amulet grants you the ability to breathe underwater."
+unbreakable: true

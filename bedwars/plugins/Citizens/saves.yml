@@ -1,0 +1,71 @@
+# Citizens NPC Storage
+
+
+
+
+
+
+last-created-npc-id: 3
+npc:
+  '3':
+    metadata:
+      cached-skin-uuid: 2742757c-43aa-489e-a8b6-34b8004944eb
+      cached-skin-uuid-name: mirco54654
+      protected: true
+    name: ''
+    uuid: 1b6938d1-a0fe-4cfe-8e37-dee73822a7af
+    traits:
+      skintrait:
+        fetchDefaultSkin: true
+        signature: i8tKEGy8RrraDmhD3qv4S8QFrhOuJUwJYDC1SPfSePWRzvqoO34dV0uxOzqpkaDkvwIwfMat+oig7j0YBi4J+Sleo3KWT74pMV30GISyLMYC74mO4AkgksQzBhSZcECUFu2cmx0K03w6OPQXtnfuRlcrWzweQQHPYiYxMNR50HvYpGbIdSOGHj9yxRXHSyzuIvtUsZd0Ts5mlIFzX314Jhb5/W//vhmUtwDM2seFDpVd+LBBFmeVInBpyA8TqQsoM6+U5vj5XaQy5H7aYTbVRjMGc4zXfJ49yJGleCDbA3EdQHi50tbcO2RH38BZnEYbWdwg7Ue94Fuko/HaHgodRM0/7zMj2qY4EjHL7PezVCXVxMW69u+v93EoftxlNPrn8iStPEHVVkRxr3ZYoJGIGL9PXJ6b+Ctalj7xkGzjyaQeRFY9Q3mLEGKNwrxnNc/6Q9WEiJmIDBr8M8LM8I2+6QFV0HhFwkLPVbX3eGkHArjApSD8igg/DFR8j/vnTndq6KdGHajnFT/VA6hV9qaeZvQLqrYW9Zwd2oNmOE1UAvjl+SGPPhqn1BBTV6AEX8itZ/H58cCbn+XGgD3Lk+1g92h0kWpGws1WE9M8hAERP9F8asXwzO00WJUY14xGuPHt1BGg2MeehfkG/XRv+d1E9Iad/o5HYdYOINY6Eda1nY0=
+        skinName: mirco54654
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTcxNzE2MTIzNjM4NiwKICAicHJvZmlsZUlkIiA6ICIyNzQyNzU3YzQzYWE0ODllYThiNjM0YjgwMDQ5NDRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtaXJjbzU0NjU0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNiZjY4NDI2NzY4MmFkMDYxMzBhODRhNzkxZGM3M2IxNzhlMTg4NGZkMzRiMDNmYzk5ZTk5ZGZiYTdmZTc1MWQiCiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NkOWQ4MmFiMTdmZDkyMDIyZGJkNGE4NmNkZTRjMzgyYTc1NDBlMTE3ZmFlN2I5YTI4NTM2NTg1MDVhODA2MjUiCiAgICB9CiAgfQp9
+        updateSkins: false
+      inventory: {}
+      type: PLAYER
+      scoreboardtrait: {}
+      location:
+        bodyYaw: 92.09326
+        world: world
+        x: '-2.4501'
+        y: '68.0'
+        z: '5.5898'
+        yaw: '92.0933'
+        pitch: '6.5958'
+      spawned: true
+    traitnames: scoreboardtrait,mounttrait,spawned,skintrait,type,location,inventory
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: false
+  '2':
+    metadata:
+      cached-skin-uuid: 2742757c-43aa-489e-a8b6-34b8004944eb
+      cached-skin-uuid-name: mirco54654
+      protected: true
+    name: ''
+    uuid: ecd52029-b11d-4917-b445-4f4a5a9596d9
+    traits:
+      skintrait:
+        fetchDefaultSkin: true
+        signature: i8tKEGy8RrraDmhD3qv4S8QFrhOuJUwJYDC1SPfSePWRzvqoO34dV0uxOzqpkaDkvwIwfMat+oig7j0YBi4J+Sleo3KWT74pMV30GISyLMYC74mO4AkgksQzBhSZcECUFu2cmx0K03w6OPQXtnfuRlcrWzweQQHPYiYxMNR50HvYpGbIdSOGHj9yxRXHSyzuIvtUsZd0Ts5mlIFzX314Jhb5/W//vhmUtwDM2seFDpVd+LBBFmeVInBpyA8TqQsoM6+U5vj5XaQy5H7aYTbVRjMGc4zXfJ49yJGleCDbA3EdQHi50tbcO2RH38BZnEYbWdwg7Ue94Fuko/HaHgodRM0/7zMj2qY4EjHL7PezVCXVxMW69u+v93EoftxlNPrn8iStPEHVVkRxr3ZYoJGIGL9PXJ6b+Ctalj7xkGzjyaQeRFY9Q3mLEGKNwrxnNc/6Q9WEiJmIDBr8M8LM8I2+6QFV0HhFwkLPVbX3eGkHArjApSD8igg/DFR8j/vnTndq6KdGHajnFT/VA6hV9qaeZvQLqrYW9Zwd2oNmOE1UAvjl+SGPPhqn1BBTV6AEX8itZ/H58cCbn+XGgD3Lk+1g92h0kWpGws1WE9M8hAERP9F8asXwzO00WJUY14xGuPHt1BGg2MeehfkG/XRv+d1E9Iad/o5HYdYOINY6Eda1nY0=
+        skinName: mirco54654
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTcxNzE2MTIzNjM4NiwKICAicHJvZmlsZUlkIiA6ICIyNzQyNzU3YzQzYWE0ODllYThiNjM0YjgwMDQ5NDRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtaXJjbzU0NjU0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNiZjY4NDI2NzY4MmFkMDYxMzBhODRhNzkxZGM3M2IxNzhlMTg4NGZkMzRiMDNmYzk5ZTk5ZGZiYTdmZTc1MWQiCiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NkOWQ4MmFiMTdmZDkyMDIyZGJkNGE4NmNkZTRjMzgyYTc1NDBlMTE3ZmFlN2I5YTI4NTM2NTg1MDVhODA2MjUiCiAgICB9CiAgfQp9
+        updateSkins: false
+      inventory: {}
+      type: PLAYER
+      scoreboardtrait: {}
+      location:
+        bodyYaw: 91.53717
+        world: world
+        x: '-2.7301'
+        y: '68.0'
+        z: '-4.5288'
+        yaw: '91.5372'
+        pitch: '15.6486'
+      spawned: true
+    traitnames: scoreboardtrait,mounttrait,spawned,skintrait,type,location,inventory
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: false

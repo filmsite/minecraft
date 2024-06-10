@@ -1,0 +1,16 @@
+command /help:
+    executable by: players
+    trigger:
+        make player execute command "/helper"
+command /shop:
+    executable by: players
+    trigger:
+        make player execute command "/economyshopgui:shop"
+command /warps:
+    executable by: players
+    trigger:
+        make player execute command "/warpss"   
+command /ranks:
+    executable by: players
+    trigger:
+        make player execute command "/ranks"                

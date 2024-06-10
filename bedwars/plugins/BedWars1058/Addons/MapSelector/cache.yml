@@ -1,0 +1,23 @@
+# BedWars1058-MapSelector v1.4.4 made by [itz_leoo].
+# Dependencies: [].
+# SoftDependencies: [BedWarsProxy, BedWars1058, PlaceholderAPI].
+# Join my discord for support: https://pixelstudios.dev/discord
+
+e302a0af-f995-32f0-88e6-c000cb8ca430:
+  favorite-maps: &id001 []
+  per-map-times-joined: *id001
+4e71b440-c60c-3b0a-af23-a715c3f797a8:
+  favorite-maps: *id001
+  per-map-times-joined: *id001
+25543185-4dcd-3918-910b-22e28f653822:
+  favorite-maps: *id001
+  per-map-times-joined: *id001
+be228be7-20c5-3afc-a7c6-5f92aaf61e6d:
+  favorite-maps: &id002 []
+  per-map-times-joined: *id002
+5ed1a27f-d173-3106-9bdb-568c290d6df6:
+  favorite-maps: &id003 []
+  per-map-times-joined: *id003
+a5f08c4b-1e0a-353d-b926-d77e5bb72b35:
+  favorite-maps: &id004 []
+  per-map-times-joined: *id004

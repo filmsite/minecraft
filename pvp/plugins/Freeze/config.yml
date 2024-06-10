@@ -1,0 +1,15 @@
+# 
+# Screenshare
+# Created By: capitalizaton
+# Version: 1.0
+# If you enjoy the plugin, please leave a five star review!
+# Be sure to follow my spigot page: https://www.spigotmc.org/members/capitalizaton.450926/
+# 
+# Misc:
+prefix: '&7(&c&l!&7)'
+teamspeak: ts.example.com
+lineone: '&cYou have been frozen!'
+linetwo: '&7You have five minutes to join'
+cantmove: true
+cantdropitems: true
+cantbreakblocks: true

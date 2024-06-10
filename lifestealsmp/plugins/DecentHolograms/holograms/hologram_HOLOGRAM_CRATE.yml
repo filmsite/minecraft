@@ -1,0 +1,26 @@
+location: spawn:2.284:131.000:-19.671
+enabled: true
+display-range: 64
+update-range: 64
+update-interval: 20
+facing: 0.0
+origin: UP
+down-origin: false
+pages:
+- lines:
+  - content: '&c&lYourNetwork &8| &f&lCrates'
+    height: 0.8
+  - content: '&fRedeem all of your available keys to open the crate'
+    height: 0.3
+  - content: '&fand get a rewards!, you can get more keys by &cvoting'
+    height: 0.3
+  - content: '&for by &cdonating&f.'
+    height: 0.7
+  - content: '&fNeed help? Check out &c/help &fand'
+    height: 0.3
+  - content: '&fdon''t forget to join our discord server.'
+    height: 0.3
+  - content: '&c&ndiscord.yournetwork.net'
+    height: 0.3
+  actions: {}
+always-face-player: true

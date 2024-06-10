@@ -1,0 +1,34 @@
+# 
+#  wea_ondara:
+#    groups:
+#    - Admin
+
+users:
+  e302a0af-f995-32f0-88e6-c000cb8ca430:
+    permissions:
+    - bungeecord.command.server
+    - eenderss.admin
+    - enderss.admin
+    - enderss.ss
+    - enderss.clean
+    - enderss.staff
+    - enderss.settings.help
+    - enderss.settings
+    - enderss.settings.setspawn
+    groups: []
+    servers:
+      lobby:
+        permissions:
+        - vulcanbungee.alerts
+        groups: []
+      bedwars:
+        permissions:
+        - vulcanbungee.alerts
+        groups: []
+      pvp:
+        permissions:
+        - vulcanbungee.alerts
+        groups: []
+  5ed1a27f-d173-3106-9bdb-568c290d6df6:
+    groups:
+    - admin1

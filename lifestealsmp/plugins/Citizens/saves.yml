@@ -1,0 +1,490 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 26
+npc:
+  '11':
+    metadata:
+      flyable: true
+    name: '&c&lSHOP'
+    uuid: e2b5e5bd-99a9-4c50-9794-fc8a289699a3
+    traits:
+      spawned: true
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1
+        hideErrorMessages: false
+        persistSequence: false
+        commands:
+          '0':
+            command: economyshopgui:shop
+            hand: RIGHT
+            player: false
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+          '1':
+            command: shop
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+      type: ALLAY
+      owner:
+        uuid: 1f94f176-d12e-4907-86fb-439e3fb36d02
+      age:
+        age: 0
+        locked: true
+      gravity:
+        enabled: true
+      location:
+        bodyYaw: 89.52966
+        world: spawn
+        x: '-30.3374'
+        y: '114.0'
+        z: '-28.439'
+        yaw: '89.5297'
+        pitch: '0.0'
+    traitnames: type,mounttrait,scoreboardtrait,spawned,location,owner,gravity,commandtrait,age
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: false
+  '20':
+    metadata:
+      flyable: true
+    name: '&c&lSHOP'
+    uuid: 7c63beec-712d-4230-8339-12c862e4ccbc
+    traits:
+      age:
+        age: 0
+        locked: true
+      location:
+        bodyYaw: -178.92194
+        world: spawn
+        x: '2.2212'
+        y: '130.0'
+        z: '18.5662'
+        yaw: '-178.9219'
+        pitch: '0.0'
+      type: ALLAY
+      spawned: true
+      owner:
+        uuid: 1f94f176-d12e-4907-86fb-439e3fb36d02
+      gravity:
+        enabled: true
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1
+        hideErrorMessages: false
+        persistSequence: false
+        commands:
+          '0':
+            command: shop
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+    traitnames: type,mounttrait,scoreboardtrait,spawned,location,owner,gravity,commandtrait,age
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: false
+  '19':
+    metadata:
+      flyable: true
+    name: '&c&lWARPS'
+    uuid: 8946c8ac-abde-4fc6-ad8a-9c514f466b67
+    traits:
+      age:
+        age: 0
+        locked: true
+      location:
+        bodyYaw: -40.101624
+        world: spawn
+        x: '-5.4527'
+        y: '130.0'
+        z: '-2.7367'
+        yaw: '-40.1016'
+        pitch: '0.0'
+      type: ALLAY
+      spawned: true
+      owner:
+        uuid: 1f94f176-d12e-4907-86fb-439e3fb36d02
+      gravity:
+        enabled: true
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1
+        hideErrorMessages: false
+        persistSequence: false
+        commands:
+          '0':
+            command: warp
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+    traitnames: type,mounttrait,scoreboardtrait,spawned,location,owner,gravity,commandtrait,age
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: false
+  '18':
+    metadata:
+      flyable: true
+    name: '&c&lHELP'
+    uuid: b7b89094-5c3a-4b3c-ae41-7f30f30d6e24
+    traits:
+      age:
+        age: 0
+        locked: true
+      location:
+        bodyYaw: -131.98663
+        world: spawn
+        x: '-5.7067'
+        y: '130.0'
+        z: '13.6038'
+        yaw: '-131.9866'
+        pitch: '0.0'
+      type: ALLAY
+      spawned: true
+      owner:
+        uuid: 1f94f176-d12e-4907-86fb-439e3fb36d02
+      gravity:
+        enabled: true
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1
+        hideErrorMessages: false
+        persistSequence: false
+        commands:
+          '0':
+            command: help
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+    traitnames: type,mounttrait,scoreboardtrait,spawned,location,owner,gravity,commandtrait,age
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: false
+  '16':
+    metadata:
+      flyable: true
+    name: '&c&lWILD'
+    uuid: 100e254a-5029-4718-b9a7-1a4e9107f5b6
+    traits:
+      age:
+        age: 0
+        locked: true
+      location:
+        bodyYaw: -88.398254
+        world: spawn
+        x: '-11.8451'
+        y: '130.0'
+        z: '5.4583'
+        yaw: '-88.3983'
+        pitch: '0.0'
+      type: ALLAY
+      spawned: true
+      owner:
+        uuid: 1f94f176-d12e-4907-86fb-439e3fb36d02
+      gravity:
+        enabled: true
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1
+        hideErrorMessages: false
+        persistSequence: false
+        commands:
+          '0':
+            command: wild
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+    traitnames: type,mounttrait,scoreboardtrait,spawned,location,owner,gravity,commandtrait,age
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: false
+  '21':
+    metadata:
+      flyable: true
+    name: '&c&lARENA'
+    uuid: 7721f2ca-16ba-4048-a957-e0214ab8fa35
+    traits:
+      location:
+        bodyYaw: -0.18014526
+        world: spawn
+        x: '2.5775'
+        y: '130.0'
+        z: '-7.5697'
+        yaw: '-0.1801'
+        pitch: '0.0'
+      owner:
+        uuid: 1f94f176-d12e-4907-86fb-439e3fb36d02
+      age:
+        age: 0
+        locked: true
+      type: ALLAY
+      gravity:
+        enabled: true
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1
+        hideErrorMessages: false
+        persistSequence: false
+        commands:
+          '0':
+            command: warp arena
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+      spawned: true
+    traitnames: type,mounttrait,scoreboardtrait,spawned,location,owner,gravity,commandtrait,age
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: false
+  '25':
+    metadata:
+      flyable: true
+    name: '&c&lCOINFLIP'
+    uuid: f17e10b0-04a7-42dd-8d37-b36a916d42ef
+    traits:
+      location:
+        bodyYaw: 88.97766
+        world: spawn
+        x: '15.5889'
+        y: '130.0'
+        z: '5.38'
+        yaw: '88.9777'
+        pitch: '0.0'
+      age:
+        age: 0
+        locked: true
+      gravity:
+        enabled: true
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1
+        hideErrorMessages: false
+        persistSequence: false
+        commands:
+          '1':
+            command: coinflip
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+      type: ALLAY
+      owner:
+        uuid: 1f94f176-d12e-4907-86fb-439e3fb36d02
+      spawned: true
+    traitnames: type,mounttrait,scoreboardtrait,spawned,location,owner,gravity,commandtrait,age
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: false
+  '24':
+    metadata:
+      flyable: true
+    name: '&c&lAUCTION'
+    uuid: 0235ff51-faf6-4dca-a003-cac8c9c66c7f
+    traits:
+      location:
+        bodyYaw: 47.974926
+        world: spawn
+        x: '10.4723'
+        y: '130.0'
+        z: '-2.4504'
+        yaw: '47.9749'
+        pitch: '0.0'
+      age:
+        age: 0
+        locked: true
+      gravity:
+        enabled: true
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1
+        hideErrorMessages: false
+        persistSequence: false
+        commands:
+          '0':
+            command: ah
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+      type: ALLAY
+      owner:
+        uuid: 1f94f176-d12e-4907-86fb-439e3fb36d02
+      spawned: true
+    traitnames: type,mounttrait,scoreboardtrait,spawned,location,owner,gravity,commandtrait,age
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: false
+  '23':
+    metadata:
+      flyable: true
+    name: '&c&lRANK'
+    uuid: 239aa640-815b-4f42-b650-4274c774d597
+    traits:
+      location:
+        bodyYaw: 133.58084
+        world: spawn
+        x: '10.559'
+        y: '130.0'
+        z: '13.4091'
+        yaw: '133.5808'
+        pitch: '0.0'
+      age:
+        age: 0
+        locked: true
+      gravity:
+        enabled: true
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1
+        hideErrorMessages: false
+        persistSequence: false
+        commands:
+          '0':
+            command: ranks
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+      type: ALLAY
+      owner:
+        uuid: 1f94f176-d12e-4907-86fb-439e3fb36d02
+      spawned: true
+    traitnames: type,mounttrait,scoreboardtrait,spawned,location,owner,gravity,commandtrait,age
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: false
+  '26':
+    metadata:
+      flyable: true
+    name: '&c&lPoints Shop'
+    uuid: 37beb1aa-8dfa-4d80-ad28-f06c0a94f4e5
+    traits:
+      owner:
+        uuid: 1f94f176-d12e-4907-86fb-439e3fb36d02
+      spawned: true
+      gravity:
+        enabled: true
+      lookclose:
+        range: '10.0'
+        disablewhilenavigating: true
+        enabled: true
+        enableRandomLook: false
+        headonly: false
+        linkedbody: false
+        perplayer: false
+        randomLookDelay: 60
+        randomSwitchTargets: false
+        realisticlooking: false
+        targetnpcs: false
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      type: ALLAY
+      location:
+        bodyYaw: 37.945885
+        world: spawn
+        x: '8.3517'
+        y: '129.0'
+        z: '-20.4771'
+        yaw: '37.9459'
+        pitch: '-2.3755'
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1
+        hideErrorMessages: false
+        persistSequence: false
+        commands:
+          '0':
+            command: pointss
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+    traitnames: type,mounttrait,scoreboardtrait,spawned,location,owner,gravity,commandtrait,rotationtrait,lookclose
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: false

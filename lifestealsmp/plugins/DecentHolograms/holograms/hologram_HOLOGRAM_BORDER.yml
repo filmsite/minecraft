@@ -1,0 +1,27 @@
+location: spawn:2.529:132.000:27.587
+enabled: true
+display-range: 64
+update-range: 64
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '#ICON: BEACON'
+    height: 0.5
+  - content: '&c&lYourNetwork &8| &f&lWorld Border'
+    height: 0.8
+  - content: '&4&lʙᴜɪʟᴅ ᴡᴏʀʟᴅ &8| &f10,000 x 10,000'
+    height: 0.3
+  - content: '&c&lɴᴇᴛʜᴇʀ ᴡᴏʀʟᴅ &8| &f10,000 x 10,000'
+    height: 0.3
+  - content: '&9&lᴛʜᴇ ᴇɴᴅ ᴡᴏʀʟᴅ &8| &f10,000 x 10,000'
+    height: 0.7
+  - content: '&fNeed help? Check out &c/help &fand'
+    height: 0.3
+  - content: '&fdon''t forget to join our discord server.'
+    height: 0.3
+  - content: '&c&ndiscord.yournetwork.net'
+    height: 0.3
+  actions: {}
+always-face-player: true

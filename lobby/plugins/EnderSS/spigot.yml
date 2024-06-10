@@ -1,0 +1,59 @@
+#
+# ███████╗██████╗ ██╗ ██████╗  ██████╗ ████████╗
+# ██╔════╝██╔══██╗██║██╔════╝ ██╔═══██╗╚══██╔══╝
+# ███████╗██████╔╝██║██║  ███╗██║   ██║   ██║
+# ╚════██║██╔═══╝ ██║██║   ██║██║   ██║   ██║
+# ███████║██║     ██║╚██████╔╝╚██████╔╝   ██║
+# ╚══════╝╚═╝     ╚═╝ ╚═════╝  ╚═════╝    ╚═╝
+#
+# Spigot Configuration of EnderSS
+
+proxy-mode: true
+disabled: '&cThis feature is disabled in proxy mode'
+start:
+  enabled: true
+  staff: world,-32.4565455354592,143.0,1.3439637476634718,-351.84546,13.466108
+  suspect: world,-32.61822341471747,142.0,9.761962708217375,-176.09544,-8.056706
+teleport-on-start: true
+fallback:
+  enabled: true
+  staff: world,-32.64463219353978,143.0,1.5219853880738212,6.7905436,63.992756
+  suspect: world,-32.64463219353978,143.0,1.5219853880738212,6.7905436,63.992756
+commands:
+  set-spawn:
+    usage: '&fUsage: /enderss setspawn &c<staff|suspect> &c<start|fallback> &4[world]
+      [x] [y] [z] [yaw] [pitch]'
+    set: '&a%PHASE% set for %TYPE%&f!'
+    invalid-type: '&cInvalid type! &fValid types: &cstaff&f, &csuspect'
+    invalid-world: '&cInvalid world!'
+    invalid-coordinates: '&cInvalid coordinates!'
+    invalid-rotation: '&cInvalid rotation!'
+    error: '&cAn error occurred while setting the spawn! Check the console for more
+      info.'
+protections:
+  bypass-permission: enderss.protections
+  staff-bypass: true
+  world:
+    white-listed-worlds:
+      - example
+    build-break: true
+    pvp: true
+    invulnerability: true
+    hunger: true
+    daylight-cycle: true
+    weather-cycle: true
+    mob-spawn: true
+    fire-spread: true
+    void: true
+  player:
+    pvp: true
+    build-break: true
+    pick-drop-items: true
+    hunger: true
+    damage: true
+    remove-effects: true
+    adventure-mode: true
+placeholder:
+  positive: '&aYes'
+  negative: '&cNo'
+  none: '&cNone'

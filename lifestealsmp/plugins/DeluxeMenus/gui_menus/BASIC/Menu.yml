@@ -1,0 +1,77 @@
+menu_title: "&8Help Menu"
+size: 27
+open_command:
+- menu
+- main
+- help
+- helper
+- helpe
+register_command: true
+update_interval: 1
+items:
+  'BACKGROUND_HEAD':
+    material: BLACK_STAINED_GLASS_PANE
+    display_name: ' &r '
+    slots:
+    - 45-48
+    - 50-53
+  'BACKGROUND_BODY':
+    material: GRAY_STAINED_GLASS_PANE
+    display_name: ' &r '
+    slots:
+    - 0-44
+  'CLOSE':
+    material: BARRIER
+    display_name: '&c&l✘ &cClose'
+    slot: 49
+    click_commands:
+    - '[close]'
+    - '[sound] BLOCK_CHEST_CLOSE'
+  'SURVIVAL':
+    material: EXPERIENCE_BOTTLE
+    display_name: '&c&lHow to Play Factions?'
+    slot: 11
+    lore:
+    - ' '
+    - '&7Factions is a complicated game with'
+    - '&7many different aspects, You claim land,'
+    - '&7get money, build, declare war, fight enemies,'
+    - '&7and dont die.'
+    - ''
+    - '&7Each player has 10 power, and the maximum power' 
+    - '&7is 10 times the number of faction members.' 
+    - '&7You lose power every time you die,' 
+    - '&7and you gain power after a specified' 
+    - '&7amount of time.'
+    - '&7invite your friends and'
+    - '&7start taking over the gamemode!'
+    - ''
+    - '&7To receive &cExciting Rewards&7 as you'
+    - '&7play, do &c/vote'
+    - ''
+  'SURVIVAL_WHAT_IS':
+    material: GRASS_BLOCK
+    display_name: '&c&lWhat is Lifesteal?'
+    slot: 13
+    lore:
+    - ' '
+    - '&7When you kill a Player You Gain a Heart'
+    - '&7and they lose one, If you loose all your'
+    - '&7Hearts you get banned of lifesteal for one'
+    - '&7Week.'
+    - ''
+
+  'RULES':
+    material: BOOK
+    display_name: '&c&lRules'
+    slot: 15
+    lore:
+    - ' '
+    - '&cDescription'
+    - ' &c| &7Have you agree to our rules?'
+    - ' &c| &7please read our rules & agreements first!'
+    - ' &4| &fClick to view.'
+    - ''
+    click_commands:
+    - '[player] rules'
+    - '[sound] BLOCK_NOTE_BLOCK_IRON_XYLOPHONE'

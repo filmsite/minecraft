@@ -1,0 +1,14 @@
+location: Arena:8.539:64.000:0.341
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&c&lWARNING'
+    height: 0.3
+  - content: '&fPVP is Enabled!'
+    height: 0.3
+  actions: {}

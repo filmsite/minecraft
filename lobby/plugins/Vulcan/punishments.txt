@@ -1,0 +1,1246 @@
+--------------[ fdrco54654dfgdf was punished for Kill Aura (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -24.17470779689029
+ - Y: 144.0
+ - Z: 17.052953923121095
+
+Information:
+ - UUID: c0c92d5b-7a6b-3c19-8c47-833c7937a64c
+ - Keep Alive Ping: 0
+ - Transaction Ping: 31
+ - Server TPS: 19,59
+ - Sensitivity: 85
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 222.15 seconds ago
+
+Total Violations: 9
+ - Combat Violations: 6
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 604
+ - Since Riptide Ticks: 200
+ - Flying Delay: 51
+ - Since Velocity Ticks: 4443
+ - Since Firework Ticks: 1478
+ - Ticks Existed: 4343
+ - Since Vehicle Ticks: 1378
+ - Since Liquid Ticks: 1378
+ - Queued Transactions: 0
+ - Joined: 217 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Aim (Type B) [VL: 3] (Invalid yaw change.)
+ - Kill Aura (Type A) [VL: 3] (Post UseEntity packets.)
+ - Kill Aura (Type L) [VL: 2] (Impossible strafe.)
+ - Bad Packets (Type X) [VL: 1] (Post ArmAnimation packets.)
+ - Invalid (Type D) [VL: 2] (Large yaw changes without decelerating.)
+ - Timer (Type A) [VL: 2] (Increased game speed.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, COBBLESTONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [SPEED:(995661t-x0)]
+---------------------------------------------------------------------------
+
+
+--------------[ fdrco54654dfgdf was punished for Kill Aura (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -32.211701361462474
+ - Y: 145.15000000596046
+ - Z: 4.138015203177929
+
+Information:
+ - UUID: c0c92d5b-7a6b-3c19-8c47-833c7937a64c
+ - Keep Alive Ping: 0
+ - Transaction Ping: 40
+ - Server TPS: 19,34
+ - Sensitivity: 85
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 98.8 seconds ago
+
+Total Violations: 4
+ - Combat Violations: 3
+ - Movement Violations: 0
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 39
+ - Since Riptide Ticks: 200
+ - Flying Delay: 56
+ - Since Velocity Ticks: 1976
+ - Since Firework Ticks: 640
+ - Ticks Existed: 1876
+ - Since Vehicle Ticks: 540
+ - Since Liquid Ticks: 540
+ - Queued Transactions: 0
+ - Joined: 95 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Kill Aura (Type A) [VL: 3] (Post UseEntity packets.)
+ - Bad Packets (Type X) [VL: 1] (Post ArmAnimation packets.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [SPEED:(998127t-x0)]
+---------------------------------------------------------------------------
+
+
+--------------[ fdrco54654dfgdf was punished for Bad Packets (Type K) ]--------------
+
+Location:
+ - World: world
+ - X: -24.185663917266435
+ - Y: 149.0
+ - Z: 41.26700792282982
+
+Information:
+ - UUID: c0c92d5b-7a6b-3c19-8c47-833c7937a64c
+ - Keep Alive Ping: 0
+ - Transaction Ping: 22
+ - Server TPS: 19,62
+ - Sensitivity: 85
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 6.65 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 1336
+ - Since Riptide Ticks: 200
+ - Flying Delay: 58
+ - Since Velocity Ticks: 133
+ - Since Firework Ticks: 1334
+ - Ticks Existed: 1236
+ - Since Vehicle Ticks: 1234
+ - Since Liquid Ticks: 1234
+ - Queued Transactions: 0
+ - Joined: 62 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Bad Packets (Type K) [VL: 5] (Sending EntityAction packets too quickly)
+
+Blocks Nearby: [WOOL, WOOL, WOOL, WOOD_STEP, WOOD_STEP, WOOD_STEP, WOOD_STEP, WOOD_STEP, WOOD_STEP, AIR, AIR, AIR, WOOL, WOOL, WOOL, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOL, WOOL, WOOL, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ fdrco54654dfgdf was punished for Bad Packets (Type K) ]--------------
+
+Location:
+ - World: world
+ - X: -19.208631714380402
+ - Y: 148.93338883579676
+ - Z: 44.71106662787497
+
+Information:
+ - UUID: c0c92d5b-7a6b-3c19-8c47-833c7937a64c
+ - Keep Alive Ping: 0
+ - Transaction Ping: 45
+ - Server TPS: 19,59
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 5.8 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 116
+ - Since Riptide Ticks: 200
+ - Flying Delay: 45
+ - Since Velocity Ticks: 116
+ - Since Firework Ticks: 202
+ - Ticks Existed: 16
+ - Since Vehicle Ticks: 102
+ - Since Liquid Ticks: 102
+ - Queued Transactions: 0
+ - Joined: 0 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Bad Packets (Type K) [VL: 5] (Sending EntityAction packets too quickly)
+
+Blocks Nearby: [WOOD_STEP, WOOD_STEP, WOOD_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ fdrco54654dfgdf was punished for Bad Packets (Type K) ]--------------
+
+Location:
+ - World: world
+ - X: -19.167271630412955
+ - Y: 148.93338883579676
+ - Z: 44.73733705468476
+
+Information:
+ - UUID: c0c92d5b-7a6b-3c19-8c47-833c7937a64c
+ - Keep Alive Ping: 0
+ - Transaction Ping: 5
+ - Server TPS: 19,59
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 5.7 seconds ago
+
+Total Violations: 6
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 6
+
+Misc Information:
+ - Since Teleport Ticks: 114
+ - Since Riptide Ticks: 200
+ - Flying Delay: 51
+ - Since Velocity Ticks: 114
+ - Since Firework Ticks: 202
+ - Ticks Existed: 14
+ - Since Vehicle Ticks: 102
+ - Since Liquid Ticks: 102
+ - Queued Transactions: 0
+ - Joined: 0 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Bad Packets (Type K) [VL: 5] (Sending EntityAction packets too quickly)
+ - Bad Packets (Type P) [VL: 1] (Post EntityAction packets.)
+
+Blocks Nearby: [WOOD_STEP, WOOD_STEP, WOOD_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ fdrco54654dfgdf was punished for Bad Packets (Type K) ]--------------
+
+Location:
+ - World: world
+ - X: -19.167271630412955
+ - Y: 149.20000004768372
+ - Z: 44.73733705468476
+
+Information:
+ - UUID: c0c92d5b-7a6b-3c19-8c47-833c7937a64c
+ - Keep Alive Ping: 0
+ - Transaction Ping: 95
+ - Server TPS: 19,6
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 5.75 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 115
+ - Since Riptide Ticks: 200
+ - Flying Delay: 72
+ - Since Velocity Ticks: 115
+ - Since Firework Ticks: 204
+ - Ticks Existed: 15
+ - Since Vehicle Ticks: 104
+ - Since Liquid Ticks: 104
+ - Queued Transactions: 0
+ - Joined: 0 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Bad Packets (Type K) [VL: 5] (Sending EntityAction packets too quickly)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, LEAVES, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, LEAVES, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ fdrco54654dfgdf was punished for Bad Packets (Type K) ]--------------
+
+Location:
+ - World: world
+ - X: -19.167271630412955
+ - Y: 149.20000004768372
+ - Z: 44.73733705468476
+
+Information:
+ - UUID: c0c92d5b-7a6b-3c19-8c47-833c7937a64c
+ - Keep Alive Ping: 0
+ - Transaction Ping: 30
+ - Server TPS: 19,62
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 5.8 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 116
+ - Since Riptide Ticks: 200
+ - Flying Delay: 52
+ - Since Velocity Ticks: 116
+ - Since Firework Ticks: 202
+ - Ticks Existed: 16
+ - Since Vehicle Ticks: 102
+ - Since Liquid Ticks: 102
+ - Queued Transactions: 0
+ - Joined: 0 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Bad Packets (Type K) [VL: 5] (Sending EntityAction packets too quickly)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, LEAVES, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, LEAVES, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ fdrco54654dfgdf was punished for Bad Packets (Type K) ]--------------
+
+Location:
+ - World: world
+ - X: -32.5165516113037
+ - Y: 143.0
+ - Z: 1.5890097009029984
+
+Information:
+ - UUID: c0c92d5b-7a6b-3c19-8c47-833c7937a64c
+ - Keep Alive Ping: 0
+ - Transaction Ping: 34
+ - Server TPS: 19,66
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 5.95 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 119
+ - Since Riptide Ticks: 200
+ - Flying Delay: 51
+ - Since Velocity Ticks: 119
+ - Since Firework Ticks: 203
+ - Ticks Existed: 19
+ - Since Vehicle Ticks: 103
+ - Since Liquid Ticks: 103
+ - Queued Transactions: 0
+ - Joined: 0 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Bad Packets (Type K) [VL: 5] (Sending EntityAction packets too quickly)
+
+Blocks Nearby: [WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD_DOUBLE_STEP, PISTON_BASE, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ fdrco54654dfgdf was punished for Bad Packets (Type K) ]--------------
+
+Location:
+ - World: world
+ - X: -32.5165516113037
+ - Y: 143.0
+ - Z: 1.5890097009029984
+
+Information:
+ - UUID: c0c92d5b-7a6b-3c19-8c47-833c7937a64c
+ - Keep Alive Ping: 0
+ - Transaction Ping: 5
+ - Server TPS: 19,56
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 5.8 seconds ago
+
+Total Violations: 6
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 6
+
+Misc Information:
+ - Since Teleport Ticks: 116
+ - Since Riptide Ticks: 200
+ - Flying Delay: 58
+ - Since Velocity Ticks: 116
+ - Since Firework Ticks: 203
+ - Ticks Existed: 16
+ - Since Vehicle Ticks: 103
+ - Since Liquid Ticks: 103
+ - Queued Transactions: 0
+ - Joined: 0 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Bad Packets (Type K) [VL: 5] (Sending EntityAction packets too quickly)
+ - Bad Packets (Type P) [VL: 1] (Post EntityAction packets.)
+
+Blocks Nearby: [WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD_DOUBLE_STEP, PISTON_BASE, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ west666 was punished for Bad Packets (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -31.97904876754818
+ - Y: 142.0
+ - Z: 10.657926088801752
+
+Information:
+ - UUID: be228be7-20c5-3afc-a7c6-5f92aaf61e6d
+ - Keep Alive Ping: 3
+ - Transaction Ping: 11
+ - Server TPS: 19,72
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 3.5 seconds ago
+
+Total Violations: 1
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 208
+ - Since Riptide Ticks: 200
+ - Flying Delay: 80
+ - Since Velocity Ticks: 71
+ - Since Firework Ticks: 237
+ - Ticks Existed: 108
+ - Since Vehicle Ticks: 137
+ - Since Liquid Ticks: 137
+ - Queued Transactions: 0
+ - Joined: 8 seconds ago
+ - Holding Item: ItemStack{NETHER_STAR x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=§eServer Selector, lore=[§7Right-click to open the server selector!], internal=H4sIAAAAAAAA/+NiYOBg4MrIL0lKLPIsSc1l4C9OLSpLLYovTs1JTS7JL2IAAD+emnsiAAAA}}
+
+All Violations:
+ - Bad Packets (Type B) [VL: 1] (More than 20 flying packets in a row.)
+
+Blocks Nearby: [BARRIER, COBBLESTONE_STAIRS, COBBLESTONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, COBBLESTONE_STAIRS, COBBLESTONE, DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, COBBLESTONE, DOUBLE_STEP, COBBLESTONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [SPEED:(999892t-x0)]
+---------------------------------------------------------------------------
+
+
+--------------[ west666 was punished for Bad Packets (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -32.31666672545937
+ - Y: 143.0
+ - Z: 1.4113925625893322
+
+Information:
+ - UUID: be228be7-20c5-3afc-a7c6-5f92aaf61e6d
+ - Keep Alive Ping: 0
+ - Transaction Ping: 32
+ - Server TPS: 19,73
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 7.0 seconds ago
+
+Total Violations: 1
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 140
+ - Since Riptide Ticks: 200
+ - Flying Delay: 0
+ - Since Velocity Ticks: 140
+ - Since Firework Ticks: 203
+ - Ticks Existed: 40
+ - Since Vehicle Ticks: 103
+ - Since Liquid Ticks: 103
+ - Queued Transactions: 1
+ - Joined: 0 seconds ago
+ - Holding Item: ItemStack{NETHER_STAR x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=§eServer Selector, lore=[§7Right-click to open the server selector!], internal=H4sIAAAAAAAA/+NiYOBg4MrIL0lKLPIsSc1l4C9OLSpLLYovTs1JTS7JL2IAAD+emnsiAAAA}}
+
+All Violations:
+ - Bad Packets (Type B) [VL: 1] (More than 20 flying packets in a row.)
+
+Blocks Nearby: [WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD_DOUBLE_STEP, PISTON_BASE, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Potion Effects: [SPEED:(999963t-x0)]
+---------------------------------------------------------------------------
+
+
+--------------[ west666 was punished for Bad Packets (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -32.31666672545937
+ - Y: 143.0
+ - Z: 1.4113925625893322
+
+Information:
+ - UUID: be228be7-20c5-3afc-a7c6-5f92aaf61e6d
+ - Keep Alive Ping: 0
+ - Transaction Ping: 24
+ - Server TPS: 19,7
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 6.4 seconds ago
+
+Total Violations: 1
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 128
+ - Since Riptide Ticks: 200
+ - Flying Delay: 0
+ - Since Velocity Ticks: 128
+ - Since Firework Ticks: 203
+ - Ticks Existed: 28
+ - Since Vehicle Ticks: 103
+ - Since Liquid Ticks: 103
+ - Queued Transactions: 0
+ - Joined: 0 seconds ago
+ - Holding Item: ItemStack{NETHER_STAR x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=§eServer Selector, lore=[§7Right-click to open the server selector!], internal=H4sIAAAAAAAA/+NiYOBg4MrIL0lKLPIsSc1l4C9OLSpLLYovTs1JTS7JL2IAAD+emnsiAAAA}}
+
+All Violations:
+ - Bad Packets (Type B) [VL: 1] (More than 20 flying packets in a row.)
+
+Blocks Nearby: [WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD_DOUBLE_STEP, PISTON_BASE, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Potion Effects: [SPEED:(999972t-x0)]
+---------------------------------------------------------------------------
+
+
+--------------[ west666 was punished for Bad Packets (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -29.190793712470153
+ - Y: 144.60000000000002
+ - Z: 5.749068864872747
+
+Information:
+ - UUID: be228be7-20c5-3afc-a7c6-5f92aaf61e6d
+ - Keep Alive Ping: 0
+ - Transaction Ping: 11
+ - Server TPS: 19,46
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 17.05 seconds ago
+
+Total Violations: 1
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 341
+ - Since Riptide Ticks: 200
+ - Flying Delay: 0
+ - Since Velocity Ticks: 341
+ - Since Firework Ticks: 280
+ - Ticks Existed: 241
+ - Since Vehicle Ticks: 180
+ - Since Liquid Ticks: 180
+ - Queued Transactions: 0
+ - Joined: 10 seconds ago
+ - Holding Item: ItemStack{NETHER_STAR x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=§eServer Selector, lore=[§7Right-click to open the server selector!], internal=H4sIAAAAAAAA/+NiYOBg4MrIL0lKLPIsSc1l4C9OLSpLLYovTs1JTS7JL2IAAD+emnsiAAAA}}
+
+All Violations:
+ - Bad Packets (Type B) [VL: 1] (More than 20 flying packets in a row.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [SPEED:(999760t-x0)]
+---------------------------------------------------------------------------
+
+
+--------------[ west666 was punished for Bad Packets (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -32.31666672545937
+ - Y: 143.0
+ - Z: 1.4113925625893322
+
+Information:
+ - UUID: be228be7-20c5-3afc-a7c6-5f92aaf61e6d
+ - Keep Alive Ping: 0
+ - Transaction Ping: 13
+ - Server TPS: 19,4
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 6.3 seconds ago
+
+Total Violations: 1
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 126
+ - Since Riptide Ticks: 200
+ - Flying Delay: 0
+ - Since Velocity Ticks: 126
+ - Since Firework Ticks: 203
+ - Ticks Existed: 26
+ - Since Vehicle Ticks: 103
+ - Since Liquid Ticks: 103
+ - Queued Transactions: 0
+ - Joined: 0 seconds ago
+ - Holding Item: ItemStack{NETHER_STAR x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=§eServer Selector, lore=[§7Right-click to open the server selector!], internal=H4sIAAAAAAAA/+NiYOBg4MrIL0lKLPIsSc1l4C9OLSpLLYovTs1JTS7JL2IAAD+emnsiAAAA}}
+
+All Violations:
+ - Bad Packets (Type B) [VL: 1] (More than 20 flying packets in a row.)
+
+Blocks Nearby: [WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD_DOUBLE_STEP, PISTON_BASE, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Potion Effects: [SPEED:(999974t-x0)]
+---------------------------------------------------------------------------
+
+
+--------------[ Osoiwain1 was punished for Bad Packets (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -32.31666672545937
+ - Y: 144.3
+ - Z: 1.4113925625893322
+
+Information:
+ - UUID: 5ed1a27f-d173-3106-9bdb-568c290d6df6
+ - Keep Alive Ping: 3
+ - Transaction Ping: 13
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 10.45 seconds ago
+
+Total Violations: 1
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 101
+ - Since Riptide Ticks: 200
+ - Flying Delay: 1
+ - Since Velocity Ticks: 209
+ - Since Firework Ticks: 222
+ - Ticks Existed: 109
+ - Since Vehicle Ticks: 122
+ - Since Liquid Ticks: 122
+ - Queued Transactions: 0
+ - Joined: 55 seconds ago
+ - Holding Item: ItemStack{BOOK x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=§dServer Information, lore=[§7Right-click to see information about the server!], internal=H4sIAAAAAAAA/+NiYOBg4MrIL0lKLPIsSc1l4MjMS8tPys/PZgAA6i1uEhsAAAA=}}
+
+All Violations:
+ - Bad Packets (Type B) [VL: 1] (More than 20 flying packets in a row.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [SPEED:(999887t-x0)]
+---------------------------------------------------------------------------
+
+
+--------------[ Osoiwain1 was punished for Bad Packets (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -32.27641600370407
+ - Y: 143.3
+ - Z: 3.8123607635498047
+
+Information:
+ - UUID: 5ed1a27f-d173-3106-9bdb-568c290d6df6
+ - Keep Alive Ping: 1
+ - Transaction Ping: 62
+ - Server TPS: 19,02
+ - Sensitivity: 477
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 156.4 seconds ago
+
+Total Violations: 11
+ - Combat Violations: 10
+ - Movement Violations: 0
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 3128
+ - Since Riptide Ticks: 200
+ - Flying Delay: 0
+ - Since Velocity Ticks: 3128
+ - Since Firework Ticks: 677
+ - Ticks Existed: 3028
+ - Since Vehicle Ticks: 577
+ - Since Liquid Ticks: 577
+ - Queued Transactions: 1
+ - Joined: 72 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Aim (Type B) [VL: 6] (Invalid yaw change.)
+ - Aim (Type X) [VL: 3] (Generic rotation analysis heuristic.)
+ - Aim (Type Y) [VL: 1] (Generic rotation analysis heuristic.)
+ - Bad Packets (Type B) [VL: 1] (More than 20 flying packets in a row.)
+
+Blocks Nearby: [WOOD_DOUBLE_STEP, JUNGLE_WOOD_STAIRS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD_DOUBLE_STEP, JUNGLE_WOOD_STAIRS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD_DOUBLE_STEP, JUNGLE_WOOD_STAIRS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [SPEED:(996973t-x0)]
+---------------------------------------------------------------------------
+
+
+--------------[ Osoiwain1 was punished for Bad Packets (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -32.31666672545937
+ - Y: 143.0
+ - Z: 1.4113925625893322
+
+Information:
+ - UUID: 5ed1a27f-d173-3106-9bdb-568c290d6df6
+ - Keep Alive Ping: 127
+ - Transaction Ping: 978
+ - Server TPS: 19,14
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 6.4 seconds ago
+
+Total Violations: 1
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 128
+ - Since Riptide Ticks: 200
+ - Flying Delay: 0
+ - Since Velocity Ticks: 128
+ - Since Firework Ticks: 203
+ - Ticks Existed: 28
+ - Since Vehicle Ticks: 103
+ - Since Liquid Ticks: 103
+ - Queued Transactions: 3
+ - Joined: 2 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Bad Packets (Type B) [VL: 1] (More than 20 flying packets in a row.)
+
+Blocks Nearby: [WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD_DOUBLE_STEP, PISTON_BASE, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Potion Effects: [SPEED:(999972t-x0)]
+---------------------------------------------------------------------------
+
+
+--------------[ Osoiwain1 was punished for Bad Packets (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -32.31666672545937
+ - Y: 143.0
+ - Z: 1.4113925625893322
+
+Information:
+ - UUID: 5ed1a27f-d173-3106-9bdb-568c290d6df6
+ - Keep Alive Ping: 0
+ - Transaction Ping: 13
+ - Server TPS: 18,72
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 9.05 seconds ago
+
+Total Violations: 1
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 181
+ - Since Riptide Ticks: 200
+ - Flying Delay: 2
+ - Since Velocity Ticks: 181
+ - Since Firework Ticks: 204
+ - Ticks Existed: 81
+ - Since Vehicle Ticks: 104
+ - Since Liquid Ticks: 104
+ - Queued Transactions: 4
+ - Joined: 4 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Bad Packets (Type B) [VL: 1] (More than 20 flying packets in a row.)
+
+Blocks Nearby: [WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD_DOUBLE_STEP, PISTON_BASE, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Potion Effects: [SPEED:(999878t-x0)]
+---------------------------------------------------------------------------
+
+
+--------------[ Osoiwain1 was punished for Bad Packets (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -32.31666672545937
+ - Y: 143.0
+ - Z: 1.4113925625893322
+
+Information:
+ - UUID: 5ed1a27f-d173-3106-9bdb-568c290d6df6
+ - Keep Alive Ping: 0
+ - Transaction Ping: 160
+ - Server TPS: 19,02
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 6.3 seconds ago
+
+Total Violations: 1
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 126
+ - Since Riptide Ticks: 200
+ - Flying Delay: 0
+ - Since Velocity Ticks: 126
+ - Since Firework Ticks: 203
+ - Ticks Existed: 26
+ - Since Vehicle Ticks: 103
+ - Since Liquid Ticks: 103
+ - Queued Transactions: 0
+ - Joined: 0 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Bad Packets (Type B) [VL: 1] (More than 20 flying packets in a row.)
+
+Blocks Nearby: [WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD_DOUBLE_STEP, PISTON_BASE, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Potion Effects: [SPEED:(999976t-x0)]
+---------------------------------------------------------------------------
+
+
+--------------[ Osoiwain1 was punished for Bad Packets (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 4.7210666835308075
+ - Y: 144.0
+ - Z: 21.117875069379807
+
+Information:
+ - UUID: 5ed1a27f-d173-3106-9bdb-568c290d6df6
+ - Keep Alive Ping: 1
+ - Transaction Ping: 11
+ - Server TPS: 19
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 64.4 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 4
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 1288
+ - Since Riptide Ticks: 200
+ - Flying Delay: 1
+ - Since Velocity Ticks: 1288
+ - Since Firework Ticks: 398
+ - Ticks Existed: 1188
+ - Since Vehicle Ticks: 298
+ - Since Liquid Ticks: 298
+ - Queued Transactions: 0
+ - Joined: 29 seconds ago
+ - Holding Item: ItemStack{NETHER_STAR x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=§eServer Selector, lore=[§7Right-click to open the server selector!], internal=H4sIAAAAAAAA/+NiYOBg4MrIL0lKLPIsSc1l4C9OLSpLLYovTs1JTS7JL2IAAD+emnsiAAAA}}
+
+All Violations:
+ - Step (Type A) [VL: 4] (Invalid Step height.)
+ - Bad Packets (Type B) [VL: 1] (More than 20 flying packets in a row.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, LEAVES, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, LEAVES, LEAVES, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [SPEED:(998813t-x0)]
+---------------------------------------------------------------------------
+
+
+--------------[ Osoiwain1 was punished for Bad Packets (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -32.31666672545937
+ - Y: 143.0
+ - Z: 1.4113925625893322
+
+Information:
+ - UUID: 5ed1a27f-d173-3106-9bdb-568c290d6df6
+ - Keep Alive Ping: 201
+ - Transaction Ping: 503
+ - Server TPS: 19,86
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 11.9 seconds ago
+
+Total Violations: 1
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 238
+ - Since Riptide Ticks: 200
+ - Flying Delay: 63
+ - Since Velocity Ticks: 238
+ - Since Firework Ticks: 206
+ - Ticks Existed: 138
+ - Since Vehicle Ticks: 106
+ - Since Liquid Ticks: 106
+ - Queued Transactions: 0
+ - Joined: 5 seconds ago
+ - Holding Item: ItemStack{NETHER_STAR x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=§eServer Selector, lore=[§7Right-click to open the server selector!], internal=H4sIAAAAAAAA/+NiYOBg4MrIL0lKLPIsSc1l4C9OLSpLLYovTs1JTS7JL2IAAD+emnsiAAAA}}
+
+All Violations:
+ - Bad Packets (Type B) [VL: 1] (More than 20 flying packets in a row.)
+
+Blocks Nearby: [WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD_DOUBLE_STEP, PISTON_BASE, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Potion Effects: [SPEED:(999856t-x0)]
+---------------------------------------------------------------------------
+
+
+--------------[ Osoiwain1 was punished for Bad Packets (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -32.31666672545937
+ - Y: 143.0
+ - Z: 1.4113925625893322
+
+Information:
+ - UUID: 5ed1a27f-d173-3106-9bdb-568c290d6df6
+ - Keep Alive Ping: 0
+ - Transaction Ping: 5
+ - Server TPS: 19,6
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 6.3 seconds ago
+
+Total Violations: 1
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 126
+ - Since Riptide Ticks: 200
+ - Flying Delay: 2
+ - Since Velocity Ticks: 126
+ - Since Firework Ticks: 203
+ - Ticks Existed: 26
+ - Since Vehicle Ticks: 103
+ - Since Liquid Ticks: 103
+ - Queued Transactions: 0
+ - Joined: 1 seconds ago
+ - Holding Item: ItemStack{NETHER_STAR x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=§eServer Selector, lore=[§7Right-click to open the server selector!], internal=H4sIAAAAAAAA/+NiYOBg4MrIL0lKLPIsSc1l4C9OLSpLLYovTs1JTS7JL2IAAD+emnsiAAAA}}
+
+All Violations:
+ - Bad Packets (Type B) [VL: 1] (More than 20 flying packets in a row.)
+
+Blocks Nearby: [WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD_DOUBLE_STEP, PISTON_BASE, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Potion Effects: [SPEED:(999974t-x0)]
+---------------------------------------------------------------------------
+
+
+--------------[ west666 was punished for Auto Clicker (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -26.26660172370381
+ - Y: 142.0
+ - Z: 22.732566728863507
+
+Information:
+ - UUID: be228be7-20c5-3afc-a7c6-5f92aaf61e6d
+ - Keep Alive Ping: 120
+ - Transaction Ping: 3
+ - Server TPS: 19,56
+ - Sensitivity: 85
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.20.3
+ - Last Damage: 45.25 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 804
+ - Since Riptide Ticks: 200
+ - Flying Delay: 43
+ - Since Velocity Ticks: 905
+ - Since Firework Ticks: 982
+ - Ticks Existed: 805
+ - Since Vehicle Ticks: 882
+ - Since Liquid Ticks: 882
+ - Queued Transactions: 0
+ - Joined: 356 seconds ago
+ - Holding Item: ItemStack{WOOD_STEP x 1}
+
+All Violations:
+ - Auto Clicker (Type A) [VL: 5] (Left clicking too quickly.)
+
+Blocks Nearby: [DOUBLE_STEP, DOUBLE_STEP, DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DOUBLE_STEP, DOUBLE_STEP, DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DOUBLE_STEP, DOUBLE_STEP, DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [SPEED:(993011t-x0)]
+---------------------------------------------------------------------------
+
+
+--------------[ west666 was punished for Auto Block (Type D) ]--------------
+
+Location:
+ - World: world
+ - X: -31.99131565594504
+ - Y: 141.0
+ - Z: 22.300000011920933
+
+Information:
+ - UUID: be228be7-20c5-3afc-a7c6-5f92aaf61e6d
+ - Keep Alive Ping: 0
+ - Transaction Ping: 26
+ - Server TPS: 19,82
+ - Sensitivity: 85
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 8.75 seconds ago
+
+Total Violations: 29
+ - Combat Violations: 7
+ - Movement Violations: 0
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 14244
+ - Since Riptide Ticks: 200
+ - Flying Delay: 38
+ - Since Velocity Ticks: 175
+ - Since Firework Ticks: 2560
+ - Ticks Existed: 14144
+ - Since Vehicle Ticks: 2460
+ - Since Liquid Ticks: 2460
+ - Queued Transactions: 0
+ - Joined: 650 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Auto Block (Type D) [VL: 3] (Invalid attack order.)
+ - Auto Clicker (Type A) [VL: 14] (Left clicking too quickly.)
+ - Auto Clicker (Type O) [VL: 2] (Impossible spike in CPS.)
+ - Auto Clicker (Type R) [VL: 1] (Impossible consistency.)
+ - Auto Clicker (Type T) [VL: 4] (Too low kurtosis)
+ - Kill Aura (Type A) [VL: 2] (Post UseEntity packets.)
+ - Kill Aura (Type C) [VL: 2] (Invalid acceleration.)
+ - Bad Packets (Type X) [VL: 1] (Post ArmAnimation packets.)
+
+Blocks Nearby: [STONE, STONE, STONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STONE, STONE, STONE, COBBLESTONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STONE, STONE, STONE, COBBLESTONE, COBBLESTONE, COBBLESTONE, COBBLESTONE, COBBLESTONE, COBBLESTONE, AIR, COBBLESTONE, AIR]
+Entities Nearby: [CraftPlayer{name=mirco54654}]
+Potion Effects: [SPEED:(985857t-x0)]
+---------------------------------------------------------------------------
+
+
+--------------[ west666 was punished for Kill Aura (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -32.31666672545937
+ - Y: 143.0
+ - Z: 1.4113925625893322
+
+Information:
+ - UUID: be228be7-20c5-3afc-a7c6-5f92aaf61e6d
+ - Keep Alive Ping: 0
+ - Transaction Ping: 13
+ - Server TPS: 19,43
+ - Sensitivity: 685
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 224.8 seconds ago
+
+Total Violations: 895
+ - Combat Violations: 648
+ - Movement Violations: 0
+ - Player Violations: 197
+
+Misc Information:
+ - Since Teleport Ticks: 4496
+ - Since Riptide Ticks: 200
+ - Flying Delay: 65
+ - Since Velocity Ticks: 4496
+ - Since Firework Ticks: 412
+ - Ticks Existed: 4396
+ - Since Vehicle Ticks: 312
+ - Since Liquid Ticks: 312
+ - Queued Transactions: 0
+ - Joined: 221 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Aim (Type B) [VL: 66] (Invalid yaw change.)
+ - Aim (Type K) [VL: 1] (Not constant rotations.)
+ - Aim (Type X) [VL: 254] (Generic rotation analysis heuristic.)
+ - Auto Clicker (Type B) [VL: 11] (Too low standard deviation.)
+ - Auto Clicker (Type E) [VL: 11] (Too low variance.)
+ - Auto Clicker (Type G) [VL: 2] (Too low outliers.)
+ - Auto Clicker (Type J) [VL: 7] (Impossible consistency.)
+ - Auto Clicker (Type M) [VL: 1] (Similar variance values.)
+ - Auto Clicker (Type Q) [VL: 13] (Too low average deviation.)
+ - Auto Clicker (Type R) [VL: 5] (Impossible consistency.)
+ - Hitbox (Type A) [VL: 7] (Attacked while not looking at target.)
+ - Kill Aura (Type A) [VL: 300] (Post UseEntity packets.)
+ - Kill Aura (Type K) [VL: 19] (Attack pattern.)
+ - Reach (Type A) [VL: 1] (Hit from too far away.)
+ - Bad Packets (Type X) [VL: 189] (Post ArmAnimation packets.)
+ - Improbable (Type A) [VL: 3] (Too many combined combat violations.)
+ - Improbable (Type C) [VL: 2] (Too many combined player violations.)
+ - Improbable (Type E) [VL: 3] (Too many combined violations.)
+
+Blocks Nearby: [WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD_DOUBLE_STEP, PISTON_BASE, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Potion Effects: [SPEED:(995617t-x0)]
+---------------------------------------------------------------------------
+
+
+--------------[ west666 was punished for Kill Aura (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -32.31666672545937
+ - Y: 143.0
+ - Z: 1.4113925625893322
+
+Information:
+ - UUID: be228be7-20c5-3afc-a7c6-5f92aaf61e6d
+ - Keep Alive Ping: 0
+ - Transaction Ping: 44
+ - Server TPS: 19,46
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 7.3 seconds ago
+
+Total Violations: 10
+ - Combat Violations: 8
+ - Movement Violations: 0
+ - Player Violations: 2
+
+Misc Information:
+ - Since Teleport Ticks: 146
+ - Since Riptide Ticks: 200
+ - Flying Delay: 50
+ - Since Velocity Ticks: 146
+ - Since Firework Ticks: 205
+ - Ticks Existed: 46
+ - Since Vehicle Ticks: 105
+ - Since Liquid Ticks: 105
+ - Queued Transactions: 0
+ - Joined: 2 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Aim (Type B) [VL: 2] (Invalid yaw change.)
+ - Aim (Type Y) [VL: 1] (Generic rotation analysis heuristic.)
+ - Kill Aura (Type A) [VL: 5] (Post UseEntity packets.)
+ - Bad Packets (Type X) [VL: 2] (Post ArmAnimation packets.)
+
+Blocks Nearby: [WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD_DOUBLE_STEP, PISTON_BASE, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, WOOD_DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Potion Effects: [SPEED:(999955t-x0)]
+---------------------------------------------------------------------------
+
+

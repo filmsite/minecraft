@@ -1,0 +1,512 @@
+[08:52:25] [Server thread/INFO]: Loading properties
+[08:52:25] [Server thread/INFO]: Default game type: ADVENTURE
+[08:52:25] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-21fe707-741a1bd (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[08:52:25] [Server thread/INFO]: Debug logging is disabled
+[08:52:25] [Server thread/INFO]: Using 4 threads for Netty based IO
+[08:52:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
+
+[08:52:25] [Server thread/INFO]: Generating keypair
+[08:52:25] [Server thread/INFO]: Starting Minecraft server on 192.168.0.113:25569
+[08:52:25] [Server thread/INFO]: Using default channel type
+[08:52:25] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[08:52:26] [Server thread/ERROR]: Ambiguous plugin name `ViaVersion' for files `plugins\ViaVersion-4.10.1.jar' and `plugins\ViaVersion-2.2.3.jar' in `plugins'
+[08:52:26] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[08:52:26] [Server thread/ERROR]: Could not load 'plugins\EssentialsXChat-2.18.0.0.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Essentials
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:219) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugins(CraftServer.java:292) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:198) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Thread.java:1570) [?:?]
+[08:52:26] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.10.1
+[08:52:26] [Server thread/INFO]: [ViaVersion] ViaVersion 4.10.1 is now loaded. Registering protocol transformers and injecting...
+[08:52:27] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[08:52:28] [Server thread/INFO]: [Vulcan] Loading Vulcan v2.8.3
+[08:52:29] [Server thread/INFO]: [DeluxeHub] Loading DeluxeHub v3.5.5
+[08:52:29] [Server thread/INFO]: [MaxBans] Loading MaxBans v2.7
+[08:52:29] [Server thread/INFO]: [SuperVanish] Loading SuperVanish v6.1.0
+[08:52:29] [Server thread/INFO]: [TAB] Loading TAB v4.1.5
+[08:52:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08:52:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[08:52:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08:52:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[08:52:29] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[08:52:29] [Server thread/INFO]: Preparing level "world"
+[08:52:29] [Server thread/INFO]: -------- World Settings For [world] --------
+[08:52:29] [Server thread/INFO]: Anti X-Ray: true
+[08:52:29] [Server thread/INFO]: 	Engine Mode: 1
+[08:52:29] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[08:52:29] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[08:52:29] [Server thread/INFO]: Item Merge Radius: 2.5
+[08:52:29] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08:52:29] [Server thread/INFO]: Item Despawn Rate: 6000
+[08:52:29] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[08:52:29] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[08:52:29] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[08:52:29] [Server thread/INFO]: Mob Spawn Range: 4
+[08:52:29] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[08:52:29] [Server thread/INFO]: Max Entity Collisions: 8
+[08:52:29] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[08:52:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[08:52:29] [Server thread/INFO]: Cane Growth Modifier: 100%
+[08:52:29] [Server thread/INFO]: Melon Growth Modifier: 100%
+[08:52:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[08:52:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[08:52:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[08:52:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[08:52:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[08:52:29] [Server thread/INFO]: Random Lighting Updates: false
+[08:52:29] [Server thread/INFO]: Sending up to 10 chunks per packet
+[08:52:29] [Server thread/INFO]: Structure Info Saving: true
+[08:52:29] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[08:52:29] [Server thread/INFO]: Max TNT Explosions: 100
+[08:52:29] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[08:52:29] [Server thread/INFO]: Experience Merge Radius: 3.0
+[08:52:29] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[08:52:29] [Server thread/INFO]: Clear tick list: false
+[08:52:29] [Server thread/INFO]: View Distance: 10
+[08:52:29] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[08:52:29] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[08:52:29] [Server thread/INFO]: Anti X-Ray: true
+[08:52:29] [Server thread/INFO]: 	Engine Mode: 1
+[08:52:29] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[08:52:29] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[08:52:29] [Server thread/INFO]: Item Merge Radius: 2.5
+[08:52:29] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08:52:29] [Server thread/INFO]: Item Despawn Rate: 6000
+[08:52:29] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[08:52:29] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[08:52:29] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[08:52:29] [Server thread/INFO]: Mob Spawn Range: 4
+[08:52:29] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[08:52:29] [Server thread/INFO]: Max Entity Collisions: 8
+[08:52:29] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[08:52:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[08:52:29] [Server thread/INFO]: Cane Growth Modifier: 100%
+[08:52:29] [Server thread/INFO]: Melon Growth Modifier: 100%
+[08:52:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[08:52:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[08:52:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[08:52:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[08:52:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[08:52:29] [Server thread/INFO]: Random Lighting Updates: false
+[08:52:29] [Server thread/INFO]: Sending up to 10 chunks per packet
+[08:52:29] [Server thread/INFO]: Structure Info Saving: true
+[08:52:29] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[08:52:29] [Server thread/INFO]: Max TNT Explosions: 100
+[08:52:29] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[08:52:29] [Server thread/INFO]: Experience Merge Radius: 3.0
+[08:52:29] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[08:52:29] [Server thread/INFO]: Clear tick list: false
+[08:52:29] [Server thread/INFO]: View Distance: 10
+[08:52:29] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[08:52:29] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[08:52:29] [Server thread/INFO]: Anti X-Ray: true
+[08:52:29] [Server thread/INFO]: 	Engine Mode: 1
+[08:52:29] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[08:52:29] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[08:52:29] [Server thread/INFO]: Item Merge Radius: 2.5
+[08:52:29] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08:52:29] [Server thread/INFO]: Item Despawn Rate: 6000
+[08:52:29] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[08:52:29] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[08:52:29] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[08:52:29] [Server thread/INFO]: Mob Spawn Range: 4
+[08:52:29] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[08:52:29] [Server thread/INFO]: Max Entity Collisions: 8
+[08:52:29] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[08:52:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[08:52:29] [Server thread/INFO]: Cane Growth Modifier: 100%
+[08:52:29] [Server thread/INFO]: Melon Growth Modifier: 100%
+[08:52:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[08:52:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[08:52:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[08:52:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[08:52:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[08:52:29] [Server thread/INFO]: Random Lighting Updates: false
+[08:52:29] [Server thread/INFO]: Sending up to 10 chunks per packet
+[08:52:29] [Server thread/INFO]: Structure Info Saving: true
+[08:52:29] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[08:52:29] [Server thread/INFO]: Max TNT Explosions: 100
+[08:52:29] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[08:52:29] [Server thread/INFO]: Experience Merge Radius: 3.0
+[08:52:29] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[08:52:29] [Server thread/INFO]: Clear tick list: false
+[08:52:29] [Server thread/INFO]: View Distance: 10
+[08:52:29] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[08:52:29] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3342649254010080544)
+[08:52:30] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3342649254010080544)
+[08:52:31] [Server thread/INFO]: Preparing spawn area: 43%
+[08:52:31] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3342649254010080544)
+[08:52:32] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.10.1
+[08:52:32] [Server thread/INFO]: [Vulcan] Enabling Vulcan v2.8.3
+[08:52:33] [Server thread/INFO]: [Vulcan] Server Version: 1.8.8 detected!
+[08:52:33] [Server thread/INFO]: [Vulcan] BStats enabled!
+[08:52:33] [Server thread/INFO]: [DeluxeHub] Enabling DeluxeHub v3.5.5
+[08:52:33] [Server thread/INFO]: [DeluxeHub]  _   _            _          _    _ 
+[08:52:33] [Server thread/INFO]: [DeluxeHub] | \ |_ |  | | \/ |_ |_| | | |_)   _)
+[08:52:33] [Server thread/INFO]: [DeluxeHub] |_/ |_ |_ |_| /\ |_ | | |_| |_)   _)
+[08:52:33] [Server thread/INFO]: [DeluxeHub] 
+[08:52:33] [Server thread/INFO]: [DeluxeHub] Version: 3.5.5
+[08:52:33] [Server thread/INFO]: [DeluxeHub] Author: ItsLewizzz
+[08:52:33] [Server thread/INFO]: [DeluxeHub] 
+[08:52:34] [Server thread/INFO]: [DeluxeHub] Loaded custom menu 'serverselector'.
+[08:52:34] [Server thread/INFO]: [DeluxeHub] Loaded 14 plugin modules.
+[08:52:34] [Server thread/INFO]: [DeluxeHub] 
+[08:52:34] [Server thread/INFO]: [DeluxeHub] Successfully loaded in 511ms
+[08:52:34] [Server thread/INFO]: [MaxBans] Enabling MaxBans v2.7
+[08:52:34] [Server thread/INFO]: [MaxBans] Using SQLite
+[08:52:34] [Server thread/INFO]: [MaxBans] Using Sync.
+[08:52:34] [Server thread/INFO]: [MaxBans] Loading from DB...
+[08:52:34] [Server thread/INFO]: [MaxBans] Loading bans
+[08:52:34] [Server thread/INFO]: [MaxBans] Loading ipbans
+[08:52:34] [Server thread/INFO]: [MaxBans] Loading mutes
+[08:52:34] [Server thread/INFO]: [MaxBans] Loading player names...
+[08:52:34] [Server thread/INFO]: [MaxBans] Loading IP History
+[08:52:34] [Server thread/INFO]: [MaxBans] Loading warn history...
+[08:52:34] [Server thread/INFO]: [MaxBans] Loading chat commands...
+[08:52:34] [Server thread/INFO]: [MaxBans] Loading history...
+[08:52:34] [Server thread/INFO]: [MaxBans] Starting DNS blacklist
+[08:52:34] [Server thread/INFO]: [MaxBans] Loading proxys...
+[08:52:34] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v6.1.0
+[08:52:34] [Server thread/INFO]: [SuperVanish] Please install ProtocolLib to be able to use all SuperVanish features: https://www.spigotmc.org/resources/protocollib.1997/
+[08:52:34] [Server thread/INFO]: [TAB] Enabling TAB v4.1.5
+[08:52:34] [Server thread/INFO]: [TAB] [0;37;22mLoaded NMS hook in 70ms[m
+
+[08:52:35] [Server thread/INFO]: [TAB] [0;32;1mEnabled in 337ms[m
+
+[08:52:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[08:52:35] [Server thread/INFO]: Done (6,316s)! For help, type "help" or "?"
+[08:52:35] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.8.x (47)
+[08:52:35] [Server thread/WARN]: [ViaVersion] This version of Minecraft is extremely outdated and support for it has reached its end of life. You will still be able to run Via on this Minecraft version, but we are unlikely to provide any further fixes or help with problems specific to legacy Minecraft versions. Please consider updating to give your players a better experience and to avoid issues that have long been fixed.
+[08:52:35] [Craft Scheduler Thread - 3/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[08:52:35] [Server thread/INFO]: [SuperVanish] Your current version of SuperVanish is outdated - New version: '6.2.18'; Currently: '6.1.0'
+[08:52:35] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 4.10.2, you're on: 4.10.1
+[08:52:45] [Spigot Watchdog Thread/ERROR]: The server has stopped responding!
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Please report this to http://www.spigotmc.org/
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Be sure to include ALL relevant console errors and Minecraft crash reports
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Spigot version: git-Spigot-21fe707-741a1bd (MC: 1.8.8)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Spigot!):
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	PID: 37 | Suspended: false | Native: false | State: TIMED_WAITING
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.sleepNanos0(Native Method)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.sleepNanos(Thread.java:491)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.sleep(Thread.java:522)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:540)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.runWith(Thread.java:1583)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.run(Thread.java:1570)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Entire Thread Dump:
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Current Thread: Reference Handler
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	PID: 9 | Suspended: false | Native: false | State: RUNNABLE
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.ref.Reference.waitForReferencePendingList(Native Method)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.ref.Reference.processPendingReferences(Reference.java:246)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.ref.Reference$ReferenceHandler.run(Reference.java:208)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Current Thread: Finalizer
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	PID: 10 | Suspended: false | Native: false | State: WAITING
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Object.wait0(Native Method)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Object.wait(Object.java:375)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Object.wait(Object.java:348)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.ref.NativeReferenceQueue.await(NativeReferenceQueue.java:48)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:158)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.ref.NativeReferenceQueue.remove(NativeReferenceQueue.java:89)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:173)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Current Thread: Signal Dispatcher
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	PID: 11 | Suspended: false | Native: false | State: RUNNABLE
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Current Thread: Attach Listener
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	PID: 12 | Suspended: false | Native: false | State: RUNNABLE
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Current Thread: Notification Thread
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: false | State: RUNNABLE
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Current Thread: Common-Cleaner
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	PID: 20 | Suspended: false | Native: false | State: TIMED_WAITING
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1847)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:71)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:143)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:218)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/jdk.internal.ref.CleanerImpl.run(CleanerImpl.java:140)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.runWith(Thread.java:1583)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.run(Thread.java:1570)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/jdk.internal.misc.InnocuousThread.run(InnocuousThread.java:186)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Current Thread: Snooper Timer
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	PID: 31 | Suspended: false | Native: false | State: TIMED_WAITING
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Object.wait0(Native Method)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Object.wait(Object.java:375)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.TimerThread.mainLoop(Timer.java:568)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.TimerThread.run(Timer.java:521)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Current Thread: WindowsStreamPump
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	PID: 33 | Suspended: false | Native: true | State: RUNNABLE
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		app/jdk.internal.le@22.0.1/jdk.internal.org.jline.terminal.impl.jna.win.Kernel32Impl.WaitForSingleObject(Native Method)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		app/jdk.internal.le@22.0.1/jdk.internal.org.jline.terminal.impl.jna.win.JnaWinSysTerminal.readConsoleInput(JnaWinSysTerminal.java:210)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		app/jdk.internal.le@22.0.1/jdk.internal.org.jline.terminal.impl.jna.win.JnaWinSysTerminal.processConsoleInput(JnaWinSysTerminal.java:133)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		app/jdk.internal.le@22.0.1/jdk.internal.org.jline.terminal.impl.AbstractWindowsTerminal.pump(AbstractWindowsTerminal.java:436)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		app/jdk.internal.le@22.0.1/jdk.internal.org.jline.terminal.impl.AbstractWindowsTerminal$$Lambda/0x000001d5012835e8.run(Unknown Source)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.runWith(Thread.java:1583)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.run(Thread.java:1570)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Current Thread: NonBlockingInputStreamThread
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	PID: 35 | Suspended: false | Native: false | State: WAITING
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Object.wait0(Native Method)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Object.wait(Object.java:375)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.run(NonBlockingInputStream.java:278)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.runWith(Thread.java:1583)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.run(Thread.java:1570)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Current Thread: Server Infinisleeper
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	PID: 38 | Suspended: false | Native: false | State: TIMED_WAITING
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.sleepNanos0(Native Method)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.sleepNanos(Thread.java:491)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.sleep(Thread.java:522)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.DedicatedServer$1.run(DedicatedServer.java:54)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	PID: 37 | Suspended: false | Native: false | State: TIMED_WAITING
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.sleepNanos0(Native Method)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.sleepNanos(Thread.java:491)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.sleep(Thread.java:522)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:540)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.runWith(Thread.java:1583)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.run(Thread.java:1570)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Current Thread: DestroyJavaVM
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	PID: 39 | Suspended: false | Native: false | State: RUNNABLE
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Current Thread: Thread-3
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	PID: 41 | Suspended: false | Native: false | State: RUNNABLE
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.drawLine(ConsoleReader.java:597)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_8_R3.util.TerminalConsoleWriterThread.run(TerminalConsoleWriterThread.java:38)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.runWith(Thread.java:1583)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.run(Thread.java:1570)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Current Thread: Server console handler
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	PID: 40 | Suspended: false | Native: true | State: RUNNABLE
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		Locked on:app//org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		Locked on:app//org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		Locked on:app//org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		app//org.fusesource.jansi.internal.Kernel32.ReadConsoleInputW(Native Method)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		app//org.fusesource.jansi.internal.Kernel32.readConsoleInputHelper(Kernel32.java:761)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		app//org.fusesource.jansi.internal.Kernel32.readConsoleKeyInput(Kernel32.java:794)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		app//org.fusesource.jansi.internal.WindowsSupport.readConsoleInput(WindowsSupport.java:97)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.WindowsTerminal.readConsoleInput(WindowsTerminal.java:215)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.WindowsTerminal.access$000(WindowsTerminal.java:55)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.WindowsTerminal$1.read(WindowsTerminal.java:157)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2349)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.DedicatedServer$2.run(DedicatedServer.java:79)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Current Thread: Spigot Watchdog Thread
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	PID: 44 | Suspended: false | Native: false | State: RUNNABLE
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.management@22.0.1/sun.management.ThreadImpl.dumpThreads0(Native Method)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.management@22.0.1/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:518)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.management@22.0.1/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:506)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		app//org.spigotmc.WatchdogThread.run(WatchdogThread.java:76)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Current Thread: Spigot Metrics Thread
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	PID: 45 | Suspended: false | Native: false | State: TIMED_WAITING
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Object.wait0(Native Method)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Object.wait(Object.java:375)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.TimerThread.mainLoop(Timer.java:568)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.TimerThread.run(Timer.java:521)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Server IO #0
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	PID: 46 | Suspended: false | Native: true | State: RUNNABLE
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.base@22.0.1/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:130)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.base@22.0.1/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:130)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/sun.nio.ch.WEPoll.wait(Native Method)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/sun.nio.ch.WEPollSelectorImpl.doSelect(WEPollSelectorImpl.java:114)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:130)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/sun.nio.ch.SelectorImpl.select(SelectorImpl.java:142)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		app//io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:622)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		app//io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:310)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		app//io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.runWith(Thread.java:1583)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.run(Thread.java:1570)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Current Thread: Keep-Alive-Timer
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	PID: 64 | Suspended: false | Native: false | State: TIMED_WAITING
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.sleepNanos0(Native Method)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.sleepNanos(Thread.java:491)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.sleep(Thread.java:522)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/sun.net.www.http.KeepAliveCache.run(KeepAliveCache.java:238)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.runWith(Thread.java:1583)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.run(Thread.java:1570)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/jdk.internal.misc.InnocuousThread.run(InnocuousThread.java:186)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Current Thread: bStats-Metrics
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	PID: 65 | Suspended: false | Native: false | State: TIMED_WAITING
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1758)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.runWith(Thread.java:1583)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.run(Thread.java:1570)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Current Thread: bStats-Metrics
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	PID: 66 | Suspended: false | Native: false | State: TIMED_WAITING
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1758)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.runWith(Thread.java:1583)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.run(Thread.java:1570)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Current Thread: Thread-5
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	PID: 67 | Suspended: false | Native: false | State: TIMED_WAITING
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.sleepNanos0(Native Method)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.sleepNanos(Thread.java:491)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.sleep(Thread.java:522)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		org.maxgamer.maxbans.sync.ClientToServerConnection$1.run(ClientToServerConnection.java:75)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Current Thread: bStats-Metrics
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	PID: 68 | Suspended: false | Native: false | State: TIMED_WAITING
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1758)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.runWith(Thread.java:1583)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.run(Thread.java:1570)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Current Thread: TAB Processing Thread
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	PID: 69 | Suspended: false | Native: false | State: TIMED_WAITING
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1758)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.runWith(Thread.java:1583)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.run(Thread.java:1570)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Current Thread: Craft Scheduler Thread - 0
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	PID: 70 | Suspended: false | Native: false | State: TIMED_WAITING
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:410)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.LinkedTransferQueue$DualNode.await(LinkedTransferQueue.java:452)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.SynchronousQueue$Transferer.xferLifo(SynchronousQueue.java:194)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.SynchronousQueue.xfer(SynchronousQueue.java:233)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:336)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1069)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.runWith(Thread.java:1583)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.run(Thread.java:1570)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Current Thread: Craft Scheduler Thread - 1
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	PID: 71 | Suspended: false | Native: false | State: TIMED_WAITING
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:410)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.LinkedTransferQueue$DualNode.await(LinkedTransferQueue.java:452)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.SynchronousQueue$Transferer.xferLifo(SynchronousQueue.java:194)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.SynchronousQueue.xfer(SynchronousQueue.java:233)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:336)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1069)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.runWith(Thread.java:1583)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.run(Thread.java:1570)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Current Thread: Craft Scheduler Thread - 2
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	PID: 72 | Suspended: false | Native: false | State: TIMED_WAITING
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:410)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.LinkedTransferQueue$DualNode.await(LinkedTransferQueue.java:452)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.SynchronousQueue$Transferer.xferLifo(SynchronousQueue.java:194)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.SynchronousQueue.xfer(SynchronousQueue.java:233)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:336)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1069)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.runWith(Thread.java:1583)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.run(Thread.java:1570)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Current Thread: Craft Scheduler Thread - 3
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	PID: 73 | Suspended: false | Native: false | State: TIMED_WAITING
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:410)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.LinkedTransferQueue$DualNode.await(LinkedTransferQueue.java:452)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.SynchronousQueue$Transferer.xferLifo(SynchronousQueue.java:194)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.SynchronousQueue.xfer(SynchronousQueue.java:233)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:336)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1069)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.runWith(Thread.java:1583)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.run(Thread.java:1570)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[08:52:45] [Spigot Watchdog Thread/ERROR]: Current Thread: TAB Placeholder Refreshing Thread
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	PID: 75 | Suspended: false | Native: false | State: WAITING
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:4013)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3961)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1707)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.runWith(Thread.java:1583)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: 		java.base@22.0.1/java.lang.Thread.run(Thread.java:1570)
+[08:52:45] [Spigot Watchdog Thread/ERROR]: ------------------------------

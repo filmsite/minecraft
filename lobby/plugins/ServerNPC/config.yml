@@ -1,0 +1,18 @@
+ServerNPC:
+  Cannotuse:
+    dot: '&cYou can not use a . in your ServerNPC name!'
+  NPC:
+    samename: '&cYou can not create a ServerNPC with the same name!'
+  look-close: true
+  created: '&aYou have succesfully created a ServerNPC!'
+  Error:
+    remove: '&cYou can not delete this ServerNPC!'
+  removed: '&aYou have succesfully deleted this ServerNPC!'
+  Registrated: '&cThis BungeeNPC is not registraded!'
+  Reload:
+    Nopermission: '&cYou have no permissions to reload!'
+    Succesfully: '&aYou have succesfully reloaded the server!'
+  npc-click-message: '&aYou have connected to %server% server!'
+  use-permission: false
+  click-sound: ANVIL_LAND
+  npc-permission-message: '&cYou dont have permissions to join this server!'

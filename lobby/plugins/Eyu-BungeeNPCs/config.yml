@@ -1,0 +1,26 @@
+update-notification: true
+
+Hologram:
+  YAxisAdd: 2.5
+  Lines:
+    - "&b%NPCName%"
+    - "&e{online: %server%} players"
+
+Messages:
+  rightClick: "&aSending you to the &7%server% &aserver."
+  cmdNoPerm: "&c&lERROR: &7You don't have permission to use this command."
+  npcNoPerm: "&c&lERROR: &7You don't have permission to use the &e%server% &7NPC."
+  onlyPlayers: "&c&lERROR: &7This command is only available for players."
+  cooldown: "&9&lINFO: &7You can use this NPC again in &e%time% &7seconds."
+
+cooldownTime: 5
+
+Permissions:
+  create: servernpc.create
+  delete: servernpc.delete
+  list: servernpc.list
+  reload: servernpc.reload
+  addCommand: servernpc.addcommand
+  allTheAbove: servernpc.admin
+
+NPCS: []

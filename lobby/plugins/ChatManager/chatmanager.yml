@@ -1,0 +1,7 @@
+message_when_chat_is_closed: true
+player_message_when_chat_is_closed: '&cGlobal tchat is closed ! You can''t speak ;P'
+clear_chat_message: '&eYou clean up the tchat !'
+chat_on_message: '&eTchat is open !'
+chat_already_on_message: '&eTchat is already open !'
+chat_off_message: '&eTchat is closed !'
+chat_already_off_message: '&eTchat is already closed !'

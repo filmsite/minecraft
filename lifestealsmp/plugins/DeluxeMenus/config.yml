@@ -1,0 +1,22 @@
+# DeluxeMenus 1.14.0-Release main configuration file
+#
+# A full wiki on how to use this plugin can be found at:
+# https://wiki.helpch.at/clips-plugins/deluxemenus
+
+debug: false
+check_updates: true
+gui_menus:
+  MainMenu:
+    file: BASIC/Menu.yml
+  Rules:
+    file: BASIC/Rules.yml
+  Points:
+    file: BASIC/Points_Shop.yml
+  Warp-Menu:
+    file: WARP/Menu.yml
+  Warp-RTP:
+    file: WARP/RTP.yml
+  Warp-Server:
+    file: WARP/Server.yml
+  Ranks-Menu:
+    file: RANKS/Menu.yml

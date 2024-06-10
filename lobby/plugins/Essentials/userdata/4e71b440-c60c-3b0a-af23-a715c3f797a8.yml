@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.0.113
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716708857755
+  login: 1716708659080
+money: '0'
+last-account-name: mirco5
+logoutlocation:
+  world: f878f706-9df7-463f-a680-e93a1a45a32d
+  world-name: world
+  x: -32.4565455354592
+  y: 143.0
+  z: 1.3439637476634718
+  yaw: 98.619140625
+  pitch: -9.667983055114746

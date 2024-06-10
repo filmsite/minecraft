@@ -1,0 +1,18 @@
+22.05.2024 - 22:20:45 - [TAB v4.1.4] An error was thrown when executing task
+22.05.2024 - 22:20:45 - java.util.ConcurrentModificationException: null
+22.05.2024 - 22:20:45 - 	at java.base/java.util.HashMap.computeIfAbsent(HashMap.java:1229)
+22.05.2024 - 22:20:45 - 	at me.neznamy.tab.shared.util.ComponentCache.get(ComponentCache.java:44)
+22.05.2024 - 22:20:45 - 	at me.neznamy.tab.shared.chat.TabComponent.optimized(TabComponent.java:78)
+22.05.2024 - 22:20:45 - 	at me.neznamy.tab.shared.features.HeaderFooter.sendHeaderFooter(HeaderFooter.java:144)
+22.05.2024 - 22:20:45 - 	at me.neznamy.tab.shared.features.HeaderFooter.refresh(HeaderFooter.java:87)
+22.05.2024 - 22:20:45 - 	at me.neznamy.tab.shared.features.PlaceholderManagerImpl.refreshFeatures(PlaceholderManagerImpl.java:107)
+22.05.2024 - 22:20:45 - 	at me.neznamy.tab.shared.features.PlaceholderManagerImpl.processRefreshResults(PlaceholderManagerImpl.java:100)
+22.05.2024 - 22:20:45 - 	at me.neznamy.tab.shared.features.PlaceholderManagerImpl.lambda$refresh$0(PlaceholderManagerImpl.java:88)
+22.05.2024 - 22:20:45 - 	at me.neznamy.tab.shared.cpu.CpuManager.run(CpuManager.java:158)
+22.05.2024 - 22:20:45 - 	at me.neznamy.tab.shared.cpu.CpuManager.lambda$submit$1(CpuManager.java:96)
+22.05.2024 - 22:20:45 - 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+22.05.2024 - 22:20:45 - 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+22.05.2024 - 22:20:45 - 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+22.05.2024 - 22:20:45 - 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+22.05.2024 - 22:20:45 - 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+22.05.2024 - 22:20:45 - 	at java.base/java.lang.Thread.run(Thread.java:1570)

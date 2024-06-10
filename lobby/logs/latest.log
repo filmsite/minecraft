@@ -1,0 +1,29 @@
+[14:45:30] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[14:45:30] [Server thread/INFO]: Loading properties
+[14:45:30] [Server thread/INFO]: Default game type: SURVIVAL
+[14:45:30] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-21fe707-741a1bd (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[14:45:30] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[14:45:30] [Server thread/WARN]: Couldn't load server icon
+java.lang.IllegalArgumentException: Must be 64 pixels wide
+	at org.apache.commons.lang.Validate.isTrue(Validate.java:136) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadServerIcon0(CraftServer.java:1672) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadServerIcon0(CraftServer.java:1660) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadIcon(CraftServer.java:749) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.<init>(CraftServer.java:250) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.PlayerList.<init>(PlayerList.java:71) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedPlayerList.<init>(SourceFile:14) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:176) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Thread.java:1570) [?:?]
+[14:45:30] [Server thread/INFO]: Debug logging is disabled
+[14:45:30] [Server thread/INFO]: Server Ping Player Sample Count: 12
+
+[14:45:30] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:45:30] [Server thread/INFO]: Generating keypair
+[14:45:30] [Server thread/INFO]: Starting Minecraft server on 194.164.174.71:25566
+[14:45:30] [Server thread/INFO]: Using default channel type
+[14:45:30] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[14:45:30] [Server thread/WARN]: The exception was: java.net.BindException: Cannot assign requested address: bind
+[14:45:30] [Server thread/WARN]: Perhaps a server is already running on that port?
+[14:45:30] [Server thread/INFO]: Stopping server
+[14:45:30] [Server thread/INFO]: Saving players

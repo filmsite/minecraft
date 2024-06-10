@@ -1,0 +1,8 @@
+material: GOLDEN_SWORD
+name: "&6Blade of the Phoenix"
+lore:
+  - "&7Crafted from the feathers of a mythical phoenix,"
+  - "&7this sword burns with the fury of a thousand suns."
+enchants:
+  - FIRE_ASPECT:2
+  - UNBREAKING:3

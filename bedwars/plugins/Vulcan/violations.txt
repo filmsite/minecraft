@@ -1,0 +1,171 @@
+[05-21-2024] [20:45:09] fdrco54654dfgdf failed Invalid (Type D) [VL: 1] [Ping: 0] [TPS: 19,42] [Version: 1.8] [Client: Unresolved] deltaYaw=30.0 acceleration=7.278826319456755E-9
+[05-21-2024] [20:45:34] fdrco54654dfgdf failed Invalid (Type D) [VL: 2] [Ping: 0] [TPS: 19,54] [Version: 1.8] [Client: Unresolved] deltaYaw=30.0 acceleration=3.148611515957356E-8
+[05-21-2024] [20:45:55] fdrco54654dfgdf failed Kill Aura (Type A) [VL: 1] [Ping: 0] [TPS: 19,59] [Version: 1.8] [Client: Unresolved] delay=57
+[05-21-2024] [20:45:55] fdrco54654dfgdf failed Kill Aura *(Type L)* [VL: 1] [Ping: 0] [TPS: 19,59] [Version: 1.8] [Client: Unresolved] d=0.9800000289371961 a=0.0 s=99
+[05-21-2024] [20:45:55] fdrco54654dfgdf failed Kill Aura *(Type L)* [VL: 2] [Ping: 0] [TPS: 19,59] [Version: 1.8] [Client: Unresolved] d=0.9800000086006078 a=2.0336588302249936E-8 s=301
+[05-21-2024] [20:45:56] fdrco54654dfgdf failed Aim (Type B) [VL: 1] [Ping: 0] [TPS: 19,59] [Version: 1.8] [Client: Unresolved] deltaYaw=30.0
+[05-21-2024] [20:45:56] fdrco54654dfgdf failed Kill Aura (Type A) [VL: 2] [Ping: 0] [TPS: 19,59] [Version: 1.8] [Client: Unresolved] delay=66
+[05-21-2024] [20:45:56] fdrco54654dfgdf failed Bad Packets (Type X) [VL: 1] [Ping: 0] [TPS: 19,59] [Version: 1.8] [Client: Unresolved] 
+[05-21-2024] [20:45:56] fdrco54654dfgdf failed Aim (Type B) [VL: 2] [Ping: 0] [TPS: 19,59] [Version: 1.8] [Client: Unresolved] deltaYaw=30.0
+[05-21-2024] [20:45:56] fdrco54654dfgdf failed Aim (Type B) [VL: 3] [Ping: 0] [TPS: 19,59] [Version: 1.8] [Client: Unresolved] deltaYaw=30.0
+[05-21-2024] [20:45:56] fdrco54654dfgdf failed Kill Aura (Type A) [VL: 3] [Ping: 0] [TPS: 19,59] [Version: 1.8] [Client: Unresolved] delay=59
+[05-21-2024] [20:46:01] fdrco54654dfgdf failed Kill Aura (Type A) [VL: 1] [Ping: 0] [TPS: 19,57] [Version: 1.8] [Client: Unresolved] delay=75
+[05-21-2024] [20:46:01] fdrco54654dfgdf failed Kill Aura (Type A) [VL: 2] [Ping: 0] [TPS: 19,57] [Version: 1.8] [Client: Unresolved] delay=70
+[05-21-2024] [20:57:36] fdrco54654dfgdf failed Invalid (Type D) [VL: 1] [Ping: 0] [TPS: 19,69] [Version: 1.8] [Client: Unresolved] deltaYaw=19.335953 acceleration=2.7132581181810167E-8
+[05-22-2024] [17:43:33] fdrco54654dfgdf failed Invalid (Type D) [VL: 1] [Ping: 1] [TPS: 19,21] [Version: 1.8] [Client: Unresolved] deltaYaw=30.0 acceleration=1.3479481308920072E-8
+[05-22-2024] [17:43:52] fdrco54654dfgdf failed Kill Aura (Type A) [VL: 1] [Ping: 0] [TPS: 19,34] [Version: 1.8] [Client: Unresolved] delay=49
+[05-22-2024] [17:43:53] fdrco54654dfgdf failed Kill Aura (Type A) [VL: 2] [Ping: 0] [TPS: 19,34] [Version: 1.8] [Client: Unresolved] delay=42
+[05-22-2024] [17:43:53] fdrco54654dfgdf failed Bad Packets (Type X) [VL: 1] [Ping: 0] [TPS: 19,34] [Version: 1.8] [Client: Unresolved] 
+[05-22-2024] [17:43:53] fdrco54654dfgdf failed Kill Aura (Type A) [VL: 3] [Ping: 0] [TPS: 19,34] [Version: 1.8] [Client: Unresolved] delay=49
+[05-22-2024] [17:43:57] fdrco54654dfgdf failed Aim (Type B) [VL: 1] [Ping: 0] [TPS: 19,32] [Version: 1.8] [Client: Unresolved] deltaYaw=30.0
+[05-22-2024] [17:43:57] fdrco54654dfgdf failed Kill Aura (Type A) [VL: 1] [Ping: 0] [TPS: 19,32] [Version: 1.8] [Client: Unresolved] delay=50
+[05-22-2024] [17:43:57] fdrco54654dfgdf failed Aim (Type B) [VL: 2] [Ping: 0] [TPS: 19,32] [Version: 1.8] [Client: Unresolved] deltaYaw=30.0
+[05-22-2024] [17:43:57] fdrco54654dfgdf failed Aim (Type B) [VL: 3] [Ping: 0] [TPS: 19,32] [Version: 1.8] [Client: Unresolved] deltaYaw=30.0
+[05-22-2024] [17:43:57] fdrco54654dfgdf failed Kill Aura (Type A) [VL: 2] [Ping: 0] [TPS: 19,32] [Version: 1.8] [Client: Unresolved] delay=51
+[05-22-2024] [17:43:57] fdrco54654dfgdf failed Bad Packets (Type X) [VL: 1] [Ping: 0] [TPS: 19,32] [Version: 1.8] [Client: Unresolved] 
+[05-22-2024] [18:48:36] fdrco54654dfgdf failed Invalid (Type D) [VL: 1] [Ping: 0] [TPS: 19,62] [Version: 1.8] [Client: Unresolved] deltaYaw=30.0 acceleration=0.0
+[05-22-2024] [19:07:32] fdrco54654dfgdf failed Invalid (Type D) [VL: 1] [Ping: 4] [TPS: 19,47] [Version: 1.8] [Client: Unresolved] deltaYaw=21.717407 acceleration=3.0104154724597265E-9
+[05-23-2024] [17:17:52] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 1] [Ping: 0] [TPS: 19,62] [Version: 1.8] [Client: Unresolved] delay=16
+[05-23-2024] [17:17:52] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 2] [Ping: 0] [TPS: 19,62] [Version: 1.8] [Client: Unresolved] delay=12
+[05-23-2024] [17:17:52] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 3] [Ping: 0] [TPS: 19,62] [Version: 1.8] [Client: Unresolved] delay=6
+[05-23-2024] [17:17:52] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 4] [Ping: 0] [TPS: 19,62] [Version: 1.8] [Client: Unresolved] delay=2
+[05-23-2024] [17:17:52] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 5] [Ping: 0] [TPS: 19,62] [Version: 1.8] [Client: Unresolved] delay=3
+[05-23-2024] [17:17:59] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 1] [Ping: 0] [TPS: 19,59] [Version: 1.8] [Client: Unresolved] delay=1
+[05-23-2024] [17:17:59] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 3] [Ping: 0] [TPS: 19,59] [Version: 1.8] [Client: Unresolved] delay=2
+[05-23-2024] [17:17:59] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 3] [Ping: 0] [TPS: 19,59] [Version: 1.8] [Client: Unresolved] delay=0
+[05-23-2024] [17:18:00] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 4] [Ping: 0] [TPS: 19,59] [Version: 1.8] [Client: Unresolved] delay=4
+[05-23-2024] [17:18:00] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 5] [Ping: 0] [TPS: 19,59] [Version: 1.8] [Client: Unresolved] delay=1
+[05-23-2024] [17:18:03] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 1] [Ping: 0] [TPS: 19,59] [Version: 1.8] [Client: Unresolved] delay=47
+[05-23-2024] [17:18:04] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 2] [Ping: 0] [TPS: 19,59] [Version: 1.8] [Client: Unresolved] delay=49
+[05-23-2024] [17:18:04] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 3] [Ping: 0] [TPS: 19,59] [Version: 1.8] [Client: Unresolved] delay=50
+[05-23-2024] [17:18:04] fdrco54654dfgdf failed Bad Packets (Type P) [VL: 1] [Ping: 0] [TPS: 19,59] [Version: 1.8] [Client: Unresolved] 
+[05-23-2024] [17:18:04] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 4] [Ping: 0] [TPS: 19,59] [Version: 1.8] [Client: Unresolved] delay=50
+[05-23-2024] [17:18:04] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 5] [Ping: 0] [TPS: 19,59] [Version: 1.8] [Client: Unresolved] delay=50
+[05-23-2024] [17:18:09] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 1] [Ping: 0] [TPS: 19,6] [Version: 1.8] [Client: Unresolved] delay=0
+[05-23-2024] [17:18:09] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 2] [Ping: 0] [TPS: 19,6] [Version: 1.8] [Client: Unresolved] delay=35
+[05-23-2024] [17:18:09] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 3] [Ping: 0] [TPS: 19,6] [Version: 1.8] [Client: Unresolved] delay=54
+[05-23-2024] [17:18:10] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 4] [Ping: 0] [TPS: 19,6] [Version: 1.8] [Client: Unresolved] delay=38
+[05-23-2024] [17:18:10] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 5] [Ping: 0] [TPS: 19,6] [Version: 1.8] [Client: Unresolved] delay=61
+[05-23-2024] [17:18:31] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 1] [Ping: 0] [TPS: 19,62] [Version: 1.8] [Client: Unresolved] delay=0
+[05-23-2024] [17:18:31] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 2] [Ping: 0] [TPS: 19,62] [Version: 1.8] [Client: Unresolved] delay=6
+[05-23-2024] [17:18:31] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 3] [Ping: 0] [TPS: 19,62] [Version: 1.8] [Client: Unresolved] delay=48
+[05-23-2024] [17:18:31] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 4] [Ping: 0] [TPS: 19,62] [Version: 1.8] [Client: Unresolved] delay=64
+[05-23-2024] [17:18:31] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 5] [Ping: 0] [TPS: 19,62] [Version: 1.8] [Client: Unresolved] delay=27
+[05-23-2024] [17:18:56] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 1] [Ping: 0] [TPS: 19,66] [Version: 1.8] [Client: Unresolved] delay=0
+[05-23-2024] [17:18:56] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 2] [Ping: 0] [TPS: 19,66] [Version: 1.8] [Client: Unresolved] delay=0
+[05-23-2024] [17:18:56] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 3] [Ping: 0] [TPS: 19,66] [Version: 1.8] [Client: Unresolved] delay=49
+[05-23-2024] [17:18:56] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 4] [Ping: 0] [TPS: 19,66] [Version: 1.8] [Client: Unresolved] delay=68
+[05-23-2024] [17:18:56] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 5] [Ping: 0] [TPS: 19,66] [Version: 1.8] [Client: Unresolved] delay=28
+[05-23-2024] [17:19:06] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 1] [Ping: 0] [TPS: 19,56] [Version: 1.8] [Client: Unresolved] delay=0
+[05-23-2024] [17:19:07] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 2] [Ping: 0] [TPS: 19,56] [Version: 1.8] [Client: Unresolved] delay=2
+[05-23-2024] [17:19:07] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 3] [Ping: 0] [TPS: 19,56] [Version: 1.8] [Client: Unresolved] delay=1
+[05-23-2024] [17:19:07] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 4] [Ping: 0] [TPS: 19,56] [Version: 1.8] [Client: Unresolved] delay=6
+[05-23-2024] [17:19:07] fdrco54654dfgdf failed Bad Packets (Type P) [VL: 1] [Ping: 0] [TPS: 19,56] [Version: 1.8] [Client: Unresolved] 
+[05-23-2024] [17:19:07] fdrco54654dfgdf failed Bad Packets (Type K) [VL: 5] [Ping: 0] [TPS: 19,56] [Version: 1.8] [Client: Unresolved] delay=7
+[06-01-2024] [12:20:36] west666 failed Bad Packets (Type B) [VL: 1] [Ping: 3] [TPS: 19,72] [Version: 1.8] [Client: Unresolved] streak=21
+[06-01-2024] [12:20:44] west666 failed Bad Packets (Type B) [VL: 1] [Ping: 0] [TPS: 19,73] [Version: 1.8] [Client: Unresolved] streak=21
+[06-01-2024] [12:20:48] west666 failed Bad Packets (Type B) [VL: 1] [Ping: 0] [TPS: 19,7] [Version: 1.8] [Client: Unresolved] streak=21
+[06-01-2024] [12:21:54] west666 failed Bad Packets (Type B) [VL: 1] [Ping: 0] [TPS: 19,46] [Version: 1.8] [Client: Unresolved] streak=21
+[06-01-2024] [12:21:59] west666 failed Bad Packets (Type B) [VL: 1] [Ping: 0] [TPS: 19,4] [Version: 1.8] [Client: Unresolved] streak=21
+[06-01-2024] [13:36:23] Osoiwain1 failed Bad Packets (Type B) [VL: 1] [Ping: 3] [TPS: 20] [Version: 1.8] [Client: Unresolved] streak=21
+[06-01-2024] [13:40:43] Osoiwain1 failed Aim (Type B) [VL: 1] [Ping: 38] [TPS: 18,32] [Version: 1.8] [Client: Unresolved] deltaYaw=30.0
+[06-01-2024] [13:40:45] Osoiwain1 failed Aim (Type B) [VL: 2] [Ping: 28] [TPS: 18,32] [Version: 1.8] [Client: Unresolved] deltaYaw=30.0
+[06-01-2024] [13:40:49] Osoiwain1 failed Aim (Type X) [VL: 1] [Ping: 16] [TPS: 18,39] [Version: 1.8] [Client: Unresolved] sens=477 deltaYaw=13.187935 deltaPitch=48.886055
+[06-01-2024] [13:40:51] Osoiwain1 failed Aim (Type B) [VL: 3] [Ping: 12] [TPS: 18,39] [Version: 1.8] [Client: Unresolved] deltaYaw=30.0
+[06-01-2024] [13:40:51] Osoiwain1 failed Aim (Type X) [VL: 2] [Ping: 12] [TPS: 18,39] [Version: 1.8] [Client: Unresolved] sens=477 deltaYaw=30.0 deltaPitch=54.00567
+[06-01-2024] [13:40:51] Osoiwain1 failed Aim (Type B) [VL: 4] [Ping: 12] [TPS: 18,39] [Version: 1.8] [Client: Unresolved] deltaYaw=30.0
+[06-01-2024] [13:40:52] Osoiwain1 failed Aim (Type Y) [VL: 1] [Ping: 12] [TPS: 18,39] [Version: 1.8] [Client: Unresolved] diff=23.586018 dist=1.981305566275394
+[06-01-2024] [13:40:52] Osoiwain1 failed Aim (Type B) [VL: 5] [Ping: 12] [TPS: 18,39] [Version: 1.8] [Client: Unresolved] deltaYaw=330.0
+[06-01-2024] [13:40:53] Osoiwain1 failed Aim (Type B) [VL: 6] [Ping: 9] [TPS: 18,39] [Version: 1.8] [Client: Unresolved] deltaYaw=330.0
+[06-01-2024] [13:40:53] Osoiwain1 failed Aim (Type X) [VL: 3] [Ping: 9] [TPS: 18,39] [Version: 1.8] [Client: Unresolved] sens=477 deltaYaw=330.0 deltaPitch=49.782207
+[06-01-2024] [13:41:32] Osoiwain1 failed Bad Packets (Type B) [VL: 1] [Ping: 1] [TPS: 19,02] [Version: 1.8] [Client: Unresolved] streak=21
+[06-01-2024] [13:41:44] Osoiwain1 failed Bad Packets (Type B) [VL: 1] [Ping: 127] [TPS: 19,14] [Version: 1.8] [Client: Unresolved] streak=21
+[06-01-2024] [13:49:15] Osoiwain1 failed Bad Packets (Type B) [VL: 1] [Ping: 0] [TPS: 18,72] [Version: 1.8] [Client: Unresolved] streak=21
+[06-01-2024] [13:49:21] Osoiwain1 failed Bad Packets (Type B) [VL: 1] [Ping: 0] [TPS: 19,02] [Version: 1.8] [Client: Unresolved] streak=21
+[06-01-2024] [14:00:34] Osoiwain1 failed Step (Type A) [VL: 1] [Ping: 1] [TPS: 19] [Version: 1.8] [Client: Unresolved] deltaY=5.96875
+[06-01-2024] [14:00:34] Osoiwain1 failed Step (Type A) [VL: 2] [Ping: 1] [TPS: 19] [Version: 1.8] [Client: Unresolved] deltaY=8.0
+[06-01-2024] [14:00:34] Osoiwain1 failed Step (Type A) [VL: 3] [Ping: 1] [TPS: 19] [Version: 1.8] [Client: Unresolved] deltaY=4.46875
+[06-01-2024] [14:00:35] Osoiwain1 failed Step (Type A) [VL: 4] [Ping: 1] [TPS: 19] [Version: 1.8] [Client: Unresolved] deltaY=5.46875
+[06-01-2024] [14:00:36] Osoiwain1 failed Bad Packets (Type B) [VL: 1] [Ping: 1] [TPS: 19] [Version: 1.8] [Client: Unresolved] streak=21
+[06-01-2024] [14:03:27] Osoiwain1 failed Bad Packets (Type B) [VL: 1] [Ping: 201] [TPS: 19,86] [Version: 1.8] [Client: Unresolved] streak=21
+[06-01-2024] [14:05:35] Osoiwain1 failed Bad Packets (Type B) [VL: 1] [Ping: 0] [TPS: 19,6] [Version: 1.8] [Client: Unresolved] streak=21
+[06-01-2024] [14:09:53] Osoiwain1 failed Aim (Type B) [VL: 1] [Ping: 11] [TPS: 18,36] [Version: 1.8] [Client: Unresolved] deltaYaw=30.0
+[06-01-2024] [14:09:54] Osoiwain1 failed Aim (Type B) [VL: 2] [Ping: 11] [TPS: 18,36] [Version: 1.8] [Client: Unresolved] deltaYaw=30.0
+[06-01-2024] [14:09:54] Osoiwain1 failed Aim (Type B) [VL: 3] [Ping: 11] [TPS: 18,36] [Version: 1.8] [Client: Unresolved] deltaYaw=30.0
+[06-01-2024] [14:22:15] Osoiwain1 failed Motion (Type D) [VL: 1] [Ping: 64] [TPS: 19,28] [Version: 1.8] [Client: Unresolved] deltaY=1.100000000064938E-5
+[06-01-2024] [14:22:16] Osoiwain1 failed Motion (Type D) [VL: 2] [Ping: 64] [TPS: 19,28] [Version: 1.8] [Client: Unresolved] deltaY=1.100000000064938E-5
+[06-01-2024] [14:22:16] Osoiwain1 failed Motion (Type D) [VL: 3] [Ping: 64] [TPS: 19,28] [Version: 1.8] [Client: Unresolved] deltaY=1.100000000064938E-5
+[06-01-2024] [14:22:16] Osoiwain1 failed Motion (Type D) [VL: 4] [Ping: 64] [TPS: 19,28] [Version: 1.8] [Client: Unresolved] deltaY=1.100000000064938E-5
+[06-01-2024] [14:22:16] Osoiwain1 failed Motion (Type D) [VL: 5] [Ping: 64] [TPS: 19,28] [Version: 1.8] [Client: Unresolved] deltaY=1.100000000064938E-5
+[06-01-2024] [14:22:16] Osoiwain1 failed Motion (Type D) [VL: 6] [Ping: 64] [TPS: 19,28] [Version: 1.8] [Client: Unresolved] deltaY=1.100000000064938E-5
+[06-01-2024] [14:22:16] Osoiwain1 failed Motion (Type D) [VL: 7] [Ping: 64] [TPS: 19,28] [Version: 1.8] [Client: Unresolved] deltaY=1.100000000064938E-5
+[06-01-2024] [22:09:04] Osoiwain1 failed Scaffold (Type D) [VL: 1] [Ping: 35] [TPS: 19,31] [Version: 1.8] [Client: Unresolved] rotation=421 dp=3.046997
+[06-01-2024] [22:09:06] Osoiwain1 failed Scaffold (Type H) [VL: 1] [Ping: 26] [TPS: 19,31] [Version: 1.8] [Client: Unresolved] final=-24.047784904257785 dp=3.046997
+[06-01-2024] [22:09:06] Osoiwain1 failed Scaffold (Type I) [VL: 1] [Ping: 26] [TPS: 19,31] [Version: 1.8] [Client: Unresolved] acceleration=3.0804276265838926E-4 deltaYaw=648.84357 deltaPitch=12.72924
+[06-01-2024] [22:09:06] Osoiwain1 failed Scaffold (Type H) [VL: 2] [Ping: 26] [TPS: 19,31] [Version: 1.8] [Client: Unresolved] final=-24.177701000469455 dp=0.22090149
+[06-01-2024] [22:09:07] Osoiwain1 failed Scaffold (Type D) [VL: 2] [Ping: 26] [TPS: 19,31] [Version: 1.8] [Client: Unresolved] rotation=358 dp=2.4897614
+[06-01-2024] [22:09:21] Osoiwain1 failed Scaffold (Type G) [VL: 1] [Ping: 4] [TPS: 19,26] [Version: 1.8] [Client: Unresolved] angle=1.6724209 delay=200 acceleration=3.7615519505873607E-6
+[06-01-2024] [22:09:22] Osoiwain1 failed Scaffold (Type D) [VL: 3] [Ping: 3] [TPS: 19,31] [Version: 1.8] [Client: Unresolved] rotation=593 dp=2.1474762
+[06-01-2024] [22:09:22] Osoiwain1 failed Scaffold (Type H) [VL: 3] [Ping: 3] [TPS: 19,31] [Version: 1.8] [Client: Unresolved] final=-22.70875195311139 dp=6.330223
+[06-01-2024] [22:09:26] Osoiwain1 failed Bad Packets (Type B) [VL: 1] [Ping: 1] [TPS: 19,31] [Version: 1.8] [Client: Unresolved] streak=21
+[06-01-2024] [22:09:42] Osoiwain1 failed Scaffold (Type H) [VL: 1] [Ping: 0] [TPS: 19,43] [Version: 1.8] [Client: Unresolved] final=-31.551838652806076 dp=0.23018646
+[06-01-2024] [22:09:43] Osoiwain1 failed Scaffold (Type D) [VL: 1] [Ping: 0] [TPS: 19,43] [Version: 1.8] [Client: Unresolved] rotation=183 dp=2.819046
+[06-01-2024] [22:09:48] Osoiwain1 failed Scaffold (Type I) [VL: 1] [Ping: 107] [TPS: 19,43] [Version: 1.8] [Client: Unresolved] acceleration=0.001484051390019836 deltaYaw=811.6431 deltaPitch=28.998077
+[06-01-2024] [22:09:48] Osoiwain1 failed Scaffold (Type I) [VL: 2] [Ping: 107] [TPS: 19,43] [Version: 1.8] [Client: Unresolved] acceleration=3.8224085136095987E-4 deltaYaw=844.3502 deltaPitch=32.326645
+[06-01-2024] [22:09:48] Osoiwain1 failed Scaffold (Type J) [VL: 1] [Ping: 107] [TPS: 19,43] [Version: 1.8] [Client: Unresolved] acceleration=3.8224085136095987E-4 deltaPitch=32.326645
+[06-01-2024] [22:09:49] Osoiwain1 failed Scaffold (Type C) [VL: 1] [Ping: 107] [TPS: 19,43] [Version: 1.8] [Client: Unresolved] ticks=39 delay=120
+[06-01-2024] [22:09:49] Osoiwain1 failed Sprint (Type A) [VL: 1] [Ping: 107] [TPS: 19,43] [Version: 1.8] [Client: Unresolved] angle=2.4399993 ticks=42
+[06-01-2024] [22:09:49] Osoiwain1 failed Scaffold (Type C) [VL: 2] [Ping: 107] [TPS: 19,43] [Version: 1.8] [Client: Unresolved] ticks=46 delay=147
+[06-01-2024] [22:09:49] Osoiwain1 failed Scaffold (Type H) [VL: 2] [Ping: 107] [TPS: 19,43] [Version: 1.8] [Client: Unresolved] final=-34.685255857586625 dp=0.83716583
+[06-01-2024] [22:09:49] Osoiwain1 failed Sprint (Type A) [VL: 2] [Ping: 107] [TPS: 19,43] [Version: 1.8] [Client: Unresolved] angle=1.755331 ticks=47
+[06-01-2024] [22:10:02] Osoiwain1 failed Scaffold (Type D) [VL: 2] [Ping: 120] [TPS: 19,39] [Version: 1.8] [Client: Unresolved] rotation=212 dp=1.5875244
+[06-01-2024] [22:10:02] Osoiwain1 failed Scaffold (Type D) [VL: 3] [Ping: 120] [TPS: 19,39] [Version: 1.8] [Client: Unresolved] rotation=183 dp=1.4751358
+[06-01-2024] [22:10:03] Osoiwain1 failed Scaffold (Type G) [VL: 1] [Ping: 120] [TPS: 19,39] [Version: 1.8] [Client: Unresolved] angle=1.6400428 delay=273 acceleration=1.0086959045807475E-11
+[06-01-2024] [22:10:03] Osoiwain1 failed Scaffold (Type K) [VL: 1] [Ping: 120] [TPS: 19,39] [Version: 1.8] [Client: Unresolved] amount=6
+[06-01-2024] [22:10:03] Osoiwain1 failed Scaffold (Type D) [VL: 4] [Ping: 120] [TPS: 19,39] [Version: 1.8] [Client: Unresolved] rotation=369 dp=1.3997803
+[06-01-2024] [22:10:03] Osoiwain1 failed Scaffold (Type H) [VL: 3] [Ping: 120] [TPS: 19,39] [Version: 1.8] [Client: Unresolved] final=-25.84985929198812 dp=1.3997803
+[06-01-2024] [22:10:13] Osoiwain1 failed Bad Packets (Type B) [VL: 1] [Ping: 31] [TPS: 19,39] [Version: 1.8] [Client: Unresolved] streak=21
+[06-01-2024] [22:10:23] Osoiwain1 failed Bad Packets (Type B) [VL: 1] [Ping: 8] [TPS: 19,42] [Version: 1.8] [Client: Unresolved] streak=21
+[06-01-2024] [22:10:35] Osoiwain1 failed Motion (Type D) [VL: 1] [Ping: 2] [TPS: 19,42] [Version: 1.8] [Client: Unresolved] deltaY=1.100000000064938E-5
+[06-01-2024] [22:10:35] Osoiwain1 failed Aim (Type Y) [VL: 1] [Ping: 2] [TPS: 19,42] [Version: 1.8] [Client: Unresolved] diff=22.682762 dist=1.9890189442126953
+[06-01-2024] [22:10:35] Osoiwain1 failed Aim (Type Y) [VL: 2] [Ping: 2] [TPS: 19,42] [Version: 1.8] [Client: Unresolved] diff=22.67363 dist=1.9890189442126953
+[06-01-2024] [22:10:35] Osoiwain1 failed Motion (Type D) [VL: 2] [Ping: 2] [TPS: 19,42] [Version: 1.8] [Client: Unresolved] deltaY=1.100000000064938E-5
+[06-01-2024] [22:10:35] Osoiwain1 failed Motion (Type D) [VL: 3] [Ping: 2] [TPS: 19,42] [Version: 1.8] [Client: Unresolved] deltaY=1.100000000064938E-5
+[06-01-2024] [22:10:36] Osoiwain1 failed Aim (Type Y) [VL: 3] [Ping: 1] [TPS: 19,42] [Version: 1.8] [Client: Unresolved] diff=23.484772 dist=3.073128442503582
+[06-01-2024] [22:10:36] Osoiwain1 failed Auto Block (Type D) [VL: 1] [Ping: 1] [TPS: 19,42] [Version: 1.8] [Client: Unresolved] a=true i=false
+[06-01-2024] [22:10:36] Osoiwain1 failed Auto Block (Type B) [VL: 1] [Ping: 1] [TPS: 19,42] [Version: 1.8] [Client: Unresolved] 
+[06-01-2024] [22:11:13] Osoiwain1 failed Motion (Type D) [VL: 4] [Ping: 0] [TPS: 19,43] [Version: 1.8] [Client: Unresolved] deltaY=1.100000000064938E-5
+[06-01-2024] [22:11:13] Osoiwain1 failed Motion (Type D) [VL: 5] [Ping: 0] [TPS: 19,43] [Version: 1.8] [Client: Unresolved] deltaY=1.100000000064938E-5
+[06-01-2024] [22:11:14] Osoiwain1 failed Motion (Type D) [VL: 6] [Ping: 0] [TPS: 19,43] [Version: 1.8] [Client: Unresolved] deltaY=1.100000000064938E-5
+[06-01-2024] [22:11:14] Osoiwain1 failed Jump (Type A) [VL: 1] [Ping: 0] [TPS: 19,43] [Version: 1.8] [Client: Unresolved] deltaY=0.24813599859093927 ticks=6 difference=0.3265360001168176
+[06-01-2024] [22:11:14] Osoiwain1 failed Motion (Type D) [VL: 7] [Ping: 0] [TPS: 19,43] [Version: 1.8] [Client: Unresolved] deltaY=1.100000000064938E-5
+[06-01-2024] [22:12:12] Osoiwain1 failed Motion (Type D) [VL: 8] [Ping: 4] [TPS: 19,42] [Version: 1.8] [Client: Unresolved] deltaY=1.100000000064938E-5
+[06-01-2024] [22:12:13] Osoiwain1 failed Motion (Type D) [VL: 9] [Ping: 4] [TPS: 19,42] [Version: 1.8] [Client: Unresolved] deltaY=1.100000000064938E-5
+[06-01-2024] [22:12:13] Osoiwain1 failed Motion (Type D) [VL: 10] [Ping: 3] [TPS: 19,42] [Version: 1.8] [Client: Unresolved] deltaY=1.100000000064938E-5
+[06-01-2024] [22:12:14] Osoiwain1 failed Motion (Type D) [VL: 11] [Ping: 3] [TPS: 19,42] [Version: 1.8] [Client: Unresolved] deltaY=1.100000000064938E-5
+[06-01-2024] [22:12:14] Osoiwain1 failed Motion (Type D) [VL: 12] [Ping: 3] [TPS: 19,42] [Version: 1.8] [Client: Unresolved] deltaY=1.100000000064938E-5
+[06-01-2024] [22:12:14] Osoiwain1 failed Motion (Type D) [VL: 13] [Ping: 3] [TPS: 19,42] [Version: 1.8] [Client: Unresolved] deltaY=1.100000000064938E-5
+[06-01-2024] [22:12:14] Osoiwain1 failed Motion (Type D) [VL: 14] [Ping: 3] [TPS: 19,42] [Version: 1.8] [Client: Unresolved] deltaY=1.100000000064938E-5
+[06-01-2024] [22:12:14] Osoiwain1 failed Auto Block (Type D) [VL: 2] [Ping: 3] [TPS: 19,42] [Version: 1.8] [Client: Unresolved] a=true i=false
+[06-01-2024] [22:12:14] Osoiwain1 failed Motion (Type D) [VL: 15] [Ping: 3] [TPS: 19,42] [Version: 1.8] [Client: Unresolved] deltaY=1.100000000064938E-5
+[06-01-2024] [22:13:36] Osoiwain1 failed Motion (Type D) [VL: 1] [Ping: 13] [TPS: 19,08] [Version: 1.8] [Client: Unresolved] deltaY=1.100000000064938E-5
+[06-01-2024] [22:13:36] Osoiwain1 failed Motion (Type D) [VL: 2] [Ping: 13] [TPS: 19,08] [Version: 1.8] [Client: Unresolved] deltaY=1.100000000064938E-5
+[06-01-2024] [22:13:36] Osoiwain1 failed Motion (Type D) [VL: 3] [Ping: 13] [TPS: 19,08] [Version: 1.8] [Client: Unresolved] deltaY=1.100000000064938E-5
+[06-01-2024] [22:13:47] Osoiwain1 failed Bad Packets (Type B) [VL: 1] [Ping: 2] [TPS: 19,15] [Version: 1.8] [Client: Unresolved] streak=21
+[06-01-2024] [22:13:57] Osoiwain1 failed Ground Spoof (Type B) [VL: 1] [Ping: 10] [TPS: 19,21] [Version: 1.8] [Client: Unresolved] client=true server=false
+[06-01-2024] [22:13:57] Osoiwain1 failed Invalid (Type C) [VL: 1] [Ping: 10] [TPS: 19,21] [Version: 1.8] [Client: Unresolved] deltaY=-8.0
+[06-01-2024] [22:13:58] Osoiwain1 failed Step (Type B) [VL: 1] [Ping: 10] [TPS: 19,21] [Version: 1.8] [Client: Unresolved] ticks=90 deltaY=-8.0
+[06-01-2024] [22:13:58] Osoiwain1 failed Ground Spoof (Type A) [VL: 1] [Ping: 10] [TPS: 19,21] [Version: 1.8] [Client: Unresolved] deltaY=-8.0 ticks=8
+[06-01-2024] [22:13:58] Osoiwain1 failed Ground Spoof (Type C) [VL: 1] [Ping: 10] [TPS: 19,21] [Version: 1.8] [Client: Unresolved] deltaY=-8.0 airTicks=0
+[06-01-2024] [22:13:58] Osoiwain1 failed Ground Spoof (Type B) [VL: 2] [Ping: 7] [TPS: 19,21] [Version: 1.8] [Client: Unresolved] client=true server=false
+[06-01-2024] [22:13:58] Osoiwain1 failed Invalid (Type C) [VL: 2] [Ping: 7] [TPS: 19,21] [Version: 1.8] [Client: Unresolved] deltaY=-8.0
+[06-01-2024] [22:13:58] Osoiwain1 failed Step (Type A) [VL: 1] [Ping: 7] [TPS: 19,21] [Version: 1.8] [Client: Unresolved] deltaY=8.0
+[06-01-2024] [22:13:58] Osoiwain1 failed Step (Type A) [VL: 2] [Ping: 7] [TPS: 19,21] [Version: 1.8] [Client: Unresolved] deltaY=8.0
+[06-01-2024] [22:13:58] Osoiwain1 failed Step (Type B) [VL: 2] [Ping: 7] [TPS: 19,21] [Version: 1.8] [Client: Unresolved] ticks=92 deltaY=8.0
+[06-01-2024] [22:13:58] Osoiwain1 failed Step (Type A) [VL: 3] [Ping: 7] [TPS: 19,21] [Version: 1.8] [Client: Unresolved] deltaY=8.0
+[06-01-2024] [22:13:58] Osoiwain1 failed Ground Spoof (Type B) [VL: 3] [Ping: 7] [TPS: 19,21] [Version: 1.8] [Client: Unresolved] client=true server=false
+[06-01-2024] [22:13:58] Osoiwain1 failed Invalid (Type C) [VL: 3] [Ping: 7] [TPS: 19,21] [Version: 1.8] [Client: Unresolved] deltaY=8.0
+[06-01-2024] [22:13:58] Osoiwain1 failed Step (Type A) [VL: 4] [Ping: 7] [TPS: 19,21] [Version: 1.8] [Client: Unresolved] deltaY=8.0
+[06-01-2024] [22:13:58] Osoiwain1 failed Motion (Type A) [VL: 1] [Ping: 7] [TPS: 19,21] [Version: 1.8] [Client: Unresolved] deltaY=8.0
+[06-01-2024] [22:13:58] Osoiwain1 failed Step (Type A) [VL: 5] [Ping: 7] [TPS: 19,21] [Version: 1.8] [Client: Unresolved] deltaY=8.0
+[06-01-2024] [22:14:08] Osoiwain1 failed Bad Packets (Type B) [VL: 1] [Ping: 2] [TPS: 19,28] [Version: 1.8] [Client: Unresolved] streak=21

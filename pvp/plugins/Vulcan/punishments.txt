@@ -1,0 +1,386 @@
+--------------[ west666 was punished for Bad Packets (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 317.7315815678796
+ - Y: 28.0
+ - Z: 240.67780306669619
+
+Information:
+ - UUID: be228be7-20c5-3afc-a7c6-5f92aaf61e6d
+ - Keep Alive Ping: 8
+ - Transaction Ping: 92
+ - Server TPS: 19,56
+ - Sensitivity: 85
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 7.35 seconds ago
+
+Total Violations: 1
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 2662
+ - Since Riptide Ticks: 200
+ - Flying Delay: 0
+ - Since Velocity Ticks: 149
+ - Since Firework Ticks: 702
+ - Ticks Existed: 2562
+ - Since Vehicle Ticks: 602
+ - Since Liquid Ticks: 602
+ - Queued Transactions: 0
+ - Joined: 122 seconds ago
+ - Holding Item: ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=§aFighter's Sword}}
+
+All Violations:
+ - Bad Packets (Type B) [VL: 1] (More than 20 flying packets in a row.)
+
+Blocks Nearby: [STONE, STONE, STONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STONE, STONE, STONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STONE, STONE, STONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftPlayer{name=mirco54654}]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ west666 was punished for Bad Packets (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 281.02329565098444
+ - Y: 16.0
+ - Z: 246.82213596353526
+
+Information:
+ - UUID: be228be7-20c5-3afc-a7c6-5f92aaf61e6d
+ - Keep Alive Ping: 0
+ - Transaction Ping: 2
+ - Server TPS: 19,59
+ - Sensitivity: 85
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 1.8 seconds ago
+
+Total Violations: 1
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 840
+ - Since Riptide Ticks: 200
+ - Flying Delay: 0
+ - Since Velocity Ticks: 36
+ - Since Firework Ticks: 467
+ - Ticks Existed: 852
+ - Since Vehicle Ticks: 367
+ - Since Liquid Ticks: 41
+ - Queued Transactions: 0
+ - Joined: 41 seconds ago
+ - Holding Item: ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=§aArcher's Sword}}
+
+All Violations:
+ - Bad Packets (Type B) [VL: 1] (More than 20 flying packets in a row.)
+
+Blocks Nearby: [GRASS, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ west666 was punished for Bad Packets (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 285.8272628168339
+ - Y: 16.0
+ - Z: 242.22060533342255
+
+Information:
+ - UUID: be228be7-20c5-3afc-a7c6-5f92aaf61e6d
+ - Keep Alive Ping: 7
+ - Transaction Ping: 73
+ - Server TPS: 19,39
+ - Sensitivity: 85
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 12.25 seconds ago
+
+Total Violations: 1
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 895
+ - Since Riptide Ticks: 200
+ - Flying Delay: 0
+ - Since Velocity Ticks: 261
+ - Since Firework Ticks: 424
+ - Ticks Existed: 795
+ - Since Vehicle Ticks: 324
+ - Since Liquid Ticks: 28
+ - Queued Transactions: 0
+ - Joined: 29 seconds ago
+ - Holding Item: ItemStack{FEATHER x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=§aSpeed Boost §7(Right Click)}}
+
+All Violations:
+ - Bad Packets (Type B) [VL: 1] (More than 20 flying packets in a row.)
+
+Blocks Nearby: [GRASS, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftPlayer{name=mirco54654}]
+Potion Effects: [SLOW:(1998304t-x1)]
+---------------------------------------------------------------------------
+
+
+--------------[ west666 was punished for Kill Aura (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 275.68148480814165
+ - Y: 17.0
+ - Z: 240.64131216286293
+
+Information:
+ - UUID: be228be7-20c5-3afc-a7c6-5f92aaf61e6d
+ - Keep Alive Ping: 0
+ - Transaction Ping: 27
+ - Server TPS: 19,52
+ - Sensitivity: 85
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 16.2 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 14
+ - Movement Violations: 0
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 1898
+ - Since Riptide Ticks: 200
+ - Flying Delay: 44
+ - Since Velocity Ticks: 324
+ - Since Firework Ticks: 672
+ - Ticks Existed: 1798
+ - Since Vehicle Ticks: 572
+ - Since Liquid Ticks: 266
+ - Queued Transactions: 0
+ - Joined: 90 seconds ago
+ - Holding Item: ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=§aWarper's Sword}}
+
+All Violations:
+ - Aim (Type B) [VL: 6] (Invalid yaw change.)
+ - Aim (Type C) [VL: 1] (Repeated yaw values.)
+ - Aim (Type H) [VL: 1] (Invalid sensitivity.)
+ - Aim (Type L) [VL: 1] (Switching directions too quickly.)
+ - Hitbox (Type A) [VL: 2] (Attacked while not looking at target.)
+ - Kill Aura (Type A) [VL: 3] (Post UseEntity packets.)
+ - Bad Packets (Type X) [VL: 1] (Post ArmAnimation packets.)
+
+Blocks Nearby: [GRASS, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Osoiwain1 was punished for Bad Packets (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 318.18444855062813
+ - Y: 30.6
+ - Z: 241.4943535180064
+
+Information:
+ - UUID: 5ed1a27f-d173-3106-9bdb-568c290d6df6
+ - Keep Alive Ping: 224
+ - Transaction Ping: 9
+ - Server TPS: 19,31
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 9.95 seconds ago
+
+Total Violations: 1
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 69
+ - Since Riptide Ticks: 200
+ - Flying Delay: 0
+ - Since Velocity Ticks: 199
+ - Since Firework Ticks: 227
+ - Ticks Existed: 99
+ - Since Vehicle Ticks: 127
+ - Since Liquid Ticks: 127
+ - Queued Transactions: 1
+ - Joined: 17 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Bad Packets (Type B) [VL: 1] (More than 20 flying packets in a row.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Osoiwain1 was punished for Aim (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 272.30000001192093
+ - Y: 17.000011
+ - Z: 241.5309556665008
+
+Information:
+ - UUID: 5ed1a27f-d173-3106-9bdb-568c290d6df6
+ - Keep Alive Ping: 61
+ - Transaction Ping: 30
+ - Server TPS: 18,65
+ - Sensitivity: 322
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 3.4 seconds ago
+
+Total Violations: 12
+ - Combat Violations: 12
+ - Movement Violations: 0
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 1734
+ - Since Riptide Ticks: 200
+ - Flying Delay: 4
+ - Since Velocity Ticks: 70
+ - Since Firework Ticks: 861
+ - Ticks Existed: 1634
+ - Since Vehicle Ticks: 761
+ - Since Liquid Ticks: 368
+ - Queued Transactions: 0
+ - Joined: 74 seconds ago
+ - Holding Item: ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=§aArcher's Sword}}
+
+All Violations:
+ - Aim (Type B) [VL: 8] (Invalid yaw change.)
+ - Aim (Type C) [VL: 4] (Repeated yaw values.)
+
+Blocks Nearby: [DIRT, DIRT, DIRT, GRASS, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, GRASS, GRASS, GRASS, AIR, LONG_GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ west666 was punished for Auto Block (Type D) ]--------------
+
+Location:
+ - World: world
+ - X: 318.6116401136525
+ - Y: 28.0
+ - Z: 238.18026895001165
+
+Information:
+ - UUID: be228be7-20c5-3afc-a7c6-5f92aaf61e6d
+ - Keep Alive Ping: 7
+ - Transaction Ping: 27
+ - Server TPS: 19,71
+ - Sensitivity: 85
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 26.3 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 5
+ - Movement Violations: 0
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 494
+ - Since Riptide Ticks: 200
+ - Flying Delay: 46
+ - Since Velocity Ticks: 526
+ - Since Firework Ticks: 627
+ - Ticks Existed: 4630
+ - Since Vehicle Ticks: 527
+ - Since Liquid Ticks: 527
+ - Queued Transactions: 0
+ - Joined: 265 seconds ago
+ - Holding Item: ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=§aArcher's Sword}}
+
+All Violations:
+ - Auto Block (Type B) [VL: 2] (Attacked while sending BlockDig packet.)
+ - Auto Block (Type D) [VL: 3] (Invalid attack order.)
+
+Blocks Nearby: [STONE, STONE, STONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STONE, STONE, STONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STONE, STONE, STONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ west666 was punished for Auto Block (Type D) ]--------------
+
+Location:
+ - World: world
+ - X: 323.7104227407282
+ - Y: 28.0
+ - Z: 244.5870238269393
+
+Information:
+ - UUID: be228be7-20c5-3afc-a7c6-5f92aaf61e6d
+ - Keep Alive Ping: 0
+ - Transaction Ping: 13
+ - Server TPS: 19,75
+ - Sensitivity: -24
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 195.9 seconds ago
+
+Total Violations: 12
+ - Combat Violations: 12
+ - Movement Violations: 0
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 3918
+ - Since Riptide Ticks: 200
+ - Flying Delay: 55
+ - Since Velocity Ticks: 3918
+ - Since Firework Ticks: 664
+ - Ticks Existed: 3818
+ - Since Vehicle Ticks: 564
+ - Since Liquid Ticks: 564
+ - Queued Transactions: 0
+ - Joined: 196 seconds ago
+ - Holding Item: ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=§aArcher's Sword}}
+
+All Violations:
+ - Auto Block (Type B) [VL: 6] (Attacked while sending BlockDig packet.)
+ - Auto Block (Type D) [VL: 3] (Invalid attack order.)
+ - Reach (Type A) [VL: 3] (Hit from too far away.)
+
+Blocks Nearby: [STONE, STONE, STONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STONE, STONE, STONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STONE, STONE, STONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+

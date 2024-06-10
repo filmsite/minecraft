@@ -1,0 +1,463 @@
+[16:09:27] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[16:09:27] [Server thread/INFO]: Loading properties
+[16:09:27] [Server thread/INFO]: Default game type: SURVIVAL
+[16:09:27] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-21fe707-741a1bd (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[16:09:27] [Server thread/INFO]: Debug logging is disabled
+[16:09:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
+
+[16:09:27] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:09:27] [Server thread/INFO]: Generating keypair
+[16:09:27] [Server thread/INFO]: Starting Minecraft server on 192.168.1.29:25566
+[16:09:27] [Server thread/INFO]: Using default channel type
+[16:09:27] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[16:09:27] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[16:09:28] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.9;caf0ad9
+[16:09:28] [Server thread/INFO]: [DeluxeHub] Loading DeluxeHub v3.5.5
+[16:09:28] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.10.1
+[16:09:28] [Server thread/INFO]: [ViaVersion] ViaVersion 4.10.1 is now loaded. Registering protocol transformers and injecting...
+[16:09:29] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[16:09:29] [Server thread/INFO]: [EnderSS] Loading EnderSS v1.1.2
+[16:09:29] [Server thread/INFO]: [ChatManager] Loading ChatManager v1.0
+[16:09:29] [Server thread/INFO]: [Freeze] Loading Freeze v1.0
+[16:09:29] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v5.2.0-SNAPSHOT-679
+[16:09:31] [Server thread/INFO]: [LibsDisguises] Loading LibsDisguises v10.0.40
+[16:09:31] [Server thread/ERROR]: Duplicate method name "addDisguise" with signature "(Ljava.lang.Integer;Lme.libraryaddict.disguise.disguisetypes.TargetedDisguise;)V" in class file me/libraryaddict/disguise/utilities/DisguiseUtilities initializing LibsDisguises v10.0.40 (Is it up to date?)
+java.lang.ClassFormatError: Duplicate method name "addDisguise" with signature "(Ljava.lang.Integer;Lme.libraryaddict.disguise.disguisetypes.TargetedDisguise;)V" in class file me/libraryaddict/disguise/utilities/DisguiseUtilities
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:1023) ~[?:?]
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150) ~[?:?]
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:524) ~[?:?]
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:427) ~[?:?]
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:421) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:714) ~[?:?]
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:420) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:101) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.java.JavaPluginLoader.getClassByName(JavaPluginLoader.java:195) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:97) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:86) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:592) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at me.libraryaddict.disguise.LibsDisguises.onLoad(LibsDisguises.java:86) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugins(CraftServer.java:297) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:198) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Thread.java:1570) [?:?]
+[16:09:31] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.128
+[16:09:31] [Server thread/INFO]: [Vulcan] Loading Vulcan v2.8.3
+[16:09:31] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[16:09:31] [Server thread/INFO]: [Essentials] Loading Essentials v2.21.0-dev+81-cde7184
+[16:09:31] [Server thread/INFO]: [DeluxeMenus] Loading DeluxeMenus v1.14.0-Release
+[16:09:31] [Server thread/INFO]: [DeluxeMenus] NMS hook has been setup successfully!
+[16:09:31] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.18.0.0
+[16:09:31] [Server thread/INFO]: [TAB] Loading TAB v4.1.4
+[16:09:31] [Server thread/INFO]: [LiteBans] Loading LiteBans v2.12.0
+[16:09:33] [Server thread/INFO]: [DeluxeChat] Loading DeluxeChat v1.16.2
+[16:09:33] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.2.0-SNAPSHOT-679
+[16:09:33] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.128
+[16:09:33] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
+
+[16:09:33] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms[m [0;36;1mv5.4.128[m
+
+[16:09:33] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
+
+[16:09:33] [Server thread/INFO]: [m
+
+[16:09:33] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[16:09:33] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[16:09:34] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[16:09:34] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[16:09:35] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2324ms)
+[16:09:35] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[16:09:35] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[16:09:35] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[16:09:35] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[16:09:35] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[16:09:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:09:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:09:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:09:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:09:35] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[16:09:35] [Server thread/INFO]: Preparing level "world"
+[16:09:35] [Server thread/INFO]: -------- World Settings For [world] --------
+[16:09:35] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:09:35] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:09:35] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:09:35] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:09:35] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:09:35] [Server thread/INFO]: Anti X-Ray: true
+[16:09:35] [Server thread/INFO]: 	Engine Mode: 1
+[16:09:35] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[16:09:35] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[16:09:35] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[16:09:35] [Server thread/INFO]: View Distance: 10
+[16:09:35] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:09:35] [Server thread/INFO]: Mob Spawn Range: 4
+[16:09:35] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:09:35] [Server thread/INFO]: Structure Info Saving: true
+[16:09:35] [Server thread/INFO]: Max Entity Collisions: 8
+[16:09:35] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[16:09:35] [Server thread/INFO]: Random Lighting Updates: false
+[16:09:35] [Server thread/INFO]: Sending up to 10 chunks per packet
+[16:09:35] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[16:09:35] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:09:35] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:09:35] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:09:35] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:09:35] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:09:35] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:09:35] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:09:35] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:09:35] [Server thread/INFO]: Max TNT Explosions: 100
+[16:09:35] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:09:35] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:09:35] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[16:09:35] [Server thread/INFO]: Clear tick list: false
+[16:09:35] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[16:09:35] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:09:35] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:09:35] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:09:35] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:09:35] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:09:35] [Server thread/INFO]: Anti X-Ray: true
+[16:09:35] [Server thread/INFO]: 	Engine Mode: 1
+[16:09:35] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[16:09:35] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[16:09:35] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[16:09:35] [Server thread/INFO]: View Distance: 10
+[16:09:35] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:09:35] [Server thread/INFO]: Mob Spawn Range: 4
+[16:09:35] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:09:35] [Server thread/INFO]: Structure Info Saving: true
+[16:09:35] [Server thread/INFO]: Max Entity Collisions: 8
+[16:09:35] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[16:09:35] [Server thread/INFO]: Random Lighting Updates: false
+[16:09:35] [Server thread/INFO]: Sending up to 10 chunks per packet
+[16:09:35] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[16:09:35] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:09:35] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:09:35] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:09:35] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:09:35] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:09:35] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:09:35] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:09:35] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:09:35] [Server thread/INFO]: Max TNT Explosions: 100
+[16:09:35] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:09:35] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:09:35] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[16:09:35] [Server thread/INFO]: Clear tick list: false
+[16:09:35] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[16:09:35] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:09:35] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:09:35] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:09:35] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:09:35] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:09:35] [Server thread/INFO]: Anti X-Ray: true
+[16:09:35] [Server thread/INFO]: 	Engine Mode: 1
+[16:09:35] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[16:09:35] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[16:09:35] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[16:09:35] [Server thread/INFO]: View Distance: 10
+[16:09:35] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:09:35] [Server thread/INFO]: Mob Spawn Range: 4
+[16:09:35] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:09:35] [Server thread/INFO]: Structure Info Saving: true
+[16:09:35] [Server thread/INFO]: Max Entity Collisions: 8
+[16:09:35] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[16:09:35] [Server thread/INFO]: Random Lighting Updates: false
+[16:09:35] [Server thread/INFO]: Sending up to 10 chunks per packet
+[16:09:35] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[16:09:35] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:09:35] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:09:35] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:09:35] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:09:35] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:09:35] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:09:35] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:09:35] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:09:35] [Server thread/INFO]: Max TNT Explosions: 100
+[16:09:35] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:09:35] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:09:35] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[16:09:35] [Server thread/INFO]: Clear tick list: false
+[16:09:35] [Server thread/INFO]: Preparing start region for level 0 (Seed: 0)
+[16:09:36] [Server thread/INFO]: Preparing start region for level 1 (Seed: 0)
+[16:09:37] [Server thread/INFO]: Preparing spawn area: 31%
+[16:09:38] [Server thread/INFO]: Preparing spawn area: 82%
+[16:09:38] [Server thread/INFO]: Preparing start region for level 2 (Seed: 0)
+[16:09:39] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.9;caf0ad9
+[16:09:39] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[16:09:39] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[16:09:39] [Server thread/INFO]: [DeluxeHub] Enabling DeluxeHub v3.5.5
+[16:09:39] [Server thread/INFO]: [DeluxeHub]  _   _            _          _    _ 
+[16:09:39] [Server thread/INFO]: [DeluxeHub] | \ |_ |  | | \/ |_ |_| | | |_)   _)
+[16:09:39] [Server thread/INFO]: [DeluxeHub] |_/ |_ |_ |_| /\ |_ | | |_| |_)   _)
+[16:09:39] [Server thread/INFO]: [DeluxeHub] 
+[16:09:39] [Server thread/INFO]: [DeluxeHub] Version: 3.5.5
+[16:09:39] [Server thread/INFO]: [DeluxeHub] Author: ItsLewizzz
+[16:09:39] [Server thread/INFO]: [DeluxeHub] 
+[16:09:39] [Server thread/WARN]: org.bukkit.configuration.InvalidConfigurationException: expected '<document start>', but found BlockMappingStart
+ in 'string', line 50, column 1:
+    check-updates: true
+    ^
+
+
+[16:09:39] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:57)
+
+[16:09:39] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:226)
+
+[16:09:39] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:169)
+
+[16:09:39] [Server thread/WARN]: 	at fun.lewisdev.deluxehub.config.ConfigHandler.saveDefaultConfig(ConfigHandler.java:31)
+
+[16:09:39] [Server thread/WARN]: 	at java.base/java.util.HashMap$Values.forEach(HashMap.java:1073)
+
+[16:09:39] [Server thread/WARN]: 	at fun.lewisdev.deluxehub.config.ConfigManager.loadFiles(ConfigManager.java:26)
+
+[16:09:39] [Server thread/WARN]: 	at fun.lewisdev.deluxehub.DeluxeHubPlugin.onEnable(DeluxeHubPlugin.java:77)
+
+[16:09:39] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
+
+[16:09:39] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340)
+
+[16:09:39] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+
+[16:09:39] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357)
+
+[16:09:39] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317)
+
+[16:09:39] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414)
+
+[16:09:39] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378)
+
+[16:09:39] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333)
+
+[16:09:39] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263)
+
+[16:09:39] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525)
+
+[16:09:39] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+[16:09:39] [Server thread/WARN]: Caused by: expected '<document start>', but found BlockMappingStart
+ in 'string', line 50, column 1:
+    check-updates: true
+    ^
+
+
+[16:09:39] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl$ParseDocumentStart.produce(ParserImpl.java:225)
+
+[16:09:39] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+
+[16:09:39] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:143)
+
+[16:09:39] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:108)
+
+[16:09:39] [Server thread/WARN]: 	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:120)
+
+[16:09:39] [Server thread/WARN]: 	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:450)
+
+[16:09:39] [Server thread/WARN]: 	at org.yaml.snakeyaml.Yaml.load(Yaml.java:369)
+
+[16:09:39] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55)
+
+[16:09:39] [Server thread/WARN]: 	... 17 more
+
+[16:09:39] [Server thread/ERROR]: [DeluxeHub] ============= CONFIGURATION ERROR =============
+[16:09:39] [Server thread/ERROR]: [DeluxeHub] There was an error loading config.yml
+[16:09:39] [Server thread/ERROR]: [DeluxeHub] Please check for any obvious configuration mistakes
+[16:09:39] [Server thread/ERROR]: [DeluxeHub] such as using tabs for spaces or forgetting to end quotes
+[16:09:39] [Server thread/ERROR]: [DeluxeHub] before reporting to the developer. The plugin will now disable..
+[16:09:39] [Server thread/ERROR]: [DeluxeHub] ============= CONFIGURATION ERROR =============
+[16:09:39] [Server thread/INFO]: [DeluxeHub] Disabling DeluxeHub v3.5.5
+[16:09:39] [Server thread/ERROR]: Error occurred while disabling DeluxeHub v3.5.5 (Is it up to date?)
+java.lang.NullPointerException: Cannot invoke "fun.lewisdev.deluxehub.module.ModuleManager.unloadModules()" because "this.moduleManager" is null
+	at fun.lewisdev.deluxehub.DeluxeHubPlugin.onDisable(DeluxeHubPlugin.java:113) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:323) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:364) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:424) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at fun.lewisdev.deluxehub.config.ConfigHandler.saveDefaultConfig(ConfigHandler.java:40) ~[?:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1073) ~[?:?]
+	at fun.lewisdev.deluxehub.config.ConfigManager.loadFiles(ConfigManager.java:26) ~[?:?]
+	at fun.lewisdev.deluxehub.DeluxeHubPlugin.onEnable(DeluxeHubPlugin.java:77) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Thread.java:1570) [?:?]
+[16:09:39] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.10.1
+[16:09:39] [Server thread/INFO]: [EnderSS] Enabling EnderSS v1.1.2
+[16:09:39] [Server thread/WARN]: [EnderSS] Could not save spigot.yml to plugins\EnderSS\spigot.yml because spigot.yml already exists.
+[16:09:39] [Server thread/INFO]: [EnderSS] §8§l§m------------------
+[16:09:39] [Server thread/INFO]: [EnderSS] 
+[16:09:39] [Server thread/INFO]: [EnderSS] §5§lEnderSS §8§l» §d§l1.1.1 §5by Endxxr
+[16:09:39] [Server thread/INFO]: [EnderSS] §8Running on SPIGOT
+[16:09:39] [Server thread/INFO]: [EnderSS] Enabling...
+[16:09:39] [Server thread/INFO]: [EnderSS] 
+[16:09:39] [Server thread/INFO]: [EnderSS] Checking for updates...
+[16:09:39] [Server thread/INFO]: [EnderSS] Checking for config updates...
+[16:09:39] [Server thread/INFO]: [EnderSS] Enabled.
+[16:09:39] [Server thread/INFO]: [EnderSS] §8§l§m------------------
+[16:09:39] [Server thread/WARN]: [EnderSS] Proxy mode is enabled. Some features won't work.
+[16:09:39] [Server thread/INFO]: [ChatManager] Enabling ChatManager v1.0
+[16:09:39] [Server thread/INFO]: [Freeze] Enabling Freeze v1.0
+[16:09:39] [Server thread/INFO]: [LibsDisguises] Enabling LibsDisguises v10.0.40
+[16:09:39] [Server thread/INFO]: [36m[Spigotunlocked.com] - COSMO
+
+[16:09:40] [Server thread/INFO]: [LibsDisguises] File Name: LibsDisguises-10.0.40-Premium (1).jar
+[16:09:40] [Server thread/INFO]: [LibsDisguises] Discovered nms version: v1_8_R3 (null)
+[16:09:40] [Server thread/INFO]: [LibsDisguises] Jenkins Build: #1269
+[16:09:40] [Server thread/INFO]: [LibsDisguises] Build Date: 15/11/2023 07:31
+[16:09:40] [Server thread/ERROR]: [LibsDisguises] Failed to even do a forced update
+[16:09:40] [Server thread/ERROR]: Error occurred while enabling LibsDisguises v10.0.40 (Is it up to date?)
+java.lang.NoClassDefFoundError: org/bukkit/boss/BarStyle
+	at me.libraryaddict.disguise.DisguiseConfig.<clinit>(DisguiseConfig.java:210) ~[?:?]
+	at me.libraryaddict.disguise.LibsDisguises.onEnable(LibsDisguises.java:191) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Thread.java:1570) [?:?]
+Caused by: java.lang.ClassNotFoundException: org.bukkit.boss.BarStyle
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:91) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:86) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:592) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	... 13 more
+[16:09:40] [Server thread/INFO]: [Vulcan] Enabling Vulcan v2.8.3
+[16:09:40] [Server thread/INFO]: [Vulcan] Server Version: 1.8.8 detected!
+[16:09:40] [Server thread/INFO]: [Vulcan] LibsDisguises found. Enabling hook!
+[16:09:40] [Server thread/INFO]: [Vulcan] BStats enabled!
+[16:09:40] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+81-cde7184
+[16:09:40] [Server thread/INFO]: Il tuo server ha le funzionalità API limitate. EssentialsX funzionerà lo stesso, ma alcune features potrebbero essere disabilitate.
+[16:09:40] [Server thread/WARN]: §4Versione incorretta! Aggiornare EssentialsChat alla stessa versione.
+[16:09:40] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[16:09:40] [Server thread/INFO]: No kits found to migrate.
+[16:09:41] [Server thread/INFO]: Loaded 853 items from items.csv.
+[16:09:41] [Server thread/INFO]: Using locale it_IT
+[16:09:41] [Server thread/INFO]: ServerListPingEvent: Spigot iterator API
+[16:09:41] [Server thread/INFO]: Starting Metrics. Opt-out using the global bStats config.
+[16:09:41] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[16:09:41] [Server thread/INFO]: Using Vault based permissions (LuckPerms)
+[16:09:41] [Server thread/INFO]: [DeluxeMenus] Enabling DeluxeMenus v1.14.0-Release
+[16:09:41] [Server thread/ERROR]: [DeluxeMenus] Could not hook into PlaceholderAPI!
+DeluxeMenus will now disable!
+[16:09:41] [Server thread/INFO]: [DeluxeMenus] Disabling DeluxeMenus v1.14.0-Release
+[16:09:41] [Server thread/ERROR]: Error occurred while disabling DeluxeMenus v1.14.0-Release (Is it up to date?)
+java.lang.NullPointerException: Cannot invoke "java.util.Map.clear()" because "this.itemHooks" is null
+	at com.extendedclip.deluxemenus.DeluxeMenus.onDisable(DeluxeMenus.java:190) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:323) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:364) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:424) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at com.extendedclip.deluxemenus.DeluxeMenus.onEnable(DeluxeMenus.java:97) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Thread.java:1570) [?:?]
+[16:09:41] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.18.0.0
+[16:09:41] [Server thread/ERROR]: Error occurred while enabling EssentialsChat v2.18.0.0 (Is it up to date?)
+java.lang.NoSuchMethodError: 'java.lang.String com.earth2me.essentials.I18n.tl(java.lang.String, java.lang.Object[])'
+	at com.earth2me.essentials.chat.EssentialsChat.onEnable(EssentialsChat.java:27) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Thread.java:1570) [?:?]
+[16:09:41] [Server thread/INFO]: [TAB] Enabling TAB v4.1.4
+[16:09:41] [Server thread/INFO]: [TAB] [0;37;22mLoaded NMS hook in 88ms[m
+
+[16:09:41] [Server thread/INFO]: [TAB] [0;32;1mEnabled in 240ms[m
+
+[16:09:41] [Server thread/INFO]: [LiteBans] Enabling LiteBans v2.12.0
+[16:09:41] [Server thread/INFO]: [36m[Spigotunlocked.com] - ElitePusher
+
+[16:09:41] [Server thread/INFO]: [0;33;22m[LiteBans] [0;31;1mCracked by [0;36;1mElitePusher [0;37;22m| [0;35;22mspigotunlocked.com[m
+
+[16:09:41] [Server thread/INFO]: [LiteBans] Using system locale (it)
+[16:09:41] [Server thread/INFO]: [LiteBans] Loaded 4 templates from templates.yml!
+[16:09:41] [Server thread/INFO]: [LiteBans] Loading SQL driver: h2 1.4.197 (org.h2.Driver)
+[16:09:41] [Server thread/INFO]: [LiteBans] Connecting to database...
+[16:09:41] [Server thread/INFO]: [LiteBans] litebans-pool - Starting...
+[16:09:41] [Server thread/INFO]: [LiteBans] litebans-pool - Start completed.
+[16:09:41] [Server thread/INFO]: [LiteBans] Connected to H2 database successfully (245,8 ms).
+[16:09:41] [Server thread/INFO]: [LiteBans] Database connection fully initialized (254,3 ms).
+[16:09:42] [Server thread/INFO]: [LiteBans] v2.12.0 enabled. Startup took 369 ms.
+[16:09:42] [Server thread/INFO]: [DeluxeChat] Enabling DeluxeChat v1.16.2
+[16:09:42] [Server thread/INFO]: ----------------------------
+
+[16:09:42] [Server thread/INFO]:      DeluxeChat ERROR
+
+[16:09:42] [Server thread/INFO]:  
+
+[16:09:42] [Server thread/INFO]: As of DeluxeChat 1.12.0, PlaceholderAPI is now required to be installed on your server.
+
+[16:09:42] [Server thread/INFO]: PlaceholderAPI now handles all parsing of placeholders within DeluxeChat.
+
+[16:09:42] [Server thread/INFO]:  
+
+[16:09:42] [Server thread/INFO]: Download PlaceholderAPI at https://www.spigotmc.org/resources/placeholderapi.6245/
+
+[16:09:42] [Server thread/INFO]: ----------------------------
+
+[16:09:42] [Server thread/ERROR]: Error occurred while enabling DeluxeChat v1.16.2 (Is it up to date?)
+java.lang.RuntimeException: Failed to detect PlaceholderAPI!
+	at me.clip.deluxechat.DeluxeChat.onEnable(DeluxeChat.java:124) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Thread.java:1570) [?:?]
+[16:09:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:09:42] [Server thread/INFO]: Done (7,010s)! For help, type "help" or "?"
+[16:09:42] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.8.x (47)
+[16:09:42] [Server thread/WARN]: [ViaVersion] This version of Minecraft is extremely outdated and support for it has reached its end of life. You will still be able to run Via on this Minecraft version, but we are unlikely to provide any further fixes or help with problems specific to legacy Minecraft versions. Please consider updating to give your players a better experience and to avoid issues that have long been fixed.
+[16:09:42] [Server thread/INFO]: Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[16:09:42] [Craft Scheduler Thread - 1/INFO]: §6Recupero le informazioni sulla versione...
+[16:09:42] [Craft Scheduler Thread - 2/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[16:09:42] [Craft Scheduler Thread - 4/INFO]: [Vault] Checking for Updates ... 
+[16:09:42] [Craft Scheduler Thread - 0/WARN]: [EnderSS] There is a new version available: 1.1.2
+[16:09:42] [Craft Scheduler Thread - 4/INFO]: [Vault] No new version available
+[16:09:42] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 4.10.2, you're on: 4.10.1
+[16:10:01] [Thread-9/INFO]: UUID of player mirco54654 is e302a0af-f995-32f0-88e6-c000cb8ca430
+[16:10:01] [Server thread/INFO]: mirco54654[/192.168.1.29:58261] logged in with entity id 29 at ([world]-32.50621658443565, 145.0679185767722, 8.191541008220998)
+[16:10:09] [Thread-10/INFO]: UUID of player fdrco54654dfgdf is c0c92d5b-7a6b-3c19-8c47-833c7937a64c
+[16:10:09] [Server thread/INFO]: fdrco54654dfgdf[/192.168.1.29:58267] logged in with entity id 30 at ([world]-28.862620622978245, 142.0, 16.219039712132524)
+[16:10:27] [Server thread/INFO]: fdrco54654dfgdf issued server command: /deluxehub reload
+[16:10:37] [Server thread/INFO]: mirco54654 issued server command: /deluxehub
+[16:10:40] [Async Chat Thread - #0/INFO]: <[0;30;1m[[0;31;22m[21mOWNER[0;30;1m] [0;31;22mmirco54654 [0;30;1m[[0;31;1m[21mSTAFF[0;30;1m][m> rrrrrrrrdfsdf[m
+
+[16:10:59] [Server thread/INFO]: mirco54654 lost connection: Disconnected
+[16:11:00] [Server thread/INFO]: mirco54654 left the game.
+[16:11:05] [Thread-11/INFO]: UUID of player mirco54654 is e302a0af-f995-32f0-88e6-c000cb8ca430
+[16:11:05] [Server thread/INFO]: mirco54654[/192.168.1.29:58323] logged in with entity id 32 at ([world]-24.504867915428783, 145.6740137376999, 10.681476507625733)
+[16:11:14] [Server thread/INFO]: mirco54654 issued server command: /setlobby

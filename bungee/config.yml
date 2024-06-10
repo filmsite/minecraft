@@ -1,0 +1,74 @@
+server_connect_timeout: 5000
+enforce_secure_profile: false
+forge_support: false
+player_limit: 10
+log_pings: true
+permissions:
+  default:
+  - bungeecord.command.server
+  - bungeecord.command.list
+  owner:
+  - enderss.ss
+  - enderss.settings
+  - enderss.settings.alerts
+  - enderss.settings.help
+  - enderss.clean
+  - enderss.blatant
+  admin:
+  - enderss.staff
+  - enderss.admin
+  - enderss.ss
+timeout: 30000
+log_commands: false
+network_compression_threshold: 256
+online_mode: false
+disabled_commands:
+- disabledcommandhere
+servers:
+  lobby:
+    motd: '&cAPPP&fMirco'
+    address: 192.168.0.113:25566
+    restricted: false
+  PVP:
+    motd: '&1Just another BungeeCord - Forced Host'
+    address: 192.168.0.113:25567
+    restricted: false
+  bedwars:
+    motd: '&1Just another BungeeCord - Forced Host'
+    address: 192.168.0.113:25568
+    restricted: false
+  ss:
+    motd: '&1Just another BungeeCord - Forced Host'
+    address: 192.168.0.113:25569
+    restricted: false
+  lifesteal:
+    motd: '&1Just another BungeeCord - Forced Host'
+    address: 192.168.0.113:25570
+    restricted: false
+listeners:
+- query_port: 25565
+  motd: '&1Another Bungee server'
+  tab_list: GLOBAL_PING
+  query_enabled: false
+  proxy_protocol: false
+  forced_hosts:
+    pvp.md-5.net: pvp
+  ping_passthrough: false
+  priorities:
+  - lobby
+  bind_local_address: true
+  host: 192.168.0.113:25565
+  max_players: 100
+  tab_size: 60
+  force_default_server: true
+ip_forward: true
+remote_ping_timeout: 5000
+reject_transfers: false
+remote_ping_cache: -1
+connection_throttle: 0
+stats: 9df88f32-2406-4735-9a5b-41ff86820533
+connection_throttle_limit: -1
+groups:
+  md_5:
+  - admin
+prevent_proxy_connections: false

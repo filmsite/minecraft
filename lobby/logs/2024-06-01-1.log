@@ -1,0 +1,479 @@
+[13:34:15] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[13:34:15] [Server thread/INFO]: Loading properties
+[13:34:15] [Server thread/INFO]: Default game type: SURVIVAL
+[13:34:16] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-21fe707-741a1bd (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[13:34:16] [Server thread/INFO]: Debug logging is disabled
+[13:34:16] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:34:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
+
+[13:34:16] [Server thread/INFO]: Generating keypair
+[13:34:16] [Server thread/INFO]: Starting Minecraft server on 192.168.0.113:25566
+[13:34:16] [Server thread/INFO]: Using default channel type
+[13:34:16] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[13:34:16] [Server thread/ERROR]: Ambiguous plugin name `ViaVersion' for files `plugins\ViaVersion-4.10.1.jar' and `plugins\ViaVersion-2.2.3.jar' in `plugins'
+[13:34:16] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[13:34:16] [Server thread/ERROR]: Could not load 'plugins\EssentialsXChat-2.18.0.0.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Essentials
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:219) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugins(CraftServer.java:292) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:198) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Thread.java:1570) [?:?]
+[13:34:17] [Server thread/INFO]: [Disguise] Loading Disguise v1.1
+[13:34:17] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.9;caf0ad9
+[13:34:17] [Server thread/INFO]: [DeluxeHub] Loading DeluxeHub v3.5.5
+[13:34:17] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.10.1
+[13:34:17] [Server thread/INFO]: [ViaVersion] ViaVersion 4.10.1 is now loaded. Registering protocol transformers and injecting...
+[13:34:19] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[13:34:20] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v3.0.4
+[13:34:20] [Server thread/INFO]: [EnderSS] Loading EnderSS v1.1.2
+[13:34:20] [Server thread/INFO]: [ChatManager] Loading ChatManager v1.0
+[13:34:20] [Server thread/INFO]: [Freeze] Loading Freeze v1.0
+[13:34:20] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v5.2.0-SNAPSHOT-679
+[13:34:23] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.128
+[13:34:23] [Server thread/INFO]: [Vulcan] Loading Vulcan v2.8.3
+[13:34:24] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[13:34:24] [Server thread/INFO]: [DeluxeChat] Loading DeluxeChat v1.16.2
+[13:34:24] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.33-SNAPSHOT (build 3277)
+[13:34:24] [Server thread/INFO]: [DeluxeMenus] Loading DeluxeMenus v1.14.0-Release
+[13:34:24] [Server thread/INFO]: [DeluxeMenus] NMS hook has been setup successfully!
+[13:34:24] [Server thread/INFO]: [ServerNPC] Loading ServerNPC v1.0.9
+[13:34:24] [Server thread/INFO]: [TAB] Loading TAB v4.1.5
+[13:34:24] [Server thread/INFO]: [Eyu-BungeeNPCs] Loading Eyu-BungeeNPCs v5.1
+[13:34:24] [Server thread/INFO]: [SuperVanish] Loading SuperVanish v6.1.0
+[13:34:24] [Server thread/INFO]: [LiteBans] Loading LiteBans v2.12.0
+[13:34:27] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.2.0-SNAPSHOT-679
+[13:34:27] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.128
+[13:34:28] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
+
+[13:34:28] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms[m [0;36;1mv5.4.128[m
+
+[13:34:28] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
+
+[13:34:28] [Server thread/INFO]: [m
+
+[13:34:28] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[13:34:28] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[13:34:30] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[13:34:30] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[13:34:31] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 4435ms)
+[13:34:31] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[13:34:31] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[13:34:31] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[13:34:31] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[13:34:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:34:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:34:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:34:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:34:31] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[13:34:31] [Server thread/INFO]: Preparing level "world"
+[13:34:31] [Server thread/INFO]: -------- World Settings For [world] --------
+[13:34:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:34:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:34:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:34:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:34:31] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:34:31] [Server thread/INFO]: Anti X-Ray: true
+[13:34:31] [Server thread/INFO]: 	Engine Mode: 1
+[13:34:31] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[13:34:31] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[13:34:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:34:31] [Server thread/INFO]: View Distance: 10
+[13:34:31] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[13:34:31] [Server thread/INFO]: Clear tick list: false
+[13:34:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:34:31] [Server thread/INFO]: Max TNT Explosions: 100
+[13:34:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:34:31] [Server thread/INFO]: Max Entity Collisions: 8
+[13:34:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:34:31] [Server thread/INFO]: Structure Info Saving: true
+[13:34:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:34:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:34:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:34:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:34:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:34:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:34:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:34:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:34:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:34:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:34:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:34:31] [Server thread/INFO]: Random Lighting Updates: false
+[13:34:31] [Server thread/INFO]: Mob Spawn Range: 4
+[13:34:31] [Server thread/INFO]: Sending up to 10 chunks per packet
+[13:34:32] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[13:34:32] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:34:32] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:34:32] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:34:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:34:32] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:34:32] [Server thread/INFO]: Anti X-Ray: true
+[13:34:32] [Server thread/INFO]: 	Engine Mode: 1
+[13:34:32] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[13:34:32] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[13:34:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:34:32] [Server thread/INFO]: View Distance: 10
+[13:34:32] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[13:34:32] [Server thread/INFO]: Clear tick list: false
+[13:34:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:34:32] [Server thread/INFO]: Max TNT Explosions: 100
+[13:34:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:34:32] [Server thread/INFO]: Max Entity Collisions: 8
+[13:34:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:34:32] [Server thread/INFO]: Structure Info Saving: true
+[13:34:32] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:34:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:34:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:34:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:34:32] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:34:32] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:34:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:34:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:34:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:34:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:34:32] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:34:32] [Server thread/INFO]: Random Lighting Updates: false
+[13:34:32] [Server thread/INFO]: Mob Spawn Range: 4
+[13:34:32] [Server thread/INFO]: Sending up to 10 chunks per packet
+[13:34:32] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[13:34:32] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:34:32] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:34:32] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:34:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:34:32] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:34:32] [Server thread/INFO]: Anti X-Ray: true
+[13:34:32] [Server thread/INFO]: 	Engine Mode: 1
+[13:34:32] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[13:34:32] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[13:34:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:34:32] [Server thread/INFO]: View Distance: 10
+[13:34:32] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[13:34:32] [Server thread/INFO]: Clear tick list: false
+[13:34:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:34:32] [Server thread/INFO]: Max TNT Explosions: 100
+[13:34:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:34:32] [Server thread/INFO]: Max Entity Collisions: 8
+[13:34:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:34:32] [Server thread/INFO]: Structure Info Saving: true
+[13:34:32] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:34:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:34:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:34:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:34:32] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:34:32] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:34:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:34:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:34:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:34:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:34:32] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:34:32] [Server thread/INFO]: Random Lighting Updates: false
+[13:34:32] [Server thread/INFO]: Mob Spawn Range: 4
+[13:34:32] [Server thread/INFO]: Sending up to 10 chunks per packet
+[13:34:32] [Server thread/INFO]: Preparing start region for level 0 (Seed: 0)
+[13:34:33] [Server thread/INFO]: Preparing start region for level 1 (Seed: 0)
+[13:34:34] [Server thread/INFO]: Preparing spawn area: 20%
+[13:34:35] [Server thread/INFO]: Preparing spawn area: 80%
+[13:34:35] [Server thread/INFO]: Preparing start region for level 2 (Seed: 0)
+[13:34:36] [Server thread/INFO]: [Disguise] Enabling Disguise v1.1
+[13:34:36] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.9;caf0ad9
+[13:34:37] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[13:34:37] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[13:34:37] [Server thread/INFO]: [DeluxeHub] Enabling DeluxeHub v3.5.5
+[13:34:37] [Server thread/INFO]: [DeluxeHub]  _   _            _          _    _ 
+[13:34:37] [Server thread/INFO]: [DeluxeHub] | \ |_ |  | | \/ |_ |_| | | |_)   _)
+[13:34:37] [Server thread/INFO]: [DeluxeHub] |_/ |_ |_ |_| /\ |_ | | |_| |_)   _)
+[13:34:37] [Server thread/INFO]: [DeluxeHub] 
+[13:34:37] [Server thread/INFO]: [DeluxeHub] Version: 3.5.5
+[13:34:37] [Server thread/INFO]: [DeluxeHub] Author: ItsLewizzz
+[13:34:37] [Server thread/INFO]: [DeluxeHub] 
+[13:34:37] [Server thread/INFO]: [DeluxeHub] Loaded custom menu 'serverselector'.
+[13:34:38] [Server thread/INFO]: [NBTAPI] Found Spigot: v1_8_R3! Trying to find NMS support
+[13:34:38] [Server thread/INFO]: [NBTAPI] NMS support 'MC1_8_R3' loaded!
+[13:34:38] [Server thread/INFO]: [NBTAPI] Using the plugin 'DeluxeHub' to create a bStats instance!
+[13:34:38] [Server thread/INFO]: [DeluxeHub] Loaded 14 plugin modules.
+[13:34:38] [Server thread/INFO]: [DeluxeHub] 
+[13:34:38] [Server thread/INFO]: [DeluxeHub] Successfully loaded in 866ms
+[13:34:38] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.10.1
+[13:34:38] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v3.0.4
+[13:34:38] [Server thread/INFO]: [EnderSS] Enabling EnderSS v1.1.2
+[13:34:38] [Server thread/WARN]: [EnderSS] Could not save spigot.yml to plugins\EnderSS\spigot.yml because spigot.yml already exists.
+[13:34:39] [Server thread/INFO]: [EnderSS] §8§l§m------------------
+[13:34:39] [Server thread/INFO]: [EnderSS] 
+[13:34:39] [Server thread/INFO]: [EnderSS] §5§lEnderSS §8§l» §d§l1.1.1 §5by Endxxr
+[13:34:39] [Server thread/INFO]: [EnderSS] §8Running on SPIGOT
+[13:34:39] [Server thread/INFO]: [EnderSS] Enabling...
+[13:34:39] [Server thread/INFO]: [EnderSS] 
+[13:34:39] [Server thread/INFO]: [EnderSS] Checking for updates...
+[13:34:39] [Server thread/INFO]: [EnderSS] Checking for config updates...
+[13:34:39] [Server thread/INFO]: [EnderSS] Enabled.
+[13:34:39] [Server thread/INFO]: [EnderSS] §8§l§m------------------
+[13:34:39] [Server thread/WARN]: [EnderSS] Proxy mode is enabled. Some features won't work.
+[13:34:39] [Server thread/INFO]: [ChatManager] Enabling ChatManager v1.0
+[13:34:39] [Server thread/INFO]: [Freeze] Enabling Freeze v1.0
+[13:34:39] [Server thread/INFO]: [Vulcan] Enabling Vulcan v2.8.3
+[13:34:40] [Server thread/INFO]: [Vulcan] Server Version: 1.8.8 detected!
+[13:34:40] [Server thread/INFO]: [Vulcan] BStats enabled!
+[13:34:40] [Server thread/INFO]: [DeluxeChat] Enabling DeluxeChat v1.16.2
+[13:34:40] [Server thread/INFO]: ----------------------------
+
+[13:34:40] [Server thread/INFO]:      DeluxeChat ERROR
+
+[13:34:40] [Server thread/INFO]:  
+
+[13:34:40] [Server thread/INFO]: As of DeluxeChat 1.12.0, PlaceholderAPI is now required to be installed on your server.
+
+[13:34:40] [Server thread/INFO]: PlaceholderAPI now handles all parsing of placeholders within DeluxeChat.
+
+[13:34:40] [Server thread/INFO]:  
+
+[13:34:40] [Server thread/INFO]: Download PlaceholderAPI at https://www.spigotmc.org/resources/placeholderapi.6245/
+
+[13:34:40] [Server thread/INFO]: ----------------------------
+
+[13:34:40] [Server thread/ERROR]: Error occurred while enabling DeluxeChat v1.16.2 (Is it up to date?)
+java.lang.RuntimeException: Failed to detect PlaceholderAPI!
+	at me.clip.deluxechat.DeluxeChat.onEnable(DeluxeChat.java:124) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Thread.java:1570) [?:?]
+[13:34:40] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.33-SNAPSHOT (build 3277)
+[13:34:40] [Server thread/INFO]: [Citizens] Loading external libraries
+[13:34:41] [Server thread/INFO]: [Citizens] Loaded economy handling via Vault.
+[13:34:43] [Server thread/INFO]: [DeluxeMenus] Enabling DeluxeMenus v1.14.0-Release
+[13:34:43] [Server thread/ERROR]: [DeluxeMenus] Could not hook into PlaceholderAPI!
+DeluxeMenus will now disable!
+[13:34:43] [Server thread/INFO]: [DeluxeMenus] Disabling DeluxeMenus v1.14.0-Release
+[13:34:43] [Server thread/ERROR]: Error occurred while disabling DeluxeMenus v1.14.0-Release (Is it up to date?)
+java.lang.NullPointerException: Cannot invoke "java.util.Map.clear()" because "this.itemHooks" is null
+	at com.extendedclip.deluxemenus.DeluxeMenus.onDisable(DeluxeMenus.java:190) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:323) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:364) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:424) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at com.extendedclip.deluxemenus.DeluxeMenus.onEnable(DeluxeMenus.java:97) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Thread.java:1570) [?:?]
+[13:34:43] [Server thread/INFO]: [ServerNPC] Enabling ServerNPC v1.0.9
+[13:34:43] [Server thread/INFO]: [0;36;1mServerNPC [0;32;1mLoading ServerNPC... [0;33;1mv1.0.9[m
+
+[13:34:43] [Server thread/INFO]: [0;36;1mServerNPC [0;32;1mEnabled ServerNPC [0;33;1mv1.0.9[m
+
+[13:34:43] [Server thread/INFO]: [TAB] Enabling TAB v4.1.5
+[13:34:43] [Server thread/INFO]: [TAB] [0;37;22mLoaded NMS hook in 153ms[m
+
+[13:34:44] [Server thread/INFO]: [TAB] [0;32;1mEnabled in 720ms[m
+
+[13:34:44] [Server thread/INFO]: [Eyu-BungeeNPCs] Enabling Eyu-BungeeNPCs v5.1
+[13:34:44] [Server thread/INFO]: [0;36;1mBungeeNPCs - [0;32;1mLoading config files...[m
+
+[13:34:44] [Server thread/INFO]: [0;36;1mBungeeNPCs - [0;32;1mAll files loaded successfully![m
+
+[13:34:44] [Server thread/INFO]: [0;36;1mBungeeNPCs - [0;32;1mCitizens detected.[m
+
+[13:34:44] [Server thread/INFO]: [0;36;1mBungeeNPCs - [0;32;1mHolographicDisplays detected.[m
+
+[13:34:44] [Server thread/INFO]: [0;36;1mBungeeNPCs - [0;31;1mPlaceholderAPI not detected, skipping.[m
+
+[13:34:44] [Server thread/INFO]: [0;36;1mBungeeNPCs - [0;32;1mThere is a new update! (v5.1) Download URL: https://www.spigotmc.org/resources/44810[m
+
+[13:34:44] [Server thread/INFO]: [0;36;1mBungeeNPCs - [0;33;1mBungeeNPCs [0;37;22mby Esyui: [0;32;1menabled.[m
+
+[13:34:44] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v6.1.0
+[13:34:44] [Server thread/INFO]: [SuperVanish] Hooked into Citizens
+[13:34:44] [Server thread/INFO]: [LiteBans] Enabling LiteBans v2.12.0
+[13:34:44] [Server thread/INFO]: [36m[Spigotunlocked.com] - ElitePusher
+
+[13:34:45] [Server thread/INFO]: [0;33;22m[LiteBans] [0;31;1mCracked by [0;36;1mElitePusher [0;37;22m| [0;35;22mspigotunlocked.com[m
+
+[13:34:45] [Server thread/INFO]: [LiteBans] Using system locale (it)
+[13:34:45] [Server thread/INFO]: [LiteBans] Loaded 4 templates from templates.yml!
+[13:34:45] [Server thread/INFO]: [LiteBans] Loading SQL driver: h2 1.4.197 (org.h2.Driver)
+[13:34:45] [Server thread/INFO]: [LiteBans] Connecting to database...
+[13:34:45] [Server thread/INFO]: [LiteBans] litebans-pool - Starting...
+[13:34:45] [Server thread/INFO]: [LiteBans] litebans-pool - Start completed.
+[13:34:45] [Server thread/INFO]: [LiteBans] Connected to H2 database successfully (658,3 ms).
+[13:34:46] [Server thread/INFO]: [LiteBans] Database connection fully initialized (677,6 ms).
+[13:34:46] [Server thread/INFO]: [LiteBans] v2.12.0 enabled. Startup took 1005 ms.
+[13:34:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:34:46] [Server thread/INFO]: Done (14,980s)! For help, type "help" or "?"
+[13:34:46] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.8.x (47)
+[13:34:46] [Server thread/WARN]: [ViaVersion] This version of Minecraft is extremely outdated and support for it has reached its end of life. You will still be able to run Via on this Minecraft version, but we are unlikely to provide any further fixes or help with problems specific to legacy Minecraft versions. Please consider updating to give your players a better experience and to avoid issues that have long been fixed.
+[13:34:46] [Craft Scheduler Thread - 0/WARN]: [EnderSS] There is a new version available: 1.1.2
+[13:34:47] [Server thread/INFO]: [Citizens] Loaded 2 NPCs.
+[13:34:47] [Server thread/INFO]: [SuperVanish] Your current version of SuperVanish is outdated - New version: '6.2.18'; Currently: '6.1.0'
+[13:34:47] [Craft Scheduler Thread - 1/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[13:34:47] [Craft Scheduler Thread - 2/INFO]: [Vault] Checking for Updates ... 
+[13:34:47] [Craft Scheduler Thread - 2/INFO]: [Vault] No new version available
+[13:34:47] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 4.10.2, you're on: 4.10.1
+[13:35:16] [Thread-10/INFO]: UUID of player Osoiwain1 is 5ed1a27f-d173-3106-9bdb-568c290d6df6
+[13:35:16] [Server thread/WARN]: Failed to handle packet for /192.168.0.113:64129
+net.minecraft.server.v1_8_R3.ReportedException: Sending packet
+	at net.minecraft.server.v1_8_R3.PlayerConnection.sendPacket(PlayerConnection.java:921) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.PlayerList.a(PlayerList.java:137) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.LoginListener.b(LoginListener.java:144) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.LoginListener.c(LoginListener.java:54) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:231) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.ServerConnection.c(ServerConnection.java:148) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:814) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Thread.java:1570) [?:?]
+Caused by: java.lang.NullPointerException: type cannot be null
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:229) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at com.comphenix.protocol.injector.StructureCache.getStructure(StructureCache.java:138) ~[?:?]
+	at com.comphenix.protocol.events.PacketContainer.<init>(PacketContainer.java:126) ~[?:?]
+	at com.comphenix.protocol.injector.netty.manager.NetworkManagerInjector.onPacketSending(NetworkManagerInjector.java:96) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelInjector.processOutbound(NettyChannelInjector.java:553) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelInjector$2.doProxyRunnable(NettyChannelInjector.java:456) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.proxyRunnable(NettyEventLoopProxy.java:43) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.execute(NettyEventLoopProxy.java:252) ~[?:?]
+	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:192) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.NetworkManager.handle(NetworkManager.java:141) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.sendPacket(PlayerConnection.java:907) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	... 10 more
+[13:35:16] [Server thread/INFO]: Osoiwain1 lost connection: Disconnected
+[13:35:16] [Server thread/INFO]: - Osoiwain1 Disconnected
+[13:35:28] [Thread-11/INFO]: UUID of player Osoiwain1 is 5ed1a27f-d173-3106-9bdb-568c290d6df6
+[13:35:28] [Server thread/INFO]: Osoiwain1[/192.168.0.113:64153] logged in with entity id 19 at ([world]-32.31666672545937, 143.0, 1.4113925625893322)
+[13:35:42] [Thread-12/INFO]: UUID of player mirco54654 is e302a0af-f995-32f0-88e6-c000cb8ca430
+[13:35:42] [Server thread/INFO]: mirco54654[/192.168.0.113:64211] logged in with entity id 21 at ([world]-32.31666672545937, 143.0, 1.4113925625893322)
+[13:35:54] [Server thread/INFO]: mirco54654 issued server command: /vulcan
+[13:36:09] [Server thread/INFO]: mirco54654 issued server command: /alerts
+[13:36:09] [Server thread/INFO]: mirco54654 issued server command: /alerts
+[13:36:19] [Server thread/WARN]: Osoiwain1 moved too quickly! 8.88518526707837,-93.5,-95.1113925506684 (8.88518526707837, -93.5, -95.1113925506684)
+[13:36:23] [pool-15-thread-1/INFO]: [Vulcan] Osoiwain1 failed Bad Packets (Type B) (1/1)
+[13:36:24] [Server thread/INFO]: Osoiwain1 lost connection: Kicked by Console§r: §c[Vulcan] Unfair Advantage
+[13:36:24] [Server thread/INFO]: - Osoiwain1 Disconnected
+[13:36:24] [Server thread/INFO]: [0;33;22mOsoiwain1 has been kicked.[m
+
+[13:36:24] [Server thread/INFO]: [0;32;1mOsoiwain1[0;37;1m was kicked by [0;32;1mConsole[m[0;37;1m for '[0;32;1m[0;31;1m[Vulcan] Unfair Advantage[0;37;1m'.[m
+
+[13:36:24] [Server thread/WARN]: handleDisconnection() called twice
+[13:36:56] [Thread-13/INFO]: UUID of player Osoiwain1 is 5ed1a27f-d173-3106-9bdb-568c290d6df6
+[13:36:56] [Server thread/INFO]: Osoiwain1[/192.168.0.113:64299] logged in with entity id 22 at ([world]-32.31666672545937, 143.0, 1.4113925625893322)
+[13:37:52] [Server thread/INFO]: Osoiwain1 lost connection: Disconnected
+[13:37:52] [Server thread/INFO]: - Osoiwain1 Disconnected
+[13:38:21] [Server thread/INFO]: mirco54654 lost connection: Disconnected
+[13:38:21] [Server thread/INFO]: - mirco54654 Disconnected
+[13:38:43] [Thread-14/INFO]: UUID of player mirco54654 is e302a0af-f995-32f0-88e6-c000cb8ca430
+[13:38:46] [Server thread/INFO]: mirco54654[/192.168.0.113:51288] logged in with entity id 23 at ([world]-32.31666672545937, 143.0, 1.4113925625893322)
+[13:40:19] [Thread-16/INFO]: UUID of player Osoiwain1 is 5ed1a27f-d173-3106-9bdb-568c290d6df6
+[13:40:20] [Server thread/INFO]: Osoiwain1[/192.168.0.113:51515] logged in with entity id 24 at ([world]-32.31666672545937, 143.0, 1.4113925625893322)
+[13:40:30] [Server thread/INFO]: mirco54654 issued server command: /alerts
+[13:40:31] [Server thread/INFO]: mirco54654 issued server command: /alerts
+[13:40:43] [pool-15-thread-1/INFO]: [Vulcan] Osoiwain1 failed Aim (Type B) (1/8)
+[13:40:45] [pool-15-thread-1/INFO]: [Vulcan] Osoiwain1 failed Aim (Type B) (2/8)
+[13:40:49] [pool-15-thread-1/INFO]: [Vulcan] Osoiwain1 failed Aim (Type X) (1/5)
+[13:40:51] [pool-15-thread-1/INFO]: [Vulcan] Osoiwain1 failed Aim (Type B) (3/8)
+[13:40:51] [pool-15-thread-1/INFO]: [Vulcan] Osoiwain1 failed Aim (Type X) (2/5)
+[13:40:51] [pool-15-thread-1/INFO]: [Vulcan] Osoiwain1 failed Aim (Type B) (4/8)
+[13:40:52] [pool-15-thread-1/INFO]: [Vulcan] Osoiwain1 failed Aim (Type Y) (1/5)
+[13:40:52] [pool-15-thread-1/INFO]: [Vulcan] Osoiwain1 failed Aim (Type B) (5/8)
+[13:40:53] [pool-15-thread-1/INFO]: [Vulcan] Osoiwain1 failed Aim (Type B) (6/8)
+[13:40:53] [pool-15-thread-1/INFO]: [Vulcan] Osoiwain1 failed Aim (Type X) (3/5)
+[13:41:32] [pool-15-thread-1/INFO]: [Vulcan] Osoiwain1 failed Bad Packets (Type B) (1/1)
+[13:41:33] [Server thread/INFO]: Osoiwain1 lost connection: Kicked by Console§r: §c[Vulcan] Unfair Advantage
+[13:41:33] [Server thread/INFO]: - Osoiwain1 Disconnected
+[13:41:33] [Server thread/INFO]: [0;33;22mOsoiwain1 has been kicked.[m
+
+[13:41:33] [Server thread/INFO]: [0;32;1mOsoiwain1[0;37;1m was kicked by [0;32;1mConsole[m[0;37;1m for '[0;32;1m[0;31;1m[Vulcan] Unfair Advantage[0;37;1m'.[m
+
+[13:41:33] [Server thread/WARN]: handleDisconnection() called twice
+[13:41:41] [Thread-17/INFO]: UUID of player Osoiwain1 is 5ed1a27f-d173-3106-9bdb-568c290d6df6
+[13:41:42] [Server thread/INFO]: Osoiwain1[/192.168.0.113:49505] logged in with entity id 25 at ([world]-32.31666672545937, 143.0, 1.4113925625893322)
+[13:41:44] [pool-15-thread-1/INFO]: [Vulcan] Osoiwain1 failed Bad Packets (Type B) (1/1)
+[13:41:44] [Server thread/INFO]: Osoiwain1 lost connection: Kicked by Console§r: §c[Vulcan] Unfair Advantage
+[13:41:44] [Server thread/INFO]: - Osoiwain1 Disconnected
+[13:41:44] [Server thread/INFO]: [0;33;22mOsoiwain1 has been kicked.[m
+
+[13:41:44] [Server thread/INFO]: [0;32;1mOsoiwain1[0;37;1m was kicked by [0;32;1mConsole[m[0;37;1m for '[0;32;1m[0;31;1m[Vulcan] Unfair Advantage[0;37;1m'.[m
+
+[13:41:44] [Server thread/WARN]: handleDisconnection() called twice
+[13:42:16] [Thread-18/INFO]: UUID of player Osoiwain1 is 5ed1a27f-d173-3106-9bdb-568c290d6df6
+[13:42:17] [Server thread/WARN]: Failed to handle packet for /192.168.0.113:49583
+net.minecraft.server.v1_8_R3.ReportedException: Sending packet
+	at net.minecraft.server.v1_8_R3.PlayerConnection.sendPacket(PlayerConnection.java:921) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.PlayerList.a(PlayerList.java:137) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.LoginListener.b(LoginListener.java:144) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.LoginListener.c(LoginListener.java:54) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:231) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.ServerConnection.c(ServerConnection.java:148) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:814) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Thread.java:1570) [?:?]
+Caused by: java.lang.NullPointerException: type cannot be null
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:229) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at com.comphenix.protocol.injector.StructureCache.getStructure(StructureCache.java:138) ~[?:?]
+	at com.comphenix.protocol.events.PacketContainer.<init>(PacketContainer.java:126) ~[?:?]
+	at com.comphenix.protocol.injector.netty.manager.NetworkManagerInjector.onPacketSending(NetworkManagerInjector.java:96) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelInjector.processOutbound(NettyChannelInjector.java:553) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyChannelInjector$2.doProxyRunnable(NettyChannelInjector.java:456) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.proxyRunnable(NettyEventLoopProxy.java:43) ~[?:?]
+	at com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.execute(NettyEventLoopProxy.java:252) ~[?:?]
+	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:192) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.NetworkManager.handle(NetworkManager.java:141) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.sendPacket(PlayerConnection.java:907) ~[spigot.jar:git-Spigot-21fe707-741a1bd]
+	... 10 more
+[13:42:17] [Server thread/INFO]: Osoiwain1 lost connection: Internal server error
+[13:42:17] [Server thread/INFO]: - Osoiwain1 Disconnected
+[13:42:40] [Thread-19/INFO]: UUID of player Osoiwain1 is 5ed1a27f-d173-3106-9bdb-568c290d6df6
+[13:42:40] [Server thread/INFO]: Osoiwain1[/192.168.0.113:49601] logged in with entity id 27 at ([world]-32.31666672545937, 143.0, 1.4113925625893322)
+[13:48:45] [Server thread/INFO]: Osoiwain1 lost connection: Disconnected
+[13:48:46] [Server thread/INFO]: - Osoiwain1 Disconnected
+[13:49:10] [Thread-20/INFO]: UUID of player Osoiwain1 is 5ed1a27f-d173-3106-9bdb-568c290d6df6
+[13:49:11] [Server thread/INFO]: Osoiwain1[/192.168.0.113:49962] logged in with entity id 28 at ([world]-32.31666672545937, 143.0, 1.4113925625893322)
+[13:49:15] [pool-15-thread-1/INFO]: [Vulcan] Osoiwain1 failed Bad Packets (Type B) (1/1)
+[13:49:15] [Server thread/INFO]: Osoiwain1 lost connection: Kicked by Console§r: §c[Vulcan] Unfair Advantage
+[13:49:15] [Server thread/INFO]: - Osoiwain1 Disconnected
+[13:49:15] [Server thread/INFO]: [0;33;22mOsoiwain1 has been kicked.[m
+
+[13:49:15] [Server thread/INFO]: [0;32;1mOsoiwain1[0;37;1m was kicked by [0;32;1mConsole[m[0;37;1m for '[0;32;1m[0;31;1m[Vulcan] Unfair Advantage[0;37;1m'.[m
+
+[13:49:16] [Server thread/WARN]: handleDisconnection() called twice
+[13:49:20] [Thread-21/INFO]: UUID of player Osoiwain1 is 5ed1a27f-d173-3106-9bdb-568c290d6df6
+[13:49:20] [Server thread/INFO]: Osoiwain1[/192.168.0.113:49977] logged in with entity id 29 at ([world]-32.31666672545937, 143.0, 1.4113925625893322)
+[13:49:21] [pool-15-thread-1/INFO]: [Vulcan] Osoiwain1 failed Bad Packets (Type B) (1/1)
+[13:49:21] [Server thread/INFO]: Osoiwain1 lost connection: Kicked by Console§r: §c[Vulcan] Unfair Advantage
+[13:49:21] [Server thread/INFO]: - Osoiwain1 Disconnected
+[13:49:21] [Server thread/INFO]: [0;33;22mOsoiwain1 has been kicked.[m
+
+[13:49:21] [Server thread/INFO]: [0;32;1mOsoiwain1[0;37;1m was kicked by [0;32;1mConsole[m[0;37;1m for '[0;32;1m[0;31;1m[Vulcan] Unfair Advantage[0;37;1m'.[m
+
+[13:49:21] [Server thread/WARN]: handleDisconnection() called twice
+[13:59:45] [Server thread/INFO]: mirco54654 issued server command: /vulcan reload
+[13:59:46] [Server thread/ERROR]: [Vulcan] Could not save: config.yml
+[13:59:46] [Server thread/ERROR]: [Vulcan] Regenerating file and renaming the current file to: config.broken.1717243186202
+[13:59:46] [Server thread/ERROR]: [Vulcan] You can try fixing the file with a yaml parser online!
+[14:00:05] [Thread-22/INFO]: UUID of player Osoiwain1 is 5ed1a27f-d173-3106-9bdb-568c290d6df6
+[14:00:06] [Server thread/INFO]: Osoiwain1[/192.168.0.113:49945] logged in with entity id 30 at ([world]-32.31666672545937, 143.0, 1.4113925625893322)
+[14:00:34] [pool-15-thread-1/INFO]: [Vulcan] Osoiwain1 failed Step (Type A) (1/5)
+[14:00:34] [pool-15-thread-1/INFO]: [Vulcan] Osoiwain1 failed Step (Type A) (2/5)
+[14:00:34] [pool-15-thread-1/INFO]: [Vulcan] Osoiwain1 failed Step (Type A) (3/5)
+[14:00:35] [pool-15-thread-1/INFO]: [Vulcan] Osoiwain1 failed Step (Type A) (4/5)
+[14:00:36] [pool-15-thread-1/INFO]: [Vulcan] Osoiwain1 failed Bad Packets (Type B) (1/1)
+[14:00:36] [Server thread/INFO]: Osoiwain1 lost connection: Kicked by Console§r: §c[Vulcan] Unfair Advantage
+[14:00:37] [Server thread/INFO]: - Osoiwain1 Disconnected
+[14:00:37] [Server thread/INFO]: [0;33;22mOsoiwain1 has been kicked.[m
+
+[14:00:37] [Server thread/INFO]: [0;32;1mOsoiwain1[0;37;1m was kicked by [0;32;1mConsole[m[0;37;1m for '[0;32;1m[0;31;1m[Vulcan] Unfair Advantage[0;37;1m'.[m
+
+[14:00:37] [Server thread/WARN]: handleDisconnection() called twice
